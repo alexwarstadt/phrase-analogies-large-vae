@@ -1,0 +1,910 @@
+,a,grammatical,b
+0,There blazed in the fireplace a fire.,1,A fire blazed in the fireplace.
+1,There blazed in the oven a fire.,1,A fire blazed in the oven.
+2,There blazed on the stove a fire.,1,A fire blazed on the stove.
+3,There blazed in the fireplace a coal.,1,A coal blazed in the fireplace.
+4,There blazed in the oven a coal.,1,A coal blazed in the oven.
+5,There blazed on the stove a coal.,1,A coal blazed on the stove.
+6,There blazed in the fireplace a log.,1,A log blazed in the fireplace.
+7,There blazed in the oven a log.,1,A log blazed in the oven.
+8,There blazed on the stove a log.,1,A log blazed on the stove.
+9,There burned in the fireplace a fire.,1,A fire burned in the fireplace.
+10,There burned in the oven a fire.,1,A fire burned in the oven.
+11,There burned on the stove a fire.,1,A fire burned on the stove.
+12,There burned in the fireplace a coal.,1,A coal burned in the fireplace.
+13,There burned in the oven a coal.,1,A coal burned in the oven.
+14,There burned on the stove a coal.,1,A coal burned on the stove.
+15,There burned in the fireplace a log.,1,A log burned in the fireplace.
+16,There burned in the oven a log.,1,A log burned in the oven.
+17,There burned on the stove a log.,1,A log burned on the stove.
+18,There crackled in the fireplace a fire.,1,A fire crackled in the fireplace.
+19,There crackled in the oven a fire.,1,A fire crackled in the oven.
+20,There crackled on the stove a fire.,1,A fire crackled on the stove.
+21,There crackled in the fireplace a coal.,1,A coal crackled in the fireplace.
+22,There crackled in the oven a coal.,1,A coal crackled in the oven.
+23,There crackled on the stove a coal.,1,A coal crackled on the stove.
+24,There crackled in the fireplace a log.,1,A log crackled in the fireplace.
+25,There crackled in the oven a log.,1,A log crackled in the oven.
+26,There crackled on the stove a log.,1,A log crackled on the stove.
+27,There smoldered in the fireplace a fire.,1,A fire smoldered in the fireplace.
+28,There smoldered in the oven a fire.,1,A fire smoldered in the oven.
+29,There smoldered on the stove a fire.,1,A fire smoldered on the stove.
+30,There smoldered in the fireplace a coal.,1,A coal smoldered in the fireplace.
+31,There smoldered in the oven a coal.,1,A coal smoldered in the oven.
+32,There smoldered on the stove a coal.,1,A coal smoldered on the stove.
+33,There smoldered in the fireplace a log.,1,A log smoldered in the fireplace.
+34,There smoldered in the oven a log.,1,A log smoldered in the oven.
+35,There smoldered on the stove a log.,1,A log smoldered on the stove.
+36,There grew at the edge of the cliff an orchid.,1,An orchid grew at the edge of the cliff.
+37,There grew on the mountain an orchid.,1,An orchid grew on the mountain.
+38,There grew at the edge of the cliff a cactus.,1,A cactus grew at the edge of the cliff.
+39,There grew on the mountain a cactus.,1,A cactus grew on the mountain.
+40,There grew at the edge of the cliff a tree.,1,A tree grew at the edge of the cliff.
+41,There grew on the mountain a tree.,1,A tree grew on the mountain.
+42,There thrived at the edge of the cliff an orchid.,1,An orchid thrived at the edge of the cliff.
+43,There thrived on the mountain an orchid.,1,An orchid thrived on the mountain.
+44,There thrived at the edge of the cliff a cactus.,1,A cactus thrived at the edge of the cliff.
+45,There thrived on the mountain a cactus.,1,A cactus thrived on the mountain.
+46,There thrived at the edge of the cliff a tree.,1,A tree thrived at the edge of the cliff.
+47,There thrived on the mountain a tree.,1,A tree thrived on the mountain.
+48,There clung at the edge of the cliff an orchid.,1,An orchid clung at the edge of the cliff.
+49,There clung on the mountain an orchid.,1,An orchid clung on the mountain.
+50,There clung at the edge of the cliff a cactus.,1,A cactus clung at the edge of the cliff.
+51,There clung on the mountain a cactus.,1,A cactus clung on the mountain.
+52,There clung at the edge of the cliff a tree.,1,A tree clung at the edge of the cliff.
+53,There clung on the mountain a tree.,1,A tree clung on the mountain.
+54,There decayed in the gutter a dead rat.,1,A dead rat decayed in the gutter.
+55,There decayed on the forest floor a dead rat.,1,A dead rat decayed on the forest floor.
+56,There decayed in the shadows a dead rat.,1,A dead rat decayed in the shadows.
+57,There decayed in the gutter a forgotten apple.,1,A forgotten apple decayed in the gutter.
+58,There decayed on the forest floor a forgotten apple.,1,A forgotten apple decayed on the forest floor.
+59,There decayed in the shadows a forgotten apple.,1,A forgotten apple decayed in the shadows.
+60,There decayed in the gutter a strawberry.,1,A strawberry decayed in the gutter.
+61,There decayed on the forest floor a strawberry.,1,A strawberry decayed on the forest floor.
+62,There decayed in the shadows a strawberry.,1,A strawberry decayed in the shadows.
+63,There decayed in the gutter an old log.,1,An old log decayed in the gutter.
+64,There decayed on the forest floor an old log.,1,An old log decayed on the forest floor.
+65,There decayed in the shadows an old log.,1,An old log decayed in the shadows.
+66,There festered in the gutter a dead rat.,1,A dead rat festered in the gutter.
+67,There festered on the forest floor a dead rat.,1,A dead rat festered on the forest floor.
+68,There festered in the shadows a dead rat.,1,A dead rat festered in the shadows.
+69,There festered in the gutter a forgotten apple.,1,A forgotten apple festered in the gutter.
+70,There festered on the forest floor a forgotten apple.,1,A forgotten apple festered on the forest floor.
+71,There festered in the shadows a forgotten apple.,1,A forgotten apple festered in the shadows.
+72,There festered in the gutter a strawberry.,1,A strawberry festered in the gutter.
+73,There festered on the forest floor a strawberry.,1,A strawberry festered on the forest floor.
+74,There festered in the shadows a strawberry.,1,A strawberry festered in the shadows.
+75,There festered in the gutter an old log.,1,An old log festered in the gutter.
+76,There festered on the forest floor an old log.,1,An old log festered on the forest floor.
+77,There festered in the shadows an old log.,1,An old log festered in the shadows.
+78,There rotted in the gutter a dead rat.,1,A dead rat rotted in the gutter.
+79,There rotted on the forest floor a dead rat.,1,A dead rat rotted on the forest floor.
+80,There rotted in the shadows a dead rat.,1,A dead rat rotted in the shadows.
+81,There rotted in the gutter a forgotten apple.,1,A forgotten apple rotted in the gutter.
+82,There rotted on the forest floor a forgotten apple.,1,A forgotten apple rotted on the forest floor.
+83,There rotted in the shadows a forgotten apple.,1,A forgotten apple rotted in the shadows.
+84,There rotted in the gutter a strawberry.,1,A strawberry rotted in the gutter.
+85,There rotted on the forest floor a strawberry.,1,A strawberry rotted on the forest floor.
+86,There rotted in the shadows a strawberry.,1,A strawberry rotted in the shadows.
+87,There rotted in the gutter an old log.,1,An old log rotted in the gutter.
+88,There rotted on the forest floor an old log.,1,An old log rotted on the forest floor.
+89,There rotted in the shadows an old log.,1,An old log rotted in the shadows.
+90,There decomposed in the gutter a dead rat.,1,A dead rat decomposed in the gutter.
+91,There decomposed on the forest floor a dead rat.,1,A dead rat decomposed on the forest floor.
+92,There decomposed in the shadows a dead rat.,1,A dead rat decomposed in the shadows.
+93,There decomposed in the gutter a forgotten apple.,1,A forgotten apple decomposed in the gutter.
+94,There decomposed on the forest floor a forgotten apple.,1,A forgotten apple decomposed on the forest floor.
+95,There decomposed in the shadows a forgotten apple.,1,A forgotten apple decomposed in the shadows.
+96,There decomposed in the gutter a strawberry.,1,A strawberry decomposed in the gutter.
+97,There decomposed on the forest floor a strawberry.,1,A strawberry decomposed on the forest floor.
+98,There decomposed in the shadows a strawberry.,1,A strawberry decomposed in the shadows.
+99,There decomposed in the gutter an old log.,1,An old log decomposed in the gutter.
+100,There decomposed on the forest floor an old log.,1,An old log decomposed on the forest floor.
+101,There decomposed in the shadows an old log.,1,An old log decomposed in the shadows.
+102,There existed in our minds several concerns.,1,Several concerns existed in our minds.
+103,There existed in our minds some hope.,1,Some hope existed in our minds.
+104,There existed in our minds several issues.,1,Several issues existed in our minds.
+105,There existed in our minds some questions.,1,Some questions existed in our minds.
+106,There remained in our minds several concerns.,1,Several concerns remained in our minds.
+107,There remained in our minds some hope.,1,Some hope remained in our minds.
+108,There remained in our minds several issues.,1,Several issues remained in our minds.
+109,There remained in our minds some questions.,1,Some questions remained in our minds.
+110,There persisted in our minds several concerns.,1,Several concerns persisted in our minds.
+111,There persisted in our minds some hope.,1,Some hope persisted in our minds.
+112,There persisted in our minds several issues.,1,Several issues persisted in our minds.
+113,There persisted in our minds some questions.,1,Some questions persisted in our minds.
+114,There dwelled at the edge of the cliff two families.,1,Two families dwelled at the edge of the cliff.
+115,There dwelled in the house two families.,1,Two families dwelled in the house.
+116,There dwelled in the apartment two families.,1,Two families dwelled in the apartment.
+117,There dwelled in the town two families.,1,Two families dwelled in the town.
+118,There dwelled at the edge of the cliff a colony of ants.,1,A colony of ants dwelled at the edge of the cliff.
+119,There dwelled in the house a colony of ants.,1,A colony of ants dwelled in the house.
+120,There dwelled in the apartment a colony of ants.,1,A colony of ants dwelled in the apartment.
+121,There dwelled in the town a colony of ants.,1,A colony of ants dwelled in the town.
+122,There dwelled at the edge of the cliff some bats.,1,Some bats dwelled at the edge of the cliff.
+123,There dwelled in the house some bats.,1,Some bats dwelled in the house.
+124,There dwelled in the apartment some bats.,1,Some bats dwelled in the apartment.
+125,There dwelled in the town some bats.,1,Some bats dwelled in the town.
+126,There dwelled at the edge of the cliff an indigenous group.,1,An indigenous group dwelled at the edge of the cliff.
+127,There dwelled in the house an indigenous group.,1,An indigenous group dwelled in the house.
+128,There dwelled in the apartment an indigenous group.,1,An indigenous group dwelled in the apartment.
+129,There dwelled in the town an indigenous group.,1,An indigenous group dwelled in the town.
+130,There lived at the edge of the cliff two families.,1,Two families lived at the edge of the cliff.
+131,There lived in the house two families.,1,Two families lived in the house.
+132,There lived in the apartment two families.,1,Two families lived in the apartment.
+133,There lived in the town two families.,1,Two families lived in the town.
+134,There lived at the edge of the cliff a colony of ants.,1,A colony of ants lived at the edge of the cliff.
+135,There lived in the house a colony of ants.,1,A colony of ants lived in the house.
+136,There lived in the apartment a colony of ants.,1,A colony of ants lived in the apartment.
+137,There lived in the town a colony of ants.,1,A colony of ants lived in the town.
+138,There lived at the edge of the cliff some bats.,1,Some bats lived at the edge of the cliff.
+139,There lived in the house some bats.,1,Some bats lived in the house.
+140,There lived in the apartment some bats.,1,Some bats lived in the apartment.
+141,There lived in the town some bats.,1,Some bats lived in the town.
+142,There lived at the edge of the cliff an indigenous group.,1,An indigenous group lived at the edge of the cliff.
+143,There lived in the house an indigenous group.,1,An indigenous group lived in the house.
+144,There lived in the apartment an indigenous group.,1,An indigenous group lived in the apartment.
+145,There lived in the town an indigenous group.,1,An indigenous group lived in the town.
+146,There resided at the edge of the cliff two families.,1,Two families resided at the edge of the cliff.
+147,There resided in the house two families.,1,Two families resided in the house.
+148,There resided in the apartment two families.,1,Two families resided in the apartment.
+149,There resided in the town two families.,1,Two families resided in the town.
+150,There resided at the edge of the cliff a colony of ants.,1,A colony of ants resided at the edge of the cliff.
+151,There resided in the house a colony of ants.,1,A colony of ants resided in the house.
+152,There resided in the apartment a colony of ants.,1,A colony of ants resided in the apartment.
+153,There resided in the town a colony of ants.,1,A colony of ants resided in the town.
+154,There resided at the edge of the cliff some bats.,1,Some bats resided at the edge of the cliff.
+155,There resided in the house some bats.,1,Some bats resided in the house.
+156,There resided in the apartment some bats.,1,Some bats resided in the apartment.
+157,There resided in the town some bats.,1,Some bats resided in the town.
+158,There resided at the edge of the cliff an indigenous group.,1,An indigenous group resided at the edge of the cliff.
+159,There resided in the house an indigenous group.,1,An indigenous group resided in the house.
+160,There resided in the apartment an indigenous group.,1,An indigenous group resided in the apartment.
+161,There resided in the town an indigenous group.,1,An indigenous group resided in the town.
+162,There settled at the edge of the cliff two families.,1,Two families settled at the edge of the cliff.
+163,There settled in the house two families.,1,Two families settled in the house.
+164,There settled in the apartment two families.,1,Two families settled in the apartment.
+165,There settled in the town two families.,1,Two families settled in the town.
+166,There settled at the edge of the cliff a colony of ants.,1,A colony of ants settled at the edge of the cliff.
+167,There settled in the house a colony of ants.,1,A colony of ants settled in the house.
+168,There settled in the apartment a colony of ants.,1,A colony of ants settled in the apartment.
+169,There settled in the town a colony of ants.,1,A colony of ants settled in the town.
+170,There settled at the edge of the cliff some bats.,1,Some bats settled at the edge of the cliff.
+171,There settled in the house some bats.,1,Some bats settled in the house.
+172,There settled in the apartment some bats.,1,Some bats settled in the apartment.
+173,There settled in the town some bats.,1,Some bats settled in the town.
+174,There settled at the edge of the cliff an indigenous group.,1,An indigenous group settled at the edge of the cliff.
+175,There settled in the house an indigenous group.,1,An indigenous group settled in the house.
+176,There settled in the apartment an indigenous group.,1,An indigenous group settled in the apartment.
+177,There settled in the town an indigenous group.,1,An indigenous group settled in the town.
+178,There coexisted at the edge of the cliff two families.,1,Two families coexisted at the edge of the cliff.
+179,There coexisted in the house two families.,1,Two families coexisted in the house.
+180,There coexisted in the apartment two families.,1,Two families coexisted in the apartment.
+181,There coexisted in the town two families.,1,Two families coexisted in the town.
+182,There coexisted at the edge of the cliff a colony of ants.,1,A colony of ants coexisted at the edge of the cliff.
+183,There coexisted in the house a colony of ants.,1,A colony of ants coexisted in the house.
+184,There coexisted in the apartment a colony of ants.,1,A colony of ants coexisted in the apartment.
+185,There coexisted in the town a colony of ants.,1,A colony of ants coexisted in the town.
+186,There coexisted at the edge of the cliff some bats.,1,Some bats coexisted at the edge of the cliff.
+187,There coexisted in the house some bats.,1,Some bats coexisted in the house.
+188,There coexisted in the apartment some bats.,1,Some bats coexisted in the apartment.
+189,There coexisted in the town some bats.,1,Some bats coexisted in the town.
+190,There coexisted at the edge of the cliff an indigenous group.,1,An indigenous group coexisted at the edge of the cliff.
+191,There coexisted in the house an indigenous group.,1,An indigenous group coexisted in the house.
+192,There coexisted in the apartment an indigenous group.,1,An indigenous group coexisted in the apartment.
+193,There coexisted in the town an indigenous group.,1,An indigenous group coexisted in the town.
+194,There loomed over the edge of the cliff a boulder.,1,A boulder loomed over the edge of the cliff.
+195,There loomed over the river a boulder.,1,A boulder loomed over the river.
+196,There loomed above the walkway a boulder.,1,A boulder loomed above the walkway.
+197,There loomed over the edge of the cliff a bridge.,1,A bridge loomed over the edge of the cliff.
+198,There loomed over the river a bridge.,1,A bridge loomed over the river.
+199,There loomed above the walkway a bridge.,1,A bridge loomed above the walkway.
+200,There loomed over the edge of the cliff a branch.,1,A branch loomed over the edge of the cliff.
+201,There loomed over the river a branch.,1,A branch loomed over the river.
+202,There loomed above the walkway a branch.,1,A branch loomed above the walkway.
+203,There projected over the edge of the cliff a boulder.,1,A boulder projected over the edge of the cliff.
+204,There projected over the river a boulder.,1,A boulder projected over the river.
+205,There projected above the walkway a boulder.,1,A boulder projected above the walkway.
+206,There projected over the edge of the cliff a bridge.,1,A bridge projected over the edge of the cliff.
+207,There projected over the river a bridge.,1,A bridge projected over the river.
+208,There projected above the walkway a bridge.,1,A bridge projected above the walkway.
+209,There projected over the edge of the cliff a branch.,1,A branch projected over the edge of the cliff.
+210,There projected over the river a branch.,1,A branch projected over the river.
+211,There projected above the walkway a branch.,1,A branch projected above the walkway.
+212,There protruded over the edge of the cliff a boulder.,1,A boulder protruded over the edge of the cliff.
+213,There protruded over the river a boulder.,1,A boulder protruded over the river.
+214,There protruded above the walkway a boulder.,1,A boulder protruded above the walkway.
+215,There protruded over the edge of the cliff a bridge.,1,A bridge protruded over the edge of the cliff.
+216,There protruded over the river a bridge.,1,A bridge protruded over the river.
+217,There protruded above the walkway a bridge.,1,A bridge protruded above the walkway.
+218,There protruded over the edge of the cliff a branch.,1,A branch protruded over the edge of the cliff.
+219,There protruded over the river a branch.,1,A branch protruded over the river.
+220,There protruded above the walkway a branch.,1,A branch protruded above the walkway.
+221,There hovered over the edge of the cliff a boulder.,1,A boulder hovered over the edge of the cliff.
+222,There hovered over the river a boulder.,1,A boulder hovered over the river.
+223,There hovered above the walkway a boulder.,1,A boulder hovered above the walkway.
+224,There hovered over the edge of the cliff a bridge.,1,A bridge hovered over the edge of the cliff.
+225,There hovered over the river a bridge.,1,A bridge hovered over the river.
+226,There hovered above the walkway a bridge.,1,A bridge hovered above the walkway.
+227,There hovered over the edge of the cliff a branch.,1,A branch hovered over the edge of the cliff.
+228,There hovered over the river a branch.,1,A branch hovered over the river.
+229,There hovered above the walkway a branch.,1,A branch hovered above the walkway.
+230,There crouched next to the church a boy.,1,A boy crouched next to the church.
+231,There crouched in the plaza a boy.,1,A boy crouched in the plaza.
+232,There crouched on the stoop a boy.,1,A boy crouched on the stoop.
+233,There crouched next to the church a statue.,1,A statue crouched next to the church.
+234,There crouched in the plaza a statue.,1,A statue crouched in the plaza.
+235,There crouched on the stoop a statue.,1,A statue crouched on the stoop.
+236,There crouched next to the church a dog.,1,A dog crouched next to the church.
+237,There crouched in the plaza a dog.,1,A dog crouched in the plaza.
+238,There crouched on the stoop a dog.,1,A dog crouched on the stoop.
+239,There crouched next to the church a sparrow.,1,A sparrow crouched next to the church.
+240,There crouched in the plaza a sparrow.,1,A sparrow crouched in the plaza.
+241,There crouched on the stoop a sparrow.,1,A sparrow crouched on the stoop.
+242,There kneeled next to the church a boy.,1,A boy kneeled next to the church.
+243,There kneeled in the plaza a boy.,1,A boy kneeled in the plaza.
+244,There kneeled on the stoop a boy.,1,A boy kneeled on the stoop.
+245,There kneeled next to the church a statue.,1,A statue kneeled next to the church.
+246,There kneeled in the plaza a statue.,1,A statue kneeled in the plaza.
+247,There kneeled on the stoop a statue.,1,A statue kneeled on the stoop.
+248,There kneeled next to the church a dog.,1,A dog kneeled next to the church.
+249,There kneeled in the plaza a dog.,1,A dog kneeled in the plaza.
+250,There kneeled on the stoop a dog.,1,A dog kneeled on the stoop.
+251,There kneeled next to the church a sparrow.,1,A sparrow kneeled next to the church.
+252,There kneeled in the plaza a sparrow.,1,A sparrow kneeled in the plaza.
+253,There kneeled on the stoop a sparrow.,1,A sparrow kneeled on the stoop.
+254,There squatted next to the church a boy.,1,A boy squatted next to the church.
+255,There squatted in the plaza a boy.,1,A boy squatted in the plaza.
+256,There squatted on the stoop a boy.,1,A boy squatted on the stoop.
+257,There squatted next to the church a statue.,1,A statue squatted next to the church.
+258,There squatted in the plaza a statue.,1,A statue squatted in the plaza.
+259,There squatted on the stoop a statue.,1,A statue squatted on the stoop.
+260,There squatted next to the church a dog.,1,A dog squatted next to the church.
+261,There squatted in the plaza a dog.,1,A dog squatted in the plaza.
+262,There squatted on the stoop a dog.,1,A dog squatted on the stoop.
+263,There squatted next to the church a sparrow.,1,A sparrow squatted next to the church.
+264,There squatted in the plaza a sparrow.,1,A sparrow squatted in the plaza.
+265,There squatted on the stoop a sparrow.,1,A sparrow squatted on the stoop.
+266,There rested next to the church a boy.,1,A boy rested next to the church.
+267,There rested in the plaza a boy.,1,A boy rested in the plaza.
+268,There rested on the stoop a boy.,1,A boy rested on the stoop.
+269,There rested next to the church a statue.,1,A statue rested next to the church.
+270,There rested in the plaza a statue.,1,A statue rested in the plaza.
+271,There rested on the stoop a statue.,1,A statue rested on the stoop.
+272,There rested next to the church a dog.,1,A dog rested next to the church.
+273,There rested in the plaza a dog.,1,A dog rested in the plaza.
+274,There rested on the stoop a dog.,1,A dog rested on the stoop.
+275,There rested next to the church a sparrow.,1,A sparrow rested next to the church.
+276,There rested in the plaza a sparrow.,1,A sparrow rested in the plaza.
+277,There rested on the stoop a sparrow.,1,A sparrow rested on the stoop.
+278,There sat next to the church a boy.,1,A boy sat next to the church.
+279,There sat in the plaza a boy.,1,A boy sat in the plaza.
+280,There sat on the stoop a boy.,1,A boy sat on the stoop.
+281,There sat next to the church a statue.,1,A statue sat next to the church.
+282,There sat in the plaza a statue.,1,A statue sat in the plaza.
+283,There sat on the stoop a statue.,1,A statue sat on the stoop.
+284,There sat next to the church a dog.,1,A dog sat next to the church.
+285,There sat in the plaza a dog.,1,A dog sat in the plaza.
+286,There sat on the stoop a dog.,1,A dog sat on the stoop.
+287,There sat next to the church a sparrow.,1,A sparrow sat next to the church.
+288,There sat in the plaza a sparrow.,1,A sparrow sat in the plaza.
+289,There sat on the stoop a sparrow.,1,A sparrow sat on the stoop.
+290,There stood next to the church a boy.,1,A boy stood next to the church.
+291,There stood in the plaza a boy.,1,A boy stood in the plaza.
+292,There stood on the stoop a boy.,1,A boy stood on the stoop.
+293,There stood next to the church a statue.,1,A statue stood next to the church.
+294,There stood in the plaza a statue.,1,A statue stood in the plaza.
+295,There stood on the stoop a statue.,1,A statue stood on the stoop.
+296,There stood next to the church a dog.,1,A dog stood next to the church.
+297,There stood in the plaza a dog.,1,A dog stood in the plaza.
+298,There stood on the stoop a dog.,1,A dog stood on the stoop.
+299,There stood next to the church a sparrow.,1,A sparrow stood next to the church.
+300,There stood in the plaza a sparrow.,1,A sparrow stood in the plaza.
+301,There stood on the stoop a sparrow.,1,A sparrow stood on the stoop.
+302,There perched next to the church a boy.,1,A boy perched next to the church.
+303,There perched in the plaza a boy.,1,A boy perched in the plaza.
+304,There perched on the stoop a boy.,1,A boy perched on the stoop.
+305,There perched next to the church a statue.,1,A statue perched next to the church.
+306,There perched in the plaza a statue.,1,A statue perched in the plaza.
+307,There perched on the stoop a statue.,1,A statue perched on the stoop.
+308,There perched next to the church a dog.,1,A dog perched next to the church.
+309,There perched in the plaza a dog.,1,A dog perched in the plaza.
+310,There perched on the stoop a dog.,1,A dog perched on the stoop.
+311,There perched next to the church a sparrow.,1,A sparrow perched next to the church.
+312,There perched in the plaza a sparrow.,1,A sparrow perched in the plaza.
+313,There perched on the stoop a sparrow.,1,A sparrow perched on the stoop.
+314,There dangled over the yard a flag.,1,A flag dangled over the yard.
+315,There dangled from the tree a flag.,1,A flag dangled from the tree.
+316,There dangled over the yard a sheet.,1,A sheet dangled over the yard.
+317,There dangled from the tree a sheet.,1,A sheet dangled from the tree.
+318,There dangled over the yard a clothes line.,1,A clothes line dangled over the yard.
+319,There dangled from the tree a clothes line.,1,A clothes line dangled from the tree.
+320,There hung over the yard a flag.,1,A flag hung over the yard.
+321,There hung from the tree a flag.,1,A flag hung from the tree.
+322,There hung over the yard a sheet.,1,A sheet hung over the yard.
+323,There hung from the tree a sheet.,1,A sheet hung from the tree.
+324,There hung over the yard a clothes line.,1,A clothes line hung over the yard.
+325,There hung from the tree a clothes line.,1,A clothes line hung from the tree.
+326,There swung over the yard a flag.,1,A flag swung over the yard.
+327,There swung from the tree a flag.,1,A flag swung from the tree.
+328,There swung over the yard a sheet.,1,A sheet swung over the yard.
+329,There swung from the tree a sheet.,1,A sheet swung from the tree.
+330,There swung over the yard a clothes line.,1,A clothes line swung over the yard.
+331,There swung from the tree a clothes line.,1,A clothes line swung from the tree.
+332,There meandered through the town a path.,1,A path meandered through the town.
+333,There meandered up the mountain a path.,1,A path meandered up the mountain.
+334,There meandered over the prairie a path.,1,A path meandered over the prairie.
+335,There meandered through the town a road.,1,A road meandered through the town.
+336,There meandered up the mountain a road.,1,A road meandered up the mountain.
+337,There meandered over the prairie a road.,1,A road meandered over the prairie.
+338,There meandered through the town a telephone wire.,1,A telephone wire meandered through the town.
+339,There meandered up the mountain a telephone wire.,1,A telephone wire meandered up the mountain.
+340,There meandered over the prairie a telephone wire.,1,A telephone wire meandered over the prairie.
+341,There twisted through the town a path.,1,A path twisted through the town.
+342,There twisted up the mountain a path.,1,A path twisted up the mountain.
+343,There twisted over the prairie a path.,1,A path twisted over the prairie.
+344,There twisted through the town a road.,1,A road twisted through the town.
+345,There twisted up the mountain a road.,1,A road twisted up the mountain.
+346,There twisted over the prairie a road.,1,A road twisted over the prairie.
+347,There twisted through the town a telephone wire.,1,A telephone wire twisted through the town.
+348,There twisted up the mountain a telephone wire.,1,A telephone wire twisted up the mountain.
+349,There twisted over the prairie a telephone wire.,1,A telephone wire twisted over the prairie.
+350,There weaved through the town a path.,1,A path weaved through the town.
+351,There weaved up the mountain a path.,1,A path weaved up the mountain.
+352,There weaved over the prairie a path.,1,A path weaved over the prairie.
+353,There weaved through the town a road.,1,A road weaved through the town.
+354,There weaved up the mountain a road.,1,A road weaved up the mountain.
+355,There weaved over the prairie a road.,1,A road weaved over the prairie.
+356,There weaved through the town a telephone wire.,1,A telephone wire weaved through the town.
+357,There weaved up the mountain a telephone wire.,1,A telephone wire weaved up the mountain.
+358,There weaved over the prairie a telephone wire.,1,A telephone wire weaved over the prairie.
+359,There wandered through the town a path.,1,A path wandered through the town.
+360,There wandered up the mountain a path.,1,A path wandered up the mountain.
+361,There wandered over the prairie a path.,1,A path wandered over the prairie.
+362,There wandered through the town a road.,1,A road wandered through the town.
+363,There wandered up the mountain a road.,1,A road wandered up the mountain.
+364,There wandered over the prairie a road.,1,A road wandered over the prairie.
+365,There wandered through the town a telephone wire.,1,A telephone wire wandered through the town.
+366,There wandered up the mountain a telephone wire.,1,A telephone wire wandered up the mountain.
+367,There wandered over the prairie a telephone wire.,1,A telephone wire wandered over the prairie.
+368,There emanated from the hole a sticky fluid.,1,A sticky fluid emanated from the hole.
+369,There emanated from the container a sticky fluid.,1,A sticky fluid emanated from the container.
+370,There emanated from the cave a sticky fluid.,1,A sticky fluid emanated from the cave.
+371,There emanated from the oven a sticky fluid.,1,A sticky fluid emanated from the oven.
+372,There emanated from the hole a putrid smell.,1,A putrid smell emanated from the hole.
+373,There emanated from the container a putrid smell.,1,A putrid smell emanated from the container.
+374,There emanated from the cave a putrid smell.,1,A putrid smell emanated from the cave.
+375,There emanated from the oven a putrid smell.,1,A putrid smell emanated from the oven.
+376,There emanated from the hole a fine mist.,1,A fine mist emanated from the hole.
+377,There emanated from the container a fine mist.,1,A fine mist emanated from the container.
+378,There emanated from the cave a fine mist.,1,A fine mist emanated from the cave.
+379,There emanated from the oven a fine mist.,1,A fine mist emanated from the oven.
+380,There exuded from the hole a sticky fluid.,1,A sticky fluid exuded from the hole.
+381,There exuded from the container a sticky fluid.,1,A sticky fluid exuded from the container.
+382,There exuded from the cave a sticky fluid.,1,A sticky fluid exuded from the cave.
+383,There exuded from the oven a sticky fluid.,1,A sticky fluid exuded from the oven.
+384,There exuded from the hole a putrid smell.,1,A putrid smell exuded from the hole.
+385,There exuded from the container a putrid smell.,1,A putrid smell exuded from the container.
+386,There exuded from the cave a putrid smell.,1,A putrid smell exuded from the cave.
+387,There exuded from the oven a putrid smell.,1,A putrid smell exuded from the oven.
+388,There exuded from the hole a fine mist.,1,A fine mist exuded from the hole.
+389,There exuded from the container a fine mist.,1,A fine mist exuded from the container.
+390,There exuded from the cave a fine mist.,1,A fine mist exuded from the cave.
+391,There exuded from the oven a fine mist.,1,A fine mist exuded from the oven.
+392,There emerged from the hole a sticky fluid.,1,A sticky fluid emerged from the hole.
+393,There emerged from the container a sticky fluid.,1,A sticky fluid emerged from the container.
+394,There emerged from the cave a sticky fluid.,1,A sticky fluid emerged from the cave.
+395,There emerged from the oven a sticky fluid.,1,A sticky fluid emerged from the oven.
+396,There emerged from the hole a putrid smell.,1,A putrid smell emerged from the hole.
+397,There emerged from the container a putrid smell.,1,A putrid smell emerged from the container.
+398,There emerged from the cave a putrid smell.,1,A putrid smell emerged from the cave.
+399,There emerged from the oven a putrid smell.,1,A putrid smell emerged from the oven.
+400,There emerged from the hole a fine mist.,1,A fine mist emerged from the hole.
+401,There emerged from the container a fine mist.,1,A fine mist emerged from the container.
+402,There emerged from the cave a fine mist.,1,A fine mist emerged from the cave.
+403,There emerged from the oven a fine mist.,1,A fine mist emerged from the oven.
+404,There gushed from the hole a sticky fluid.,1,A sticky fluid gushed from the hole.
+405,There gushed from the container a sticky fluid.,1,A sticky fluid gushed from the container.
+406,There gushed from the cave a sticky fluid.,1,A sticky fluid gushed from the cave.
+407,There gushed from the oven a sticky fluid.,1,A sticky fluid gushed from the oven.
+408,There gushed from the hole a putrid smell.,1,A putrid smell gushed from the hole.
+409,There gushed from the container a putrid smell.,1,A putrid smell gushed from the container.
+410,There gushed from the cave a putrid smell.,1,A putrid smell gushed from the cave.
+411,There gushed from the oven a putrid smell.,1,A putrid smell gushed from the oven.
+412,There gushed from the hole a fine mist.,1,A fine mist gushed from the hole.
+413,There gushed from the container a fine mist.,1,A fine mist gushed from the container.
+414,There gushed from the cave a fine mist.,1,A fine mist gushed from the cave.
+415,There gushed from the oven a fine mist.,1,A fine mist gushed from the oven.
+416,There issued from the hole a sticky fluid.,1,A sticky fluid issued from the hole.
+417,There issued from the container a sticky fluid.,1,A sticky fluid issued from the container.
+418,There issued from the cave a sticky fluid.,1,A sticky fluid issued from the cave.
+419,There issued from the oven a sticky fluid.,1,A sticky fluid issued from the oven.
+420,There issued from the hole a putrid smell.,1,A putrid smell issued from the hole.
+421,There issued from the container a putrid smell.,1,A putrid smell issued from the container.
+422,There issued from the cave a putrid smell.,1,A putrid smell issued from the cave.
+423,There issued from the oven a putrid smell.,1,A putrid smell issued from the oven.
+424,There issued from the hole a fine mist.,1,A fine mist issued from the hole.
+425,There issued from the container a fine mist.,1,A fine mist issued from the container.
+426,There issued from the cave a fine mist.,1,A fine mist issued from the cave.
+427,There issued from the oven a fine mist.,1,A fine mist issued from the oven.
+428,There spilled from the hole a sticky fluid.,1,A sticky fluid spilled from the hole.
+429,There spilled from the container a sticky fluid.,1,A sticky fluid spilled from the container.
+430,There spilled from the cave a sticky fluid.,1,A sticky fluid spilled from the cave.
+431,There spilled from the oven a sticky fluid.,1,A sticky fluid spilled from the oven.
+432,There spilled from the hole a putrid smell.,1,A putrid smell spilled from the hole.
+433,There spilled from the container a putrid smell.,1,A putrid smell spilled from the container.
+434,There spilled from the cave a putrid smell.,1,A putrid smell spilled from the cave.
+435,There spilled from the oven a putrid smell.,1,A putrid smell spilled from the oven.
+436,There spilled from the hole a fine mist.,1,A fine mist spilled from the hole.
+437,There spilled from the container a fine mist.,1,A fine mist spilled from the container.
+438,There spilled from the cave a fine mist.,1,A fine mist spilled from the cave.
+439,There spilled from the oven a fine mist.,1,A fine mist spilled from the oven.
+440,There appeared from the cave a bright light.,1,A bright light appeared from the cave.
+441,There appeared from the room a bright light.,1,A bright light appeared from the room.
+442,There appeared from the hole a bright light.,1,A bright light appeared from the hole.
+443,There appeared from the cave a loud noise.,1,A loud noise appeared from the cave.
+444,There appeared from the room a loud noise.,1,A loud noise appeared from the room.
+445,There appeared from the hole a loud noise.,1,A loud noise appeared from the hole.
+446,There appeared from the cave a giant wave.,1,A giant wave appeared from the cave.
+447,There appeared from the room a giant wave.,1,A giant wave appeared from the room.
+448,There appeared from the hole a giant wave.,1,A giant wave appeared from the hole.
+449,There burst from the cave a bright light.,1,A bright light burst from the cave.
+450,There burst from the room a bright light.,1,A bright light burst from the room.
+451,There burst from the hole a bright light.,1,A bright light burst from the hole.
+452,There burst from the cave a loud noise.,1,A loud noise burst from the cave.
+453,There burst from the room a loud noise.,1,A loud noise burst from the room.
+454,There burst from the hole a loud noise.,1,A loud noise burst from the hole.
+455,There burst from the cave a giant wave.,1,A giant wave burst from the cave.
+456,There burst from the room a giant wave.,1,A giant wave burst from the room.
+457,There burst from the hole a giant wave.,1,A giant wave burst from the hole.
+458,There surged from the cave a bright light.,1,A bright light surged from the cave.
+459,There surged from the room a bright light.,1,A bright light surged from the room.
+460,There surged from the hole a bright light.,1,A bright light surged from the hole.
+461,There surged from the cave a loud noise.,1,A loud noise surged from the cave.
+462,There surged from the room a loud noise.,1,A loud noise surged from the room.
+463,There surged from the hole a loud noise.,1,A loud noise surged from the hole.
+464,There surged from the cave a giant wave.,1,A giant wave surged from the cave.
+465,There surged from the room a giant wave.,1,A giant wave surged from the room.
+466,There surged from the hole a giant wave.,1,A giant wave surged from the hole.
+467,There began after the meal a series of mistakes.,1,A series of mistakes began after the meal.
+468,There began in the next few months a series of mistakes.,1,A series of mistakes began in the next few months.
+469,There began after the meal a long speech.,1,A long speech began after the meal.
+470,There began in the next few months a long speech.,1,A long speech began in the next few months.
+471,There began after the meal an investigation.,1,An investigation began after the meal.
+472,There began in the next few months an investigation.,1,An investigation began in the next few months.
+473,There ensued after the meal a series of mistakes.,1,A series of mistakes ensued after the meal.
+474,There ensued in the next few months a series of mistakes.,1,A series of mistakes ensued in the next few months.
+475,There ensued after the meal a long speech.,1,A long speech ensued after the meal.
+476,There ensued in the next few months a long speech.,1,A long speech ensued in the next few months.
+477,There ensued after the meal an investigation.,1,An investigation ensued after the meal.
+478,There ensued in the next few months an investigation.,1,An investigation ensued in the next few months.
+479,There occurred after the meal a series of mistakes.,1,A series of mistakes occurred after the meal.
+480,There occurred in the next few months a series of mistakes.,1,A series of mistakes occurred in the next few months.
+481,There occurred after the meal a long speech.,1,A long speech occurred after the meal.
+482,There occurred in the next few months a long speech.,1,A long speech occurred in the next few months.
+483,There occurred after the meal an investigation.,1,An investigation occurred after the meal.
+484,There occurred in the next few months an investigation.,1,An investigation occurred in the next few months.
+485,There followed after the meal a series of mistakes.,1,A series of mistakes followed after the meal.
+486,There followed in the next few months a series of mistakes.,1,A series of mistakes followed in the next few months.
+487,There followed after the meal a long speech.,1,A long speech followed after the meal.
+488,There followed in the next few months a long speech.,1,A long speech followed in the next few months.
+489,There followed after the meal an investigation.,1,An investigation followed after the meal.
+490,There followed in the next few months an investigation.,1,An investigation followed in the next few months.
+491,There graduated from the university a student.,1,A student graduated from the university.
+492,There graduated from college a student.,1,A student graduated from college.
+493,There graduated from the university a senior.,1,A senior graduated from the university.
+494,There graduated from college a senior.,1,A senior graduated from college.
+495,There flunked out from the university a student.,1,A student flunked out from the university.
+496,There flunked out from college a student.,1,A student flunked out from college.
+497,There flunked out from the university a senior.,1,A senior flunked out from the university.
+498,There flunked out from college a senior.,1,A senior flunked out from college.
+499,There concluded in the morning a play.,1,A play concluded in the morning.
+500,There concluded in the auditorium a play.,1,A play concluded in the auditorium.
+501,There concluded at the theater a play.,1,A play concluded at the theater.
+502,There concluded in the morning a lecture.,1,A lecture concluded in the morning.
+503,There concluded in the auditorium a lecture.,1,A lecture concluded in the auditorium.
+504,There concluded at the theater a lecture.,1,A lecture concluded at the theater.
+505,There concluded in the morning a movie.,1,A movie concluded in the morning.
+506,There concluded in the auditorium a movie.,1,A movie concluded in the auditorium.
+507,There concluded at the theater a movie.,1,A movie concluded at the theater.
+508,There finished in the morning a play.,1,A play finished in the morning.
+509,There finished in the auditorium a play.,1,A play finished in the auditorium.
+510,There finished at the theater a play.,1,A play finished at the theater.
+511,There finished in the morning a lecture.,1,A lecture finished in the morning.
+512,There finished in the auditorium a lecture.,1,A lecture finished in the auditorium.
+513,There finished at the theater a lecture.,1,A lecture finished at the theater.
+514,There finished in the morning a movie.,1,A movie finished in the morning.
+515,There finished in the auditorium a movie.,1,A movie finished in the auditorium.
+516,There finished at the theater a movie.,1,A movie finished at the theater.
+517,There ended in the morning a play.,1,A play ended in the morning.
+518,There ended in the auditorium a play.,1,A play ended in the auditorium.
+519,There ended at the theater a play.,1,A play ended at the theater.
+520,There ended in the morning a lecture.,1,A lecture ended in the morning.
+521,There ended in the auditorium a lecture.,1,A lecture ended in the auditorium.
+522,There ended at the theater a lecture.,1,A lecture ended at the theater.
+523,There ended in the morning a movie.,1,A movie ended in the morning.
+524,There ended in the auditorium a movie.,1,A movie ended in the auditorium.
+525,There ended at the theater a movie.,1,A movie ended at the theater.
+526,There cracked in the yard a glass.,1,A glass cracked in the yard.
+527,There cracked all over the ground a glass.,1,A glass cracked all over the ground.
+528,There cracked on john 's head a glass.,1,A glass cracked on john 's head.
+529,There cracked in the yard a bowl.,1,A bowl cracked in the yard.
+530,There cracked all over the ground a bowl.,1,A bowl cracked all over the ground.
+531,There cracked on john 's head a bowl.,1,A bowl cracked on john 's head.
+532,There cracked in the yard a window.,1,A window cracked in the yard.
+533,There cracked all over the ground a window.,1,A window cracked all over the ground.
+534,There cracked on john 's head a window.,1,A window cracked on john 's head.
+535,There chipped in the yard a glass.,1,A glass chipped in the yard.
+536,There chipped all over the ground a glass.,1,A glass chipped all over the ground.
+537,There chipped on john 's head a glass.,1,A glass chipped on john 's head.
+538,There chipped in the yard a bowl.,1,A bowl chipped in the yard.
+539,There chipped all over the ground a bowl.,1,A bowl chipped all over the ground.
+540,There chipped on john 's head a bowl.,1,A bowl chipped on john 's head.
+541,There chipped in the yard a window.,1,A window chipped in the yard.
+542,There chipped all over the ground a window.,1,A window chipped all over the ground.
+543,There chipped on john 's head a window.,1,A window chipped on john 's head.
+544,There shattered in the yard a glass.,1,A glass shattered in the yard.
+545,There shattered all over the ground a glass.,1,A glass shattered all over the ground.
+546,There shattered on john 's head a glass.,1,A glass shattered on john 's head.
+547,There shattered in the yard a bowl.,1,A bowl shattered in the yard.
+548,There shattered all over the ground a bowl.,1,A bowl shattered all over the ground.
+549,There shattered on john 's head a bowl.,1,A bowl shattered on john 's head.
+550,There shattered in the yard a window.,1,A window shattered in the yard.
+551,There shattered all over the ground a window.,1,A window shattered all over the ground.
+552,There shattered on john 's head a window.,1,A window shattered on john 's head.
+553,There closed on the second floor a door.,1,A door closed on the second floor.
+554,There closed down the street a door.,1,A door closed down the street.
+555,There closed in the next room a door.,1,A door closed in the next room.
+556,There closed on the second floor a window.,1,A window closed on the second floor.
+557,There closed down the street a window.,1,A window closed down the street.
+558,There closed in the next room a window.,1,A window closed in the next room.
+559,There shut on the second floor a door.,1,A door shut on the second floor.
+560,There shut down the street a door.,1,A door shut down the street.
+561,There shut in the next room a door.,1,A door shut in the next room.
+562,There shut on the second floor a window.,1,A window shut on the second floor.
+563,There shut down the street a window.,1,A window shut down the street.
+564,There shut in the next room a window.,1,A window shut in the next room.
+565,There opened on the second floor a door.,1,A door opened on the second floor.
+566,There opened down the street a door.,1,A door opened down the street.
+567,There opened in the next room a door.,1,A door opened in the next room.
+568,There opened on the second floor a window.,1,A window opened on the second floor.
+569,There opened down the street a window.,1,A window opened down the street.
+570,There opened in the next room a window.,1,A window opened in the next room.
+571,There crashed into the wall a car.,1,A car crashed into the wall.
+572,There crashed into the pole a car.,1,A car crashed into the pole.
+573,There crashed into the window a car.,1,A car crashed into the window.
+574,There crashed into the wall a bicycle.,1,A bicycle crashed into the wall.
+575,There crashed into the pole a bicycle.,1,A bicycle crashed into the pole.
+576,There crashed into the window a bicycle.,1,A bicycle crashed into the window.
+577,There crashed into the wall a bird.,1,A bird crashed into the wall.
+578,There crashed into the pole a bird.,1,A bird crashed into the pole.
+579,There crashed into the window a bird.,1,A bird crashed into the window.
+580,There slammed into the wall a car.,1,A car slammed into the wall.
+581,There slammed into the pole a car.,1,A car slammed into the pole.
+582,There slammed into the window a car.,1,A car slammed into the window.
+583,There slammed into the wall a bicycle.,1,A bicycle slammed into the wall.
+584,There slammed into the pole a bicycle.,1,A bicycle slammed into the pole.
+585,There slammed into the window a bicycle.,1,A bicycle slammed into the window.
+586,There slammed into the wall a bird.,1,A bird slammed into the wall.
+587,There slammed into the pole a bird.,1,A bird slammed into the pole.
+588,There slammed into the window a bird.,1,A bird slammed into the window.
+589,There collided into the wall a car.,1,A car collided into the wall.
+590,There collided into the pole a car.,1,A car collided into the pole.
+591,There collided into the window a car.,1,A car collided into the window.
+592,There collided into the wall a bicycle.,1,A bicycle collided into the wall.
+593,There collided into the pole a bicycle.,1,A bicycle collided into the pole.
+594,There collided into the window a bicycle.,1,A bicycle collided into the window.
+595,There collided into the wall a bird.,1,A bird collided into the wall.
+596,There collided into the pole a bird.,1,A bird collided into the pole.
+597,There collided into the window a bird.,1,A bird collided into the window.
+598,There bumped into the wall a car.,1,A car bumped into the wall.
+599,There bumped into the pole a car.,1,A car bumped into the pole.
+600,There bumped into the window a car.,1,A car bumped into the window.
+601,There bumped into the wall a bicycle.,1,A bicycle bumped into the wall.
+602,There bumped into the pole a bicycle.,1,A bicycle bumped into the pole.
+603,There bumped into the window a bicycle.,1,A bicycle bumped into the window.
+604,There bumped into the wall a bird.,1,A bird bumped into the wall.
+605,There bumped into the pole a bird.,1,A bird bumped into the pole.
+606,There bumped into the window a bird.,1,A bird bumped into the window.
+607,There melted on the floor a glass of water.,1,A glass of water melted on the floor.
+608,There melted on the table a glass of water.,1,A glass of water melted on the table.
+609,There melted on the streets a glass of water.,1,A glass of water melted on the streets.
+610,There melted on the floor a puddle.,1,A puddle melted on the floor.
+611,There melted on the table a puddle.,1,A puddle melted on the table.
+612,There melted on the streets a puddle.,1,A puddle melted on the streets.
+613,There melted on the floor a pile of snow.,1,A pile of snow melted on the floor.
+614,There melted on the table a pile of snow.,1,A pile of snow melted on the table.
+615,There melted on the streets a pile of snow.,1,A pile of snow melted on the streets.
+616,There froze on the floor a glass of water.,1,A glass of water froze on the floor.
+617,There froze on the table a glass of water.,1,A glass of water froze on the table.
+618,There froze on the streets a glass of water.,1,A glass of water froze on the streets.
+619,There froze on the floor a puddle.,1,A puddle froze on the floor.
+620,There froze on the table a puddle.,1,A puddle froze on the table.
+621,There froze on the streets a puddle.,1,A puddle froze on the streets.
+622,There froze on the floor a pile of snow.,1,A pile of snow froze on the floor.
+623,There froze on the table a pile of snow.,1,A pile of snow froze on the table.
+624,There froze on the streets a pile of snow.,1,A pile of snow froze on the streets.
+625,There solidified on the floor a glass of water.,1,A glass of water solidified on the floor.
+626,There solidified on the table a glass of water.,1,A glass of water solidified on the table.
+627,There solidified on the streets a glass of water.,1,A glass of water solidified on the streets.
+628,There solidified on the floor a puddle.,1,A puddle solidified on the floor.
+629,There solidified on the table a puddle.,1,A puddle solidified on the table.
+630,There solidified on the streets a puddle.,1,A puddle solidified on the streets.
+631,There solidified on the floor a pile of snow.,1,A pile of snow solidified on the floor.
+632,There solidified on the table a pile of snow.,1,A pile of snow solidified on the table.
+633,There solidified on the streets a pile of snow.,1,A pile of snow solidified on the streets.
+634,There halted at the intersection a car.,1,A car halted at the intersection.
+635,There halted in front of the school a car.,1,A car halted in front of the school.
+636,There halted near the pedestrians a car.,1,A car halted near the pedestrians.
+637,There halted at the intersection a bicycle.,1,A bicycle halted at the intersection.
+638,There halted in front of the school a bicycle.,1,A bicycle halted in front of the school.
+639,There halted near the pedestrians a bicycle.,1,A bicycle halted near the pedestrians.
+640,There halted at the intersection a bus.,1,A bus halted at the intersection.
+641,There halted in front of the school a bus.,1,A bus halted in front of the school.
+642,There halted near the pedestrians a bus.,1,A bus halted near the pedestrians.
+643,There slowed at the intersection a car.,1,A car slowed at the intersection.
+644,There slowed in front of the school a car.,1,A car slowed in front of the school.
+645,There slowed near the pedestrians a car.,1,A car slowed near the pedestrians.
+646,There slowed at the intersection a bicycle.,1,A bicycle slowed at the intersection.
+647,There slowed in front of the school a bicycle.,1,A bicycle slowed in front of the school.
+648,There slowed near the pedestrians a bicycle.,1,A bicycle slowed near the pedestrians.
+649,There slowed at the intersection a bus.,1,A bus slowed at the intersection.
+650,There slowed in front of the school a bus.,1,A bus slowed in front of the school.
+651,There slowed near the pedestrians a bus.,1,A bus slowed near the pedestrians.
+652,There accelerated at the intersection a car.,1,A car accelerated at the intersection.
+653,There accelerated in front of the school a car.,1,A car accelerated in front of the school.
+654,There accelerated near the pedestrians a car.,1,A car accelerated near the pedestrians.
+655,There accelerated at the intersection a bicycle.,1,A bicycle accelerated at the intersection.
+656,There accelerated in front of the school a bicycle.,1,A bicycle accelerated in front of the school.
+657,There accelerated near the pedestrians a bicycle.,1,A bicycle accelerated near the pedestrians.
+658,There accelerated at the intersection a bus.,1,A bus accelerated at the intersection.
+659,There accelerated in front of the school a bus.,1,A bus accelerated in front of the school.
+660,There accelerated near the pedestrians a bus.,1,A bus accelerated near the pedestrians.
+661,There heated in the oven a glass of water.,1,A glass of water heated in the oven.
+662,There heated in the microwave a glass of water.,1,A glass of water heated in the microwave.
+663,There heated on the table a glass of water.,1,A glass of water heated on the table.
+664,There heated in the oven a plate of food.,1,A plate of food heated in the oven.
+665,There heated in the microwave a plate of food.,1,A plate of food heated in the microwave.
+666,There heated on the table a plate of food.,1,A plate of food heated on the table.
+667,There heated in the oven a casserole.,1,A casserole heated in the oven.
+668,There heated in the microwave a casserole.,1,A casserole heated in the microwave.
+669,There heated on the table a casserole.,1,A casserole heated on the table.
+670,There heated in the oven a meal.,1,A meal heated in the oven.
+671,There heated in the microwave a meal.,1,A meal heated in the microwave.
+672,There heated on the table a meal.,1,A meal heated on the table.
+673,There cooled in the oven a glass of water.,1,A glass of water cooled in the oven.
+674,There cooled in the microwave a glass of water.,1,A glass of water cooled in the microwave.
+675,There cooled on the table a glass of water.,1,A glass of water cooled on the table.
+676,There cooled in the oven a plate of food.,1,A plate of food cooled in the oven.
+677,There cooled in the microwave a plate of food.,1,A plate of food cooled in the microwave.
+678,There cooled on the table a plate of food.,1,A plate of food cooled on the table.
+679,There cooled in the oven a casserole.,1,A casserole cooled in the oven.
+680,There cooled in the microwave a casserole.,1,A casserole cooled in the microwave.
+681,There cooled on the table a casserole.,1,A casserole cooled on the table.
+682,There cooled in the oven a meal.,1,A meal cooled in the oven.
+683,There cooled in the microwave a meal.,1,A meal cooled in the microwave.
+684,There cooled on the table a meal.,1,A meal cooled on the table.
+685,There warmed in the oven a glass of water.,1,A glass of water warmed in the oven.
+686,There warmed in the microwave a glass of water.,1,A glass of water warmed in the microwave.
+687,There warmed on the table a glass of water.,1,A glass of water warmed on the table.
+688,There warmed in the oven a plate of food.,1,A plate of food warmed in the oven.
+689,There warmed in the microwave a plate of food.,1,A plate of food warmed in the microwave.
+690,There warmed on the table a plate of food.,1,A plate of food warmed on the table.
+691,There warmed in the oven a casserole.,1,A casserole warmed in the oven.
+692,There warmed in the microwave a casserole.,1,A casserole warmed in the microwave.
+693,There warmed on the table a casserole.,1,A casserole warmed on the table.
+694,There warmed in the oven a meal.,1,A meal warmed in the oven.
+695,There warmed in the microwave a meal.,1,A meal warmed in the microwave.
+696,There warmed on the table a meal.,1,A meal warmed on the table.
+697,There defrosted in the oven a glass of water.,1,A glass of water defrosted in the oven.
+698,There defrosted in the microwave a glass of water.,1,A glass of water defrosted in the microwave.
+699,There defrosted on the table a glass of water.,1,A glass of water defrosted on the table.
+700,There defrosted in the oven a plate of food.,1,A plate of food defrosted in the oven.
+701,There defrosted in the microwave a plate of food.,1,A plate of food defrosted in the microwave.
+702,There defrosted on the table a plate of food.,1,A plate of food defrosted on the table.
+703,There defrosted in the oven a casserole.,1,A casserole defrosted in the oven.
+704,There defrosted in the microwave a casserole.,1,A casserole defrosted in the microwave.
+705,There defrosted on the table a casserole.,1,A casserole defrosted on the table.
+706,There defrosted in the oven a meal.,1,A meal defrosted in the oven.
+707,There defrosted in the microwave a meal.,1,A meal defrosted in the microwave.
+708,There defrosted on the table a meal.,1,A meal defrosted on the table.
+709,There stomped on a bug a boy.,1,A boy stomped on a bug.
+710,There stomped on a button a boy.,1,A boy stomped on a button.
+711,There stomped on a frog a boy.,1,A boy stomped on a frog.
+712,There stomped on a bug an elephant.,1,An elephant stomped on a bug.
+713,There stomped on a button an elephant.,1,An elephant stomped on a button.
+714,There stomped on a frog an elephant.,1,An elephant stomped on a frog.
+715,There stomped on a bug an exterminator.,1,An exterminator stomped on a bug.
+716,There stomped on a button an exterminator.,1,An exterminator stomped on a button.
+717,There stomped on a frog an exterminator.,1,An exterminator stomped on a frog.
+718,There stepped on a bug a boy.,1,A boy stepped on a bug.
+719,There stepped on a button a boy.,1,A boy stepped on a button.
+720,There stepped on a frog a boy.,1,A boy stepped on a frog.
+721,There stepped on a bug an elephant.,1,An elephant stepped on a bug.
+722,There stepped on a button an elephant.,1,An elephant stepped on a button.
+723,There stepped on a frog an elephant.,1,An elephant stepped on a frog.
+724,There stepped on a bug an exterminator.,1,An exterminator stepped on a bug.
+725,There stepped on a button an exterminator.,1,An exterminator stepped on a button.
+726,There stepped on a frog an exterminator.,1,An exterminator stepped on a frog.
+727,There jumped on a bug a boy.,1,A boy jumped on a bug.
+728,There jumped on a button a boy.,1,A boy jumped on a button.
+729,There jumped on a frog a boy.,1,A boy jumped on a frog.
+730,There jumped on a bug an elephant.,1,An elephant jumped on a bug.
+731,There jumped on a button an elephant.,1,An elephant jumped on a button.
+732,There jumped on a frog an elephant.,1,An elephant jumped on a frog.
+733,There jumped on a bug an exterminator.,1,An exterminator jumped on a bug.
+734,There jumped on a button an exterminator.,1,An exterminator jumped on a button.
+735,There jumped on a frog an exterminator.,1,An exterminator jumped on a frog.
+736,There believed in god a cult.,1,A cult believed in god.
+737,There believed in aliens a cult.,1,A cult believed in aliens.
+738,There believed in the goodness of people a cult.,1,A cult believed in the goodness of people.
+739,There believed in god a preacher.,1,A preacher believed in god.
+740,There believed in aliens a preacher.,1,A preacher believed in aliens.
+741,There believed in the goodness of people a preacher.,1,A preacher believed in the goodness of people.
+742,There believed in god a nice old lady.,1,A nice old lady believed in god.
+743,There believed in aliens a nice old lady.,1,A nice old lady believed in aliens.
+744,There believed in the goodness of people a nice old lady.,1,A nice old lady believed in the goodness of people.
+745,There had faith in god a cult.,1,A cult had faith in god.
+746,There had faith in aliens a cult.,1,A cult had faith in aliens.
+747,There had faith in the goodness of people a cult.,1,A cult had faith in the goodness of people.
+748,There had faith in god a preacher.,1,A preacher had faith in god.
+749,There had faith in aliens a preacher.,1,A preacher had faith in aliens.
+750,There had faith in the goodness of people a preacher.,1,A preacher had faith in the goodness of people.
+751,There had faith in god a nice old lady.,1,A nice old lady had faith in god.
+752,There had faith in aliens a nice old lady.,1,A nice old lady had faith in aliens.
+753,There had faith in the goodness of people a nice old lady.,1,A nice old lady had faith in the goodness of people.
+754,There trusted in god a cult.,1,A cult trusted in god.
+755,There trusted in aliens a cult.,1,A cult trusted in aliens.
+756,There trusted in the goodness of people a cult.,1,A cult trusted in the goodness of people.
+757,There trusted in god a preacher.,1,A preacher trusted in god.
+758,There trusted in aliens a preacher.,1,A preacher trusted in aliens.
+759,There trusted in the goodness of people a preacher.,1,A preacher trusted in the goodness of people.
+760,There trusted in god a nice old lady.,1,A nice old lady trusted in god.
+761,There trusted in aliens a nice old lady.,1,A nice old lady trusted in aliens.
+762,There trusted in the goodness of people a nice old lady.,1,A nice old lady trusted in the goodness of people.
+763,There yelled at the children a teacher.,1,A teacher yelled at the children.
+764,There yelled at the crowd a teacher.,1,A teacher yelled at the crowd.
+765,There yelled at the pedestrians a teacher.,1,A teacher yelled at the pedestrians.
+766,There yelled at the children a parent.,1,A parent yelled at the children.
+767,There yelled at the crowd a parent.,1,A parent yelled at the crowd.
+768,There yelled at the pedestrians a parent.,1,A parent yelled at the pedestrians.
+769,There yelled at the children an old man.,1,An old man yelled at the children.
+770,There yelled at the crowd an old man.,1,An old man yelled at the crowd.
+771,There yelled at the pedestrians an old man.,1,An old man yelled at the pedestrians.
+772,There screamed at the children a teacher.,1,A teacher screamed at the children.
+773,There screamed at the crowd a teacher.,1,A teacher screamed at the crowd.
+774,There screamed at the pedestrians a teacher.,1,A teacher screamed at the pedestrians.
+775,There screamed at the children a parent.,1,A parent screamed at the children.
+776,There screamed at the crowd a parent.,1,A parent screamed at the crowd.
+777,There screamed at the pedestrians a parent.,1,A parent screamed at the pedestrians.
+778,There screamed at the children an old man.,1,An old man screamed at the children.
+779,There screamed at the crowd an old man.,1,An old man screamed at the crowd.
+780,There screamed at the pedestrians an old man.,1,An old man screamed at the pedestrians.
+781,There hollered at the children a teacher.,1,A teacher hollered at the children.
+782,There hollered at the crowd a teacher.,1,A teacher hollered at the crowd.
+783,There hollered at the pedestrians a teacher.,1,A teacher hollered at the pedestrians.
+784,There hollered at the children a parent.,1,A parent hollered at the children.
+785,There hollered at the crowd a parent.,1,A parent hollered at the crowd.
+786,There hollered at the pedestrians a parent.,1,A parent hollered at the pedestrians.
+787,There hollered at the children an old man.,1,An old man hollered at the children.
+788,There hollered at the crowd an old man.,1,An old man hollered at the crowd.
+789,There hollered at the pedestrians an old man.,1,An old man hollered at the pedestrians.
+790,There talked to the children a teacher.,1,A teacher talked to the children.
+791,There talked to the crowd a teacher.,1,A teacher talked to the crowd.
+792,There talked to the pedestrians a teacher.,1,A teacher talked to the pedestrians.
+793,There talked to the children a parent.,1,A parent talked to the children.
+794,There talked to the crowd a parent.,1,A parent talked to the crowd.
+795,There talked to the pedestrians a parent.,1,A parent talked to the pedestrians.
+796,There talked to the children an old man.,1,An old man talked to the children.
+797,There talked to the crowd an old man.,1,An old man talked to the crowd.
+798,There talked to the pedestrians an old man.,1,An old man talked to the pedestrians.
+799,There lectured to the children a teacher.,1,A teacher lectured to the children.
+800,There lectured to the crowd a teacher.,1,A teacher lectured to the crowd.
+801,There lectured to the pedestrians a teacher.,1,A teacher lectured to the pedestrians.
+802,There lectured to the children a parent.,1,A parent lectured to the children.
+803,There lectured to the crowd a parent.,1,A parent lectured to the crowd.
+804,There lectured to the pedestrians a parent.,1,A parent lectured to the pedestrians.
+805,There lectured to the children an old man.,1,An old man lectured to the children.
+806,There lectured to the crowd an old man.,1,An old man lectured to the crowd.
+807,There lectured to the pedestrians an old man.,1,An old man lectured to the pedestrians.
+808,There spoke to the children a teacher.,1,A teacher spoke to the children.
+809,There spoke to the crowd a teacher.,1,A teacher spoke to the crowd.
+810,There spoke to the pedestrians a teacher.,1,A teacher spoke to the pedestrians.
+811,There spoke to the children a parent.,1,A parent spoke to the children.
+812,There spoke to the crowd a parent.,1,A parent spoke to the crowd.
+813,There spoke to the pedestrians a parent.,1,A parent spoke to the pedestrians.
+814,There spoke to the children an old man.,1,An old man spoke to the children.
+815,There spoke to the crowd an old man.,1,An old man spoke to the crowd.
+816,There spoke to the pedestrians an old man.,1,An old man spoke to the pedestrians.
+817,There played at the children a teacher.,1,A teacher played at the children.
+818,There played at the crowd a teacher.,1,A teacher played at the crowd.
+819,There played at the pedestrians a teacher.,1,A teacher played at the pedestrians.
+820,There played at the children a parent.,1,A parent played at the children.
+821,There played at the crowd a parent.,1,A parent played at the crowd.
+822,There played at the pedestrians a parent.,1,A parent played at the pedestrians.
+823,There played at the children an old man.,1,An old man played at the children.
+824,There played at the crowd an old man.,1,An old man played at the crowd.
+825,There played at the pedestrians an old man.,1,An old man played at the pedestrians.
+826,There juggled at the children a teacher.,1,A teacher juggled at the children.
+827,There juggled at the crowd a teacher.,1,A teacher juggled at the crowd.
+828,There juggled at the pedestrians a teacher.,1,A teacher juggled at the pedestrians.
+829,There juggled at the children a parent.,1,A parent juggled at the children.
+830,There juggled at the crowd a parent.,1,A parent juggled at the crowd.
+831,There juggled at the pedestrians a parent.,1,A parent juggled at the pedestrians.
+832,There juggled at the children an old man.,1,An old man juggled at the children.
+833,There juggled at the crowd an old man.,1,An old man juggled at the crowd.
+834,There juggled at the pedestrians an old man.,1,An old man juggled at the pedestrians.
+835,There hollered at the children a teacher.,1,A teacher hollered at the children.
+836,There hollered at the crowd a teacher.,1,A teacher hollered at the crowd.
+837,There hollered at the pedestrians a teacher.,1,A teacher hollered at the pedestrians.
+838,There hollered at the children a parent.,1,A parent hollered at the children.
+839,There hollered at the crowd a parent.,1,A parent hollered at the crowd.
+840,There hollered at the pedestrians a parent.,1,A parent hollered at the pedestrians.
+841,There hollered at the children an old man.,1,An old man hollered at the children.
+842,There hollered at the crowd an old man.,1,An old man hollered at the crowd.
+843,There hollered at the pedestrians an old man.,1,An old man hollered at the pedestrians.
+844,There agreed with the politician a student.,1,A student agreed with the politician.
+845,There agreed with the police officer a student.,1,A student agreed with the police officer.
+846,There agreed with the complaint a student.,1,A student agreed with the complaint.
+847,There agreed with the politician a protester.,1,A protester agreed with the politician.
+848,There agreed with the police officer a protester.,1,A protester agreed with the police officer.
+849,There agreed with the complaint a protester.,1,A protester agreed with the complaint.
+850,There agreed with the politician a committee.,1,A committee agreed with the politician.
+851,There agreed with the police officer a committee.,1,A committee agreed with the police officer.
+852,There agreed with the complaint a committee.,1,A committee agreed with the complaint.
+853,There dealt with the politician a student.,1,A student dealt with the politician.
+854,There dealt with the police officer a student.,1,A student dealt with the police officer.
+855,There dealt with the complaint a student.,1,A student dealt with the complaint.
+856,There dealt with the politician a protester.,1,A protester dealt with the politician.
+857,There dealt with the police officer a protester.,1,A protester dealt with the police officer.
+858,There dealt with the complaint a protester.,1,A protester dealt with the complaint.
+859,There dealt with the politician a committee.,1,A committee dealt with the politician.
+860,There dealt with the police officer a committee.,1,A committee dealt with the police officer.
+861,There dealt with the complaint a committee.,1,A committee dealt with the complaint.
+862,There disagreed with the politician a student.,1,A student disagreed with the politician.
+863,There disagreed with the police officer a student.,1,A student disagreed with the police officer.
+864,There disagreed with the complaint a student.,1,A student disagreed with the complaint.
+865,There disagreed with the politician a protester.,1,A protester disagreed with the politician.
+866,There disagreed with the police officer a protester.,1,A protester disagreed with the police officer.
+867,There disagreed with the complaint a protester.,1,A protester disagreed with the complaint.
+868,There disagreed with the politician a committee.,1,A committee disagreed with the politician.
+869,There disagreed with the police officer a committee.,1,A committee disagreed with the police officer.
+870,There disagreed with the complaint a committee.,1,A committee disagreed with the complaint.
+871,There looked for evidence a little boy.,1,A little boy looked for evidence.
+872,There looked for treasure a little boy.,1,A little boy looked for treasure.
+873,There looked for the hidden children a little boy.,1,A little boy looked for the hidden children.
+874,There looked for evidence an investigator.,1,An investigator looked for evidence.
+875,There looked for treasure an investigator.,1,An investigator looked for treasure.
+876,There looked for the hidden children an investigator.,1,An investigator looked for the hidden children.
+877,There looked for evidence a scientist.,1,A scientist looked for evidence.
+878,There looked for treasure a scientist.,1,A scientist looked for treasure.
+879,There looked for the hidden children a scientist.,1,A scientist looked for the hidden children.
+880,There searched for evidence a little boy.,1,A little boy searched for evidence.
+881,There searched for treasure a little boy.,1,A little boy searched for treasure.
+882,There searched for the hidden children a little boy.,1,A little boy searched for the hidden children.
+883,There searched for evidence an investigator.,1,An investigator searched for evidence.
+884,There searched for treasure an investigator.,1,An investigator searched for treasure.
+885,There searched for the hidden children an investigator.,1,An investigator searched for the hidden children.
+886,There searched for evidence a scientist.,1,A scientist searched for evidence.
+887,There searched for treasure a scientist.,1,A scientist searched for treasure.
+888,There searched for the hidden children a scientist.,1,A scientist searched for the hidden children.
+889,There focused on the book a student.,1,A student focused on the book.
+890,There focused on the computer a student.,1,A student focused on the computer.
+891,There focused on the puzzle a student.,1,A student focused on the puzzle.
+892,There focused on the book an editor.,1,An editor focused on the book.
+893,There focused on the computer an editor.,1,An editor focused on the computer.
+894,There focused on the puzzle an editor.,1,An editor focused on the puzzle.
+895,There concentrated on the book a student.,1,A student concentrated on the book.
+896,There concentrated on the computer a student.,1,A student concentrated on the computer.
+897,There concentrated on the puzzle a student.,1,A student concentrated on the puzzle.
+898,There concentrated on the book an editor.,1,An editor concentrated on the book.
+899,There concentrated on the computer an editor.,1,An editor concentrated on the computer.
+900,There concentrated on the puzzle an editor.,1,An editor concentrated on the puzzle.
+901,There stuck to the glue a piece of paper.,1,A piece of paper stuck to the glue.
+902,There stuck to the wall a piece of paper.,1,A piece of paper stuck to the wall.
+903,There stuck to the glue a fly.,1,A fly stuck to the glue.
+904,There stuck to the wall a fly.,1,A fly stuck to the wall.
+905,There adhered to the glue a piece of paper.,1,A piece of paper adhered to the glue.
+906,There adhered to the wall a piece of paper.,1,A piece of paper adhered to the wall.
+907,There adhered to the glue a fly.,1,A fly adhered to the glue.
+908,There adhered to the wall a fly.,1,A fly adhered to the wall.

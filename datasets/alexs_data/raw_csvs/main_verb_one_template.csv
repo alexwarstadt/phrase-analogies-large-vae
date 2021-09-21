@@ -1,0 +1,1070 @@
+,pair_ID,a,b,ambiguous,template
+0,0,My father has forgotten the ticket the front desk saved for us.,My father is forgetting the ticket the front desk saved for us.,True,1_RC_ambig_2
+1,1,My brother has forgotten the ticket the box office saved for us.,My brother is forgetting the ticket the box office saved for us.,True,1_RC_ambig_2
+2,2,My father has forgotten the ticket the box office saved for him.,My father is forgetting the ticket the box office saved for him.,True,1_RC_ambig_2
+3,3,He has claimed the ticket the front desk saved for us.,He is claiming the ticket the front desk saved for us.,True,1_RC_ambig_2
+4,4,My brother has forgotten the ticket the guy in the ticket booth saved for us.,My brother is forgetting the ticket the guy in the ticket booth saved for us.,True,1_RC_ambig_2
+5,5,My father has forgotten the ticket the guy in the ticket booth saved for us.,My father is forgetting the ticket the guy in the ticket booth saved for us.,True,1_RC_ambig_2
+6,6,My brother has claimed the ticket the box office saved for me.,My brother is claiming the ticket the box office saved for me.,True,1_RC_ambig_2
+7,7,My father has forgotten the ticket the box office saved for us.,My father is forgetting the ticket the box office saved for us.,True,1_RC_ambig_2
+8,8,He has forgotten the ticket the guy in the ticket booth saved for him.,He is forgetting the ticket the guy in the ticket booth saved for him.,True,1_RC_ambig_2
+9,9,My brother has forgotten the ticket the front desk saved for him.,My brother is forgetting the ticket the front desk saved for him.,True,1_RC_ambig_2
+10,10,My brother has forgotten the ticket the front desk saved for us.,My brother is forgetting the ticket the front desk saved for us.,True,1_RC_ambig_2
+11,11,My brother has forgotten the ticket the front desk saved for me.,My brother is forgetting the ticket the front desk saved for me.,True,1_RC_ambig_2
+12,12,He has forgotten the ticket the front desk saved for him.,He is forgetting the ticket the front desk saved for him.,True,1_RC_ambig_2
+13,13,My father has claimed the ticket the box office saved for us.,My father is claiming the ticket the box office saved for us.,True,1_RC_ambig_2
+14,14,My brother has forgotten the ticket the box office saved for him.,My brother is forgetting the ticket the box office saved for him.,True,1_RC_ambig_2
+15,15,My father has claimed the ticket the box office saved for me.,My father is claiming the ticket the box office saved for me.,True,1_RC_ambig_2
+16,16,He has forgotten the ticket the guy in the ticket booth saved for us.,He is forgetting the ticket the guy in the ticket booth saved for us.,True,1_RC_ambig_2
+17,17,My brother has forgotten the ticket the box office saved for me.,My brother is forgetting the ticket the box office saved for me.,True,1_RC_ambig_2
+18,18,My brother has forgotten the ticket the guy in the ticket booth saved for him.,My brother is forgetting the ticket the guy in the ticket booth saved for him.,True,1_RC_ambig_2
+19,19,My father has forgotten the ticket the guy in the ticket booth saved for me.,My father is forgetting the ticket the guy in the ticket booth saved for me.,True,1_RC_ambig_2
+20,20,He has forgotten the ticket the front desk saved for us.,He is forgetting the ticket the front desk saved for us.,True,1_RC_ambig_2
+21,21,He has claimed the ticket the front desk saved for him.,He is claiming the ticket the front desk saved for him.,True,1_RC_ambig_2
+22,22,My brother has claimed the ticket the front desk saved for me.,My brother is claiming the ticket the front desk saved for me.,True,1_RC_ambig_2
+23,23,My father has claimed the ticket the guy in the ticket booth saved for us.,My father is claiming the ticket the guy in the ticket booth saved for us.,True,1_RC_ambig_2
+24,24,He has claimed the ticket the front desk saved for me.,He is claiming the ticket the front desk saved for me.,True,1_RC_ambig_2
+25,25,My father has forgotten the ticket the front desk saved for me.,My father is forgetting the ticket the front desk saved for me.,True,1_RC_ambig_2
+26,26,My father has claimed the ticket the front desk saved for him.,My father is claiming the ticket the front desk saved for him.,True,1_RC_ambig_2
+27,27,My brother has claimed the ticket the front desk saved for us.,My brother is claiming the ticket the front desk saved for us.,True,1_RC_ambig_2
+28,28,My father has claimed the ticket the guy in the ticket booth saved for me.,My father is claiming the ticket the guy in the ticket booth saved for me.,True,1_RC_ambig_2
+29,29,My father has forgotten the ticket the box office saved for me.,My father is forgetting the ticket the box office saved for me.,True,1_RC_ambig_2
+30,30,He has claimed the ticket the box office saved for us.,He is claiming the ticket the box office saved for us.,True,1_RC_ambig_2
+31,31,He has forgotten the ticket the front desk saved for me.,He is forgetting the ticket the front desk saved for me.,True,1_RC_ambig_2
+32,32,My brother has claimed the ticket the guy in the ticket booth saved for him.,My brother is claiming the ticket the guy in the ticket booth saved for him.,True,1_RC_ambig_2
+33,33,He has claimed the ticket the box office saved for me.,He is claiming the ticket the box office saved for me.,True,1_RC_ambig_2
+34,34,My father has forgotten the ticket the front desk saved for him.,My father is forgetting the ticket the front desk saved for him.,True,1_RC_ambig_2
+35,35,My father has forgotten the ticket the guy in the ticket booth saved for him.,My father is forgetting the ticket the guy in the ticket booth saved for him.,True,1_RC_ambig_2
+36,36,My brother has claimed the ticket the box office saved for us.,My brother is claiming the ticket the box office saved for us.,True,1_RC_ambig_2
+37,37,He has claimed the ticket the guy in the ticket booth saved for us.,He is claiming the ticket the guy in the ticket booth saved for us.,True,1_RC_ambig_2
+38,38,My brother has claimed the ticket the guy in the ticket booth saved for us.,My brother is claiming the ticket the guy in the ticket booth saved for us.,True,1_RC_ambig_2
+39,39,He has forgotten the ticket the box office saved for me.,He is forgetting the ticket the box office saved for me.,True,1_RC_ambig_2
+40,40,My brother has claimed the ticket the guy in the ticket booth saved for me.,My brother is claiming the ticket the guy in the ticket booth saved for me.,True,1_RC_ambig_2
+41,41,My brother has claimed the ticket the box office saved for him.,My brother is claiming the ticket the box office saved for him.,True,1_RC_ambig_2
+42,42,He has forgotten the ticket the box office saved for us.,He is forgetting the ticket the box office saved for us.,True,1_RC_ambig_2
+43,43,My father has claimed the ticket the front desk saved for me.,My father is claiming the ticket the front desk saved for me.,True,1_RC_ambig_2
+44,44,He has claimed the ticket the box office saved for him.,He is claiming the ticket the box office saved for him.,True,1_RC_ambig_2
+45,45,He has forgotten the ticket the box office saved for him.,He is forgetting the ticket the box office saved for him.,True,1_RC_ambig_2
+46,46,He has claimed the ticket the guy in the ticket booth saved for him.,He is claiming the ticket the guy in the ticket booth saved for him.,True,1_RC_ambig_2
+47,47,My father has claimed the ticket the front desk saved for us.,My father is claiming the ticket the front desk saved for us.,True,1_RC_ambig_2
+48,48,My brother has claimed the ticket the front desk saved for him.,My brother is claiming the ticket the front desk saved for him.,True,1_RC_ambig_2
+49,49,My father has claimed the ticket the guy in the ticket booth saved for him.,My father is claiming the ticket the guy in the ticket booth saved for him.,True,1_RC_ambig_2
+50,50,My brother has forgotten the ticket the guy in the ticket booth saved for me.,My brother is forgetting the ticket the guy in the ticket booth saved for me.,True,1_RC_ambig_2
+51,51,My father has claimed the ticket the box office saved for him.,My father is claiming the ticket the box office saved for him.,True,1_RC_ambig_2
+52,52,He has claimed the ticket the guy in the ticket booth saved for me.,He is claiming the ticket the guy in the ticket booth saved for me.,True,1_RC_ambig_2
+53,53,He has forgotten the ticket the guy in the ticket booth saved for me.,He is forgetting the ticket the guy in the ticket booth saved for me.,True,1_RC_ambig_2
+54,54,The woman strived for the goal she thought about.,The woman was striving for the goal she thought about.,True,1_RC_ambig_2
+55,55,The grandmother strived for the dream she dreamed of.,The grandmother was striving for the dream she dreamed of.,True,1_RC_ambig_2
+56,56,The woman strived for the goal she daydreamed about.,The woman was striving for the goal she daydreamed about.,True,1_RC_ambig_2
+57,57,The grandmother fantasized about the dream she daydreamed about.,The grandmother was fantasizing about the dream she daydreamed about.,True,1_RC_ambig_2
+58,58,The woman fantasized about the goal she thought about.,The woman was fantasizing about the goal she thought about.,True,1_RC_ambig_2
+59,59,The old lady fantasized about the goal she dreamed of.,The old lady was fantasizing about the goal she dreamed of.,True,1_RC_ambig_2
+60,60,The grandmother strived for the goal she daydreamed about.,The grandmother was striving for the goal she daydreamed about.,True,1_RC_ambig_2
+61,61,The grandmother strived for the dream she thought about.,The grandmother was striving for the dream she thought about.,True,1_RC_ambig_2
+62,62,The woman fantasized about the goal she daydreamed about.,The woman was fantasizing about the goal she daydreamed about.,True,1_RC_ambig_2
+63,63,The woman fantasized about the dream she daydreamed about.,The woman was fantasizing about the dream she daydreamed about.,True,1_RC_ambig_2
+64,64,The old lady strived for the goal she thought about.,The old lady was striving for the goal she thought about.,True,1_RC_ambig_2
+65,65,The old lady fantasized about the goal she daydreamed about.,The old lady was fantasizing about the goal she daydreamed about.,True,1_RC_ambig_2
+66,66,The woman strived for the dream she dreamed of.,The woman was striving for the dream she dreamed of.,True,1_RC_ambig_2
+67,67,The grandmother fantasized about the dream she thought about.,The grandmother was fantasizing about the dream she thought about.,True,1_RC_ambig_2
+68,68,The old lady strived for the dream she thought about.,The old lady was striving for the dream she thought about.,True,1_RC_ambig_2
+69,69,The old lady fantasized about the goal she thought about.,The old lady was fantasizing about the goal she thought about.,True,1_RC_ambig_2
+70,70,The woman fantasized about the goal she dreamed of.,The woman was fantasizing about the goal she dreamed of.,True,1_RC_ambig_2
+71,71,The old lady strived for the goal she daydreamed about.,The old lady was striving for the goal she daydreamed about.,True,1_RC_ambig_2
+72,72,The woman fantasized about the dream she dreamed of.,The woman was fantasizing about the dream she dreamed of.,True,1_RC_ambig_2
+73,73,The old lady fantasized about the dream she dreamed of.,The old lady was fantasizing about the dream she dreamed of.,True,1_RC_ambig_2
+74,74,The grandmother strived for the dream she daydreamed about.,The grandmother was striving for the dream she daydreamed about.,True,1_RC_ambig_2
+75,75,The grandmother strived for the goal she thought about.,The grandmother was striving for the goal she thought about.,True,1_RC_ambig_2
+76,76,The grandmother fantasized about the goal she thought about.,The grandmother was fantasizing about the goal she thought about.,True,1_RC_ambig_2
+77,77,The woman strived for the dream she daydreamed about.,The woman was striving for the dream she daydreamed about.,True,1_RC_ambig_2
+78,78,The grandmother fantasized about the goal she dreamed of.,The grandmother was fantasizing about the goal she dreamed of.,True,1_RC_ambig_2
+79,79,The woman fantasized about the dream she thought about.,The woman was fantasizing about the dream she thought about.,True,1_RC_ambig_2
+80,80,The grandmother strived for the goal she dreamed of.,The grandmother was striving for the goal she dreamed of.,True,1_RC_ambig_2
+81,81,The woman strived for the dream she thought about.,The woman was striving for the dream she thought about.,True,1_RC_ambig_2
+82,82,The grandmother fantasized about the goal she daydreamed about.,The grandmother was fantasizing about the goal she daydreamed about.,True,1_RC_ambig_2
+83,83,The old lady fantasized about the dream she daydreamed about.,The old lady was fantasizing about the dream she daydreamed about.,True,1_RC_ambig_2
+84,84,The old lady strived for the dream she daydreamed about.,The old lady was striving for the dream she daydreamed about.,True,1_RC_ambig_2
+85,85,The woman strived for the goal she dreamed of.,The woman was striving for the goal she dreamed of.,True,1_RC_ambig_2
+86,86,The old lady strived for the goal she dreamed of.,The old lady was striving for the goal she dreamed of.,True,1_RC_ambig_2
+87,87,The old lady fantasized about the dream she thought about.,The old lady was fantasizing about the dream she thought about.,True,1_RC_ambig_2
+88,88,The old lady strived for the dream she dreamed of.,The old lady was striving for the dream she dreamed of.,True,1_RC_ambig_2
+89,89,The grandmother fantasized about the dream she dreamed of.,The grandmother was fantasizing about the dream she dreamed of.,True,1_RC_ambig_2
+90,90,The therapist saw a woman she helped ten years ago.,The therapist was seeing a woman she helped ten years ago.,True,1_RC_ambig_2
+91,91,The psychoanalyst saw a woman she treated last year.,The psychoanalyst was seeing a woman she treated last year.,True,1_RC_ambig_2
+92,92,The psychoanalyst saw a woman she helped last year.,The psychoanalyst was seeing a woman she helped last year.,True,1_RC_ambig_2
+93,93,The psychologist saw a patient she treated last year.,The psychologist was seeing a patient she treated last year.,True,1_RC_ambig_2
+94,94,The psychiatrist saw someone she helped ten years ago.,The psychiatrist was seeing someone she helped ten years ago.,True,1_RC_ambig_2
+95,95,The therapist saw someone she helped ten years ago.,The therapist was seeing someone she helped ten years ago.,True,1_RC_ambig_2
+96,96,The psychoanalyst saw a patient she treated last year.,The psychoanalyst was seeing a patient she treated last year.,True,1_RC_ambig_2
+97,97,The psychiatrist saw a woman she helped ten years ago.,The psychiatrist was seeing a woman she helped ten years ago.,True,1_RC_ambig_2
+98,98,The psychologist saw a patient she helped ten years ago.,The psychologist was seeing a patient she helped ten years ago.,True,1_RC_ambig_2
+99,99,The psychiatrist saw a woman she helped last year.,The psychiatrist was seeing a woman she helped last year.,True,1_RC_ambig_2
+100,100,The psychiatrist saw someone she treated last year.,The psychiatrist was seeing someone she treated last year.,True,1_RC_ambig_2
+101,101,The psychoanalyst saw a patient she helped ten years ago.,The psychoanalyst was seeing a patient she helped ten years ago.,True,1_RC_ambig_2
+102,102,The psychologist saw a patient she helped last year.,The psychologist was seeing a patient she helped last year.,True,1_RC_ambig_2
+103,103,The psychoanalyst saw a patient she helped last year.,The psychoanalyst was seeing a patient she helped last year.,True,1_RC_ambig_2
+104,104,The psychiatrist saw a woman she treated last year.,The psychiatrist was seeing a woman she treated last year.,True,1_RC_ambig_2
+105,105,The therapist saw someone she treated ten years ago.,The therapist was seeing someone she treated ten years ago.,True,1_RC_ambig_2
+106,106,The therapist saw a woman she treated last year.,The therapist was seeing a woman she treated last year.,True,1_RC_ambig_2
+107,107,The psychoanalyst saw someone she treated last year.,The psychoanalyst was seeing someone she treated last year.,True,1_RC_ambig_2
+108,108,The psychoanalyst saw someone she helped last year.,The psychoanalyst was seeing someone she helped last year.,True,1_RC_ambig_2
+109,109,The psychologist saw a woman she helped ten years ago.,The psychologist was seeing a woman she helped ten years ago.,True,1_RC_ambig_2
+110,110,The psychoanalyst saw someone she helped ten years ago.,The psychoanalyst was seeing someone she helped ten years ago.,True,1_RC_ambig_2
+111,111,The psychologist saw a woman she helped last year.,The psychologist was seeing a woman she helped last year.,True,1_RC_ambig_2
+112,112,The psychiatrist saw someone she treated ten years ago.,The psychiatrist was seeing someone she treated ten years ago.,True,1_RC_ambig_2
+113,113,The psychologist saw someone she treated ten years ago.,The psychologist was seeing someone she treated ten years ago.,True,1_RC_ambig_2
+114,114,The psychologist saw a patient she treated ten years ago.,The psychologist was seeing a patient she treated ten years ago.,True,1_RC_ambig_2
+115,115,The psychiatrist saw someone she helped last year.,The psychiatrist was seeing someone she helped last year.,True,1_RC_ambig_2
+116,116,The therapist saw someone she helped last year.,The therapist was seeing someone she helped last year.,True,1_RC_ambig_2
+117,117,The psychoanalyst saw a woman she helped ten years ago.,The psychoanalyst was seeing a woman she helped ten years ago.,True,1_RC_ambig_2
+118,118,The therapist saw a patient she helped last year.,The therapist was seeing a patient she helped last year.,True,1_RC_ambig_2
+119,119,The therapist saw a woman she helped last year.,The therapist was seeing a woman she helped last year.,True,1_RC_ambig_2
+120,120,The psychiatrist saw a woman she treated ten years ago.,The psychiatrist was seeing a woman she treated ten years ago.,True,1_RC_ambig_2
+121,121,The psychiatrist saw a patient she treated last year.,The psychiatrist was seeing a patient she treated last year.,True,1_RC_ambig_2
+122,122,The psychiatrist saw a patient she treated ten years ago.,The psychiatrist was seeing a patient she treated ten years ago.,True,1_RC_ambig_2
+123,123,The psychologist saw someone she treated last year.,The psychologist was seeing someone she treated last year.,True,1_RC_ambig_2
+124,124,The psychologist saw someone she helped last year.,The psychologist was seeing someone she helped last year.,True,1_RC_ambig_2
+125,125,The therapist saw someone she treated last year.,The therapist was seeing someone she treated last year.,True,1_RC_ambig_2
+126,126,The therapist saw a patient she treated last year.,The therapist was seeing a patient she treated last year.,True,1_RC_ambig_2
+127,127,The psychologist saw a woman she treated ten years ago.,The psychologist was seeing a woman she treated ten years ago.,True,1_RC_ambig_2
+128,128,The psychoanalyst saw a woman she treated ten years ago.,The psychoanalyst was seeing a woman she treated ten years ago.,True,1_RC_ambig_2
+129,129,The psychoanalyst saw someone she treated ten years ago.,The psychoanalyst was seeing someone she treated ten years ago.,True,1_RC_ambig_2
+130,130,The psychiatrist saw a patient she helped ten years ago.,The psychiatrist was seeing a patient she helped ten years ago.,True,1_RC_ambig_2
+131,131,The therapist saw a patient she helped ten years ago.,The therapist was seeing a patient she helped ten years ago.,True,1_RC_ambig_2
+132,132,The psychologist saw a woman she treated last year.,The psychologist was seeing a woman she treated last year.,True,1_RC_ambig_2
+133,133,The psychiatrist saw a patient she helped last year.,The psychiatrist was seeing a patient she helped last year.,True,1_RC_ambig_2
+134,134,The therapist saw a woman she treated ten years ago.,The therapist was seeing a woman she treated ten years ago.,True,1_RC_ambig_2
+135,135,The psychoanalyst saw a patient she treated ten years ago.,The psychoanalyst was seeing a patient she treated ten years ago.,True,1_RC_ambig_2
+136,136,The psychologist saw someone she helped ten years ago.,The psychologist was seeing someone she helped ten years ago.,True,1_RC_ambig_2
+137,137,The therapist saw a patient she treated ten years ago.,The therapist was seeing a patient she treated ten years ago.,True,1_RC_ambig_2
+138,138,The cinematographer strived for the award she fantasized about.,The cinematographer was striving for the award she fantasized about.,True,1_RC_ambig_2
+139,139,The cinematographer strived for the award she dreamed of.,The cinematographer was striving for the award she dreamed of.,True,1_RC_ambig_2
+140,140,The cinematographer strived for the Oscar he dreamed of.,The cinematographer was striving for the Oscar he dreamed of.,True,1_RC_ambig_2
+141,141,The actor strived for the fame she fantasized about.,The actor was striving for the fame she fantasized about.,True,1_RC_ambig_2
+142,142,The cinematographer strived for the Emmy she fantasized about.,The cinematographer was striving for the Emmy she fantasized about.,True,1_RC_ambig_2
+143,143,The writer strived for the Oscar he fantasized about.,The writer was striving for the Oscar he fantasized about.,True,1_RC_ambig_2
+144,144,The writer strived for the Oscar he dreamed of.,The writer was striving for the Oscar he dreamed of.,True,1_RC_ambig_2
+145,145,The director strived for the Emmy he fantasized about.,The director was striving for the Emmy he fantasized about.,True,1_RC_ambig_2
+146,146,The writer strived for the Emmy he fantasized about.,The writer was striving for the Emmy he fantasized about.,True,1_RC_ambig_2
+147,147,The director strived for the fame she dreamed of.,The director was striving for the fame she dreamed of.,True,1_RC_ambig_2
+148,148,The director strived for the Oscar she fantasized about.,The director was striving for the Oscar she fantasized about.,True,1_RC_ambig_2
+149,149,The cinematographer strived for the Emmy he fantasized about.,The cinematographer was striving for the Emmy he fantasized about.,True,1_RC_ambig_2
+150,150,The cinematographer strived for the fame he dreamed of.,The cinematographer was striving for the fame he dreamed of.,True,1_RC_ambig_2
+151,151,The cinematographer strived for the Emmy he dreamed of.,The cinematographer was striving for the Emmy he dreamed of.,True,1_RC_ambig_2
+152,152,The cinematographer strived for the award he dreamed of.,The cinematographer was striving for the award he dreamed of.,True,1_RC_ambig_2
+153,153,The actor strived for the fame she dreamed of.,The actor was striving for the fame she dreamed of.,True,1_RC_ambig_2
+154,154,The director strived for the recognition he dreamed of.,The director was striving for the recognition he dreamed of.,True,1_RC_ambig_2
+155,155,The director strived for the recognition she dreamed of.,The director was striving for the recognition she dreamed of.,True,1_RC_ambig_2
+156,156,The cinematographer strived for the recognition he dreamed of.,The cinematographer was striving for the recognition he dreamed of.,True,1_RC_ambig_2
+157,157,The writer strived for the Emmy she fantasized about.,The writer was striving for the Emmy she fantasized about.,True,1_RC_ambig_2
+158,158,The director strived for the award he dreamed of.,The director was striving for the award he dreamed of.,True,1_RC_ambig_2
+159,159,The writer strived for the award she fantasized about.,The writer was striving for the award she fantasized about.,True,1_RC_ambig_2
+160,160,The cinematographer strived for the Oscar he fantasized about.,The cinematographer was striving for the Oscar he fantasized about.,True,1_RC_ambig_2
+161,161,The cinematographer strived for the award he fantasized about.,The cinematographer was striving for the award he fantasized about.,True,1_RC_ambig_2
+162,162,The actor strived for the recognition she fantasized about.,The actor was striving for the recognition she fantasized about.,True,1_RC_ambig_2
+163,163,The writer strived for the award he fantasized about.,The writer was striving for the award he fantasized about.,True,1_RC_ambig_2
+164,164,The writer strived for the Oscar she fantasized about.,The writer was striving for the Oscar she fantasized about.,True,1_RC_ambig_2
+165,165,The writer strived for the recognition she dreamed of.,The writer was striving for the recognition she dreamed of.,True,1_RC_ambig_2
+166,166,The actor strived for the award she dreamed of.,The actor was striving for the award she dreamed of.,True,1_RC_ambig_2
+167,167,The director strived for the Oscar he fantasized about.,The director was striving for the Oscar he fantasized about.,True,1_RC_ambig_2
+168,168,The actor strived for the Oscar she fantasized about.,The actor was striving for the Oscar she fantasized about.,True,1_RC_ambig_2
+169,169,The writer strived for the fame she dreamed of.,The writer was striving for the fame she dreamed of.,True,1_RC_ambig_2
+170,170,The cinematographer strived for the Oscar she fantasized about.,The cinematographer was striving for the Oscar she fantasized about.,True,1_RC_ambig_2
+171,171,The writer strived for the Emmy she dreamed of.,The writer was striving for the Emmy she dreamed of.,True,1_RC_ambig_2
+172,172,The director strived for the Emmy she dreamed of.,The director was striving for the Emmy she dreamed of.,True,1_RC_ambig_2
+173,173,The actor strived for the Emmy he fantasized about.,The actor was striving for the Emmy he fantasized about.,True,1_RC_ambig_2
+174,174,The actor strived for the Oscar he dreamed of.,The actor was striving for the Oscar he dreamed of.,True,1_RC_ambig_2
+175,175,The director strived for the Oscar she dreamed of.,The director was striving for the Oscar she dreamed of.,True,1_RC_ambig_2
+176,176,The cinematographer strived for the recognition she fantasized about.,The cinematographer was striving for the recognition she fantasized about.,True,1_RC_ambig_2
+177,177,The writer strived for the award he dreamed of.,The writer was striving for the award he dreamed of.,True,1_RC_ambig_2
+178,178,The cinematographer strived for the recognition he fantasized about.,The cinematographer was striving for the recognition he fantasized about.,True,1_RC_ambig_2
+179,179,The actor strived for the Emmy he dreamed of.,The actor was striving for the Emmy he dreamed of.,True,1_RC_ambig_2
+180,180,The director strived for the Emmy he dreamed of.,The director was striving for the Emmy he dreamed of.,True,1_RC_ambig_2
+181,181,The director strived for the recognition she fantasized about.,The director was striving for the recognition she fantasized about.,True,1_RC_ambig_2
+182,182,The writer strived for the award she dreamed of.,The writer was striving for the award she dreamed of.,True,1_RC_ambig_2
+183,183,The director strived for the Emmy she fantasized about.,The director was striving for the Emmy she fantasized about.,True,1_RC_ambig_2
+184,184,The director strived for the fame he dreamed of.,The director was striving for the fame he dreamed of.,True,1_RC_ambig_2
+185,185,The actor strived for the recognition he dreamed of.,The actor was striving for the recognition he dreamed of.,True,1_RC_ambig_2
+186,186,The writer strived for the Emmy he dreamed of.,The writer was striving for the Emmy he dreamed of.,True,1_RC_ambig_2
+187,187,The actor strived for the Oscar she dreamed of.,The actor was striving for the Oscar she dreamed of.,True,1_RC_ambig_2
+188,188,The cinematographer strived for the Oscar she dreamed of.,The cinematographer was striving for the Oscar she dreamed of.,True,1_RC_ambig_2
+189,189,The writer strived for the recognition she fantasized about.,The writer was striving for the recognition she fantasized about.,True,1_RC_ambig_2
+190,190,The director strived for the fame he fantasized about.,The director was striving for the fame he fantasized about.,True,1_RC_ambig_2
+191,191,The actor strived for the award he fantasized about.,The actor was striving for the award he fantasized about.,True,1_RC_ambig_2
+192,192,The director strived for the Oscar he dreamed of.,The director was striving for the Oscar he dreamed of.,True,1_RC_ambig_2
+193,193,The writer strived for the fame he fantasized about.,The writer was striving for the fame he fantasized about.,True,1_RC_ambig_2
+194,194,The writer strived for the recognition he dreamed of.,The writer was striving for the recognition he dreamed of.,True,1_RC_ambig_2
+195,195,The director strived for the recognition he fantasized about.,The director was striving for the recognition he fantasized about.,True,1_RC_ambig_2
+196,196,The actor strived for the fame he fantasized about.,The actor was striving for the fame he fantasized about.,True,1_RC_ambig_2
+197,197,The director strived for the award she fantasized about.,The director was striving for the award she fantasized about.,True,1_RC_ambig_2
+198,198,The actor strived for the recognition he fantasized about.,The actor was striving for the recognition he fantasized about.,True,1_RC_ambig_2
+199,199,The actor strived for the recognition she dreamed of.,The actor was striving for the recognition she dreamed of.,True,1_RC_ambig_2
+200,200,The cinematographer strived for the recognition she dreamed of.,The cinematographer was striving for the recognition she dreamed of.,True,1_RC_ambig_2
+201,201,The actor strived for the award she fantasized about.,The actor was striving for the award she fantasized about.,True,1_RC_ambig_2
+202,202,The cinematographer strived for the fame he fantasized about.,The cinematographer was striving for the fame he fantasized about.,True,1_RC_ambig_2
+203,203,The actor strived for the Emmy she fantasized about.,The actor was striving for the Emmy she fantasized about.,True,1_RC_ambig_2
+204,204,The writer strived for the fame she fantasized about.,The writer was striving for the fame she fantasized about.,True,1_RC_ambig_2
+205,205,The actor strived for the Oscar he fantasized about.,The actor was striving for the Oscar he fantasized about.,True,1_RC_ambig_2
+206,206,The director strived for the award she dreamed of.,The director was striving for the award she dreamed of.,True,1_RC_ambig_2
+207,207,The writer strived for the recognition he fantasized about.,The writer was striving for the recognition he fantasized about.,True,1_RC_ambig_2
+208,208,The actor strived for the Emmy she dreamed of.,The actor was striving for the Emmy she dreamed of.,True,1_RC_ambig_2
+209,209,The director strived for the fame she fantasized about.,The director was striving for the fame she fantasized about.,True,1_RC_ambig_2
+210,210,The cinematographer strived for the Emmy she dreamed of.,The cinematographer was striving for the Emmy she dreamed of.,True,1_RC_ambig_2
+211,211,The actor strived for the award he dreamed of.,The actor was striving for the award he dreamed of.,True,1_RC_ambig_2
+212,212,The cinematographer strived for the fame she fantasized about.,The cinematographer was striving for the fame she fantasized about.,True,1_RC_ambig_2
+213,213,The cinematographer strived for the fame she dreamed of.,The cinematographer was striving for the fame she dreamed of.,True,1_RC_ambig_2
+214,214,The writer strived for the Oscar she dreamed of.,The writer was striving for the Oscar she dreamed of.,True,1_RC_ambig_2
+215,215,The actor strived for the fame he dreamed of.,The actor was striving for the fame he dreamed of.,True,1_RC_ambig_2
+216,216,The writer strived for the fame he dreamed of.,The writer was striving for the fame he dreamed of.,True,1_RC_ambig_2
+217,217,The director strived for the award he fantasized about.,The director was striving for the award he fantasized about.,True,1_RC_ambig_2
+218,218,The senator campaigned for the office he defended.,The senator was campaigning for the office he defended.,True,1_RC_ambig_2
+219,219,The politician campaigned for the seat she occupied.,The politician was campaigning for the seat she occupied.,True,1_RC_ambig_2
+220,220,The governor fought for the seat he defended.,The governor was fighting for the seat he defended.,True,1_RC_ambig_2
+221,221,The MP campaigned for the seat he occupied.,The MP was campaigning for the seat he occupied.,True,1_RC_ambig_2
+222,222,The politician campaigned for the office he occupied.,The politician was campaigning for the office he occupied.,True,1_RC_ambig_2
+223,223,The legislator campaigned for the seat she defended.,The legislator was campaigning for the seat she defended.,True,1_RC_ambig_2
+224,224,The governor fought for the seat she defended.,The governor was fighting for the seat she defended.,True,1_RC_ambig_2
+225,225,The governor campaigned for the seat she occupied.,The governor was campaigning for the seat she occupied.,True,1_RC_ambig_2
+226,226,The congressperson campaigned for the seat he occupied.,The congressperson was campaigning for the seat he occupied.,True,1_RC_ambig_2
+227,227,The politician fought for the office he occupied.,The politician was fighting for the office he occupied.,True,1_RC_ambig_2
+228,228,The MP campaigned for the seat she occupied.,The MP was campaigning for the seat she occupied.,True,1_RC_ambig_2
+229,229,The governor fought for the seat he occupied.,The governor was fighting for the seat he occupied.,True,1_RC_ambig_2
+230,230,The governor campaigned for the seat she defended.,The governor was campaigning for the seat she defended.,True,1_RC_ambig_2
+231,231,The governor campaigned for the office he defended.,The governor was campaigning for the office he defended.,True,1_RC_ambig_2
+232,232,The congressperson fought for the seat he occupied.,The congressperson was fighting for the seat he occupied.,True,1_RC_ambig_2
+233,233,The legislator campaigned for the office she occupied.,The legislator was campaigning for the office she occupied.,True,1_RC_ambig_2
+234,234,The legislator campaigned for the seat she occupied.,The legislator was campaigning for the seat she occupied.,True,1_RC_ambig_2
+235,235,The senator campaigned for the seat she defended.,The senator was campaigning for the seat she defended.,True,1_RC_ambig_2
+236,236,The legislator fought for the seat she occupied.,The legislator was fighting for the seat she occupied.,True,1_RC_ambig_2
+237,237,The congressperson fought for the office she defended.,The congressperson was fighting for the office she defended.,True,1_RC_ambig_2
+238,238,The politician fought for the seat he occupied.,The politician was fighting for the seat he occupied.,True,1_RC_ambig_2
+239,239,The politician fought for the office he defended.,The politician was fighting for the office he defended.,True,1_RC_ambig_2
+240,240,The MP fought for the seat she defended.,The MP was fighting for the seat she defended.,True,1_RC_ambig_2
+241,241,The politician fought for the seat she defended.,The politician was fighting for the seat she defended.,True,1_RC_ambig_2
+242,242,The senator campaigned for the office he occupied.,The senator was campaigning for the office he occupied.,True,1_RC_ambig_2
+243,243,The congressperson fought for the seat she defended.,The congressperson was fighting for the seat she defended.,True,1_RC_ambig_2
+244,244,The senator campaigned for the seat he defended.,The senator was campaigning for the seat he defended.,True,1_RC_ambig_2
+245,245,The politician campaigned for the office she occupied.,The politician was campaigning for the office she occupied.,True,1_RC_ambig_2
+246,246,The senator fought for the seat he defended.,The senator was fighting for the seat he defended.,True,1_RC_ambig_2
+247,247,The governor campaigned for the office she defended.,The governor was campaigning for the office she defended.,True,1_RC_ambig_2
+248,248,The congressperson campaigned for the seat she occupied.,The congressperson was campaigning for the seat she occupied.,True,1_RC_ambig_2
+249,249,The MP fought for the office she defended.,The MP was fighting for the office she defended.,True,1_RC_ambig_2
+250,250,The MP fought for the office he defended.,The MP was fighting for the office he defended.,True,1_RC_ambig_2
+251,251,The legislator fought for the office she occupied.,The legislator was fighting for the office she occupied.,True,1_RC_ambig_2
+252,252,The MP campaigned for the seat she defended.,The MP was campaigning for the seat she defended.,True,1_RC_ambig_2
+253,253,The politician campaigned for the seat he occupied.,The politician was campaigning for the seat he occupied.,True,1_RC_ambig_2
+254,254,The MP fought for the seat she occupied.,The MP was fighting for the seat she occupied.,True,1_RC_ambig_2
+255,255,The congressperson fought for the seat she occupied.,The congressperson was fighting for the seat she occupied.,True,1_RC_ambig_2
+256,256,The legislator fought for the office he defended.,The legislator was fighting for the office he defended.,True,1_RC_ambig_2
+257,257,The MP fought for the office she occupied.,The MP was fighting for the office she occupied.,True,1_RC_ambig_2
+258,258,The senator fought for the office he defended.,The senator was fighting for the office he defended.,True,1_RC_ambig_2
+259,259,The congressperson fought for the seat he defended.,The congressperson was fighting for the seat he defended.,True,1_RC_ambig_2
+260,260,The senator campaigned for the office she defended.,The senator was campaigning for the office she defended.,True,1_RC_ambig_2
+261,261,The senator campaigned for the seat she occupied.,The senator was campaigning for the seat she occupied.,True,1_RC_ambig_2
+262,262,The politician fought for the seat he defended.,The politician was fighting for the seat he defended.,True,1_RC_ambig_2
+263,263,The congressperson fought for the office he occupied.,The congressperson was fighting for the office he occupied.,True,1_RC_ambig_2
+264,264,The legislator fought for the office she defended.,The legislator was fighting for the office she defended.,True,1_RC_ambig_2
+265,265,The politician campaigned for the seat she defended.,The politician was campaigning for the seat she defended.,True,1_RC_ambig_2
+266,266,The governor fought for the office she occupied.,The governor was fighting for the office she occupied.,True,1_RC_ambig_2
+267,267,The politician fought for the office she occupied.,The politician was fighting for the office she occupied.,True,1_RC_ambig_2
+268,268,The MP fought for the seat he defended.,The MP was fighting for the seat he defended.,True,1_RC_ambig_2
+269,269,The MP fought for the seat he occupied.,The MP was fighting for the seat he occupied.,True,1_RC_ambig_2
+270,270,The congressperson campaigned for the office she occupied.,The congressperson was campaigning for the office she occupied.,True,1_RC_ambig_2
+271,271,The legislator campaigned for the seat he occupied.,The legislator was campaigning for the seat he occupied.,True,1_RC_ambig_2
+272,272,The governor fought for the office she defended.,The governor was fighting for the office she defended.,True,1_RC_ambig_2
+273,273,The congressperson campaigned for the office he occupied.,The congressperson was campaigning for the office he occupied.,True,1_RC_ambig_2
+274,274,The senator fought for the office she defended.,The senator was fighting for the office she defended.,True,1_RC_ambig_2
+275,275,The legislator fought for the seat she defended.,The legislator was fighting for the seat she defended.,True,1_RC_ambig_2
+276,276,The legislator campaigned for the office he occupied.,The legislator was campaigning for the office he occupied.,True,1_RC_ambig_2
+277,277,The congressperson campaigned for the seat she defended.,The congressperson was campaigning for the seat she defended.,True,1_RC_ambig_2
+278,278,The governor campaigned for the office she occupied.,The governor was campaigning for the office she occupied.,True,1_RC_ambig_2
+279,279,The congressperson campaigned for the seat he defended.,The congressperson was campaigning for the seat he defended.,True,1_RC_ambig_2
+280,280,The politician campaigned for the seat he defended.,The politician was campaigning for the seat he defended.,True,1_RC_ambig_2
+281,281,The MP fought for the office he occupied.,The MP was fighting for the office he occupied.,True,1_RC_ambig_2
+282,282,The governor fought for the seat she occupied.,The governor was fighting for the seat she occupied.,True,1_RC_ambig_2
+283,283,The legislator fought for the office he occupied.,The legislator was fighting for the office he occupied.,True,1_RC_ambig_2
+284,284,The legislator campaigned for the office she defended.,The legislator was campaigning for the office she defended.,True,1_RC_ambig_2
+285,285,The congressperson fought for the office she occupied.,The congressperson was fighting for the office she occupied.,True,1_RC_ambig_2
+286,286,The MP campaigned for the seat he defended.,The MP was campaigning for the seat he defended.,True,1_RC_ambig_2
+287,287,The politician fought for the seat she occupied.,The politician was fighting for the seat she occupied.,True,1_RC_ambig_2
+288,288,The MP campaigned for the office he occupied.,The MP was campaigning for the office he occupied.,True,1_RC_ambig_2
+289,289,The senator fought for the seat he occupied.,The senator was fighting for the seat he occupied.,True,1_RC_ambig_2
+290,290,The senator campaigned for the seat he occupied.,The senator was campaigning for the seat he occupied.,True,1_RC_ambig_2
+291,291,The governor campaigned for the seat he occupied.,The governor was campaigning for the seat he occupied.,True,1_RC_ambig_2
+292,292,The governor campaigned for the seat he defended.,The governor was campaigning for the seat he defended.,True,1_RC_ambig_2
+293,293,The legislator campaigned for the seat he defended.,The legislator was campaigning for the seat he defended.,True,1_RC_ambig_2
+294,294,The politician fought for the office she defended.,The politician was fighting for the office she defended.,True,1_RC_ambig_2
+295,295,The governor fought for the office he occupied.,The governor was fighting for the office he occupied.,True,1_RC_ambig_2
+296,296,The senator fought for the seat she occupied.,The senator was fighting for the seat she occupied.,True,1_RC_ambig_2
+297,297,The MP campaigned for the office he defended.,The MP was campaigning for the office he defended.,True,1_RC_ambig_2
+298,298,The senator campaigned for the office she occupied.,The senator was campaigning for the office she occupied.,True,1_RC_ambig_2
+299,299,The politician campaigned for the office he defended.,The politician was campaigning for the office he defended.,True,1_RC_ambig_2
+300,300,The congressperson campaigned for the office he defended.,The congressperson was campaigning for the office he defended.,True,1_RC_ambig_2
+301,301,The MP campaigned for the office she occupied.,The MP was campaigning for the office she occupied.,True,1_RC_ambig_2
+302,302,The senator fought for the office he occupied.,The senator was fighting for the office he occupied.,True,1_RC_ambig_2
+303,303,The legislator campaigned for the office he defended.,The legislator was campaigning for the office he defended.,True,1_RC_ambig_2
+304,304,The governor campaigned for the office he occupied.,The governor was campaigning for the office he occupied.,True,1_RC_ambig_2
+305,305,The senator fought for the seat she defended.,The senator was fighting for the seat she defended.,True,1_RC_ambig_2
+306,306,The politician campaigned for the office she defended.,The politician was campaigning for the office she defended.,True,1_RC_ambig_2
+307,307,The congressperson fought for the office he defended.,The congressperson was fighting for the office he defended.,True,1_RC_ambig_2
+308,308,The legislator fought for the seat he defended.,The legislator was fighting for the seat he defended.,True,1_RC_ambig_2
+309,309,The senator fought for the office she occupied.,The senator was fighting for the office she occupied.,True,1_RC_ambig_2
+310,310,The congressperson campaigned for the office she defended.,The congressperson was campaigning for the office she defended.,True,1_RC_ambig_2
+311,311,The governor fought for the office he defended.,The governor was fighting for the office he defended.,True,1_RC_ambig_2
+312,312,The MP campaigned for the office she defended.,The MP was campaigning for the office she defended.,True,1_RC_ambig_2
+313,313,The legislator fought for the seat he occupied.,The legislator was fighting for the seat he occupied.,True,1_RC_ambig_2
+314,314,The divorced couple rehashed the same arguments it has had since the kids reached their teens.,The divorced couple was rehashing the same arguments it has had since the kids reached their teens.,True,1_RC_ambig_2
+315,315,The married couple debated the same points of conflict it has had since the honeymoon ended.,The married couple was debating the same points of conflict it has had since the honeymoon ended.,True,1_RC_ambig_2
+316,316,The married couple rehashed the same minor disagreements it has had since the kids reached their teens.,The married couple was rehashing the same minor disagreements it has had since the kids reached their teens.,True,1_RC_ambig_2
+317,317,My family rehashed the same minor disagreements it has had since moving in together.,My family was rehashing the same minor disagreements it has had since moving in together.,True,1_RC_ambig_2
+318,318,The married couple debated the same points of conflict it has had since the kids reached their teens.,The married couple was debating the same points of conflict it has had since the kids reached their teens.,True,1_RC_ambig_2
+319,319,My family debated the same arguments it has had since the kids reached their teens.,My family was debating the same arguments it has had since the kids reached their teens.,True,1_RC_ambig_2
+320,320,The married couple debated the same arguments it has had since moving in together.,The married couple was debating the same arguments it has had since moving in together.,True,1_RC_ambig_2
+321,321,My family debated the same points of conflict it has had since the kids reached their teens.,My family was debating the same points of conflict it has had since the kids reached their teens.,True,1_RC_ambig_2
+322,322,The divorced couple debated the same points of conflict it has had since moving in together.,The divorced couple was debating the same points of conflict it has had since moving in together.,True,1_RC_ambig_2
+323,323,The divorced couple rehashed the same minor disagreements it has had since moving in together.,The divorced couple was rehashing the same minor disagreements it has had since moving in together.,True,1_RC_ambig_2
+324,324,The divorced couple rehashed the same points of conflict it has had since the kids reached their teens.,The divorced couple was rehashing the same points of conflict it has had since the kids reached their teens.,True,1_RC_ambig_2
+325,325,The divorced couple debated the same minor disagreements it has had since the kids reached their teens.,The divorced couple was debating the same minor disagreements it has had since the kids reached their teens.,True,1_RC_ambig_2
+326,326,The married couple debated the same minor disagreements it has had since the honeymoon ended.,The married couple was debating the same minor disagreements it has had since the honeymoon ended.,True,1_RC_ambig_2
+327,327,The divorced couple debated the same minor disagreements it has had since the honeymoon ended.,The divorced couple was debating the same minor disagreements it has had since the honeymoon ended.,True,1_RC_ambig_2
+328,328,The married couple debated the same arguments it has had since the honeymoon ended.,The married couple was debating the same arguments it has had since the honeymoon ended.,True,1_RC_ambig_2
+329,329,The married couple debated the same points of conflict it has had since moving in together.,The married couple was debating the same points of conflict it has had since moving in together.,True,1_RC_ambig_2
+330,330,My family rehashed the same points of conflict it has had since the kids reached their teens.,My family was rehashing the same points of conflict it has had since the kids reached their teens.,True,1_RC_ambig_2
+331,331,The married couple debated the same minor disagreements it has had since the kids reached their teens.,The married couple was debating the same minor disagreements it has had since the kids reached their teens.,True,1_RC_ambig_2
+332,332,The divorced couple rehashed the same minor disagreements it has had since the kids reached their teens.,The divorced couple was rehashing the same minor disagreements it has had since the kids reached their teens.,True,1_RC_ambig_2
+333,333,The married couple rehashed the same points of conflict it has had since the kids reached their teens.,The married couple was rehashing the same points of conflict it has had since the kids reached their teens.,True,1_RC_ambig_2
+334,334,My family debated the same points of conflict it has had since the honeymoon ended.,My family was debating the same points of conflict it has had since the honeymoon ended.,True,1_RC_ambig_2
+335,335,The divorced couple rehashed the same arguments it has had since the honeymoon ended.,The divorced couple was rehashing the same arguments it has had since the honeymoon ended.,True,1_RC_ambig_2
+336,336,The married couple debated the same arguments it has had since the kids reached their teens.,The married couple was debating the same arguments it has had since the kids reached their teens.,True,1_RC_ambig_2
+337,337,My family rehashed the same minor disagreements it has had since the honeymoon ended.,My family was rehashing the same minor disagreements it has had since the honeymoon ended.,True,1_RC_ambig_2
+338,338,My family debated the same minor disagreements it has had since the kids reached their teens.,My family was debating the same minor disagreements it has had since the kids reached their teens.,True,1_RC_ambig_2
+339,339,The married couple rehashed the same points of conflict it has had since moving in together.,The married couple was rehashing the same points of conflict it has had since moving in together.,True,1_RC_ambig_2
+340,340,My family rehashed the same arguments it has had since moving in together.,My family was rehashing the same arguments it has had since moving in together.,True,1_RC_ambig_2
+341,341,The divorced couple debated the same arguments it has had since moving in together.,The divorced couple was debating the same arguments it has had since moving in together.,True,1_RC_ambig_2
+342,342,The married couple debated the same minor disagreements it has had since moving in together.,The married couple was debating the same minor disagreements it has had since moving in together.,True,1_RC_ambig_2
+343,343,The divorced couple rehashed the same points of conflict it has had since the honeymoon ended.,The divorced couple was rehashing the same points of conflict it has had since the honeymoon ended.,True,1_RC_ambig_2
+344,344,My family debated the same points of conflict it has had since moving in together.,My family was debating the same points of conflict it has had since moving in together.,True,1_RC_ambig_2
+345,345,The divorced couple debated the same points of conflict it has had since the honeymoon ended.,The divorced couple was debating the same points of conflict it has had since the honeymoon ended.,True,1_RC_ambig_2
+346,346,The divorced couple debated the same minor disagreements it has had since moving in together.,The divorced couple was debating the same minor disagreements it has had since moving in together.,True,1_RC_ambig_2
+347,347,My family rehashed the same arguments it has had since the kids reached their teens.,My family was rehashing the same arguments it has had since the kids reached their teens.,True,1_RC_ambig_2
+348,348,The divorced couple rehashed the same points of conflict it has had since moving in together.,The divorced couple was rehashing the same points of conflict it has had since moving in together.,True,1_RC_ambig_2
+349,349,The divorced couple rehashed the same minor disagreements it has had since the honeymoon ended.,The divorced couple was rehashing the same minor disagreements it has had since the honeymoon ended.,True,1_RC_ambig_2
+350,350,The married couple rehashed the same minor disagreements it has had since the honeymoon ended.,The married couple was rehashing the same minor disagreements it has had since the honeymoon ended.,True,1_RC_ambig_2
+351,351,The divorced couple debated the same points of conflict it has had since the kids reached their teens.,The divorced couple was debating the same points of conflict it has had since the kids reached their teens.,True,1_RC_ambig_2
+352,352,The married couple rehashed the same arguments it has had since moving in together.,The married couple was rehashing the same arguments it has had since moving in together.,True,1_RC_ambig_2
+353,353,My family debated the same minor disagreements it has had since moving in together.,My family was debating the same minor disagreements it has had since moving in together.,True,1_RC_ambig_2
+354,354,The married couple rehashed the same minor disagreements it has had since moving in together.,The married couple was rehashing the same minor disagreements it has had since moving in together.,True,1_RC_ambig_2
+355,355,The married couple rehashed the same points of conflict it has had since the honeymoon ended.,The married couple was rehashing the same points of conflict it has had since the honeymoon ended.,True,1_RC_ambig_2
+356,356,My family rehashed the same arguments it has had since the honeymoon ended.,My family was rehashing the same arguments it has had since the honeymoon ended.,True,1_RC_ambig_2
+357,357,The divorced couple rehashed the same arguments it has had since moving in together.,The divorced couple was rehashing the same arguments it has had since moving in together.,True,1_RC_ambig_2
+358,358,My family rehashed the same points of conflict it has had since moving in together.,My family was rehashing the same points of conflict it has had since moving in together.,True,1_RC_ambig_2
+359,359,My family debated the same arguments it has had since moving in together.,My family was debating the same arguments it has had since moving in together.,True,1_RC_ambig_2
+360,360,The divorced couple debated the same arguments it has had since the honeymoon ended.,The divorced couple was debating the same arguments it has had since the honeymoon ended.,True,1_RC_ambig_2
+361,361,My family rehashed the same minor disagreements it has had since the kids reached their teens.,My family was rehashing the same minor disagreements it has had since the kids reached their teens.,True,1_RC_ambig_2
+362,362,The married couple rehashed the same arguments it has had since the honeymoon ended.,The married couple was rehashing the same arguments it has had since the honeymoon ended.,True,1_RC_ambig_2
+363,363,The divorced couple debated the same arguments it has had since the kids reached their teens.,The divorced couple was debating the same arguments it has had since the kids reached their teens.,True,1_RC_ambig_2
+364,364,My family debated the same minor disagreements it has had since the honeymoon ended.,My family was debating the same minor disagreements it has had since the honeymoon ended.,True,1_RC_ambig_2
+365,365,My family rehashed the same points of conflict it has had since the honeymoon ended.,My family was rehashing the same points of conflict it has had since the honeymoon ended.,True,1_RC_ambig_2
+366,366,My family debated the same arguments it has had since the honeymoon ended.,My family was debating the same arguments it has had since the honeymoon ended.,True,1_RC_ambig_2
+367,367,The married couple rehashed the same arguments it has had since the kids reached their teens.,The married couple was rehashing the same arguments it has had since the kids reached their teens.,True,1_RC_ambig_2
+368,368,The scientist advocated for the same hygiene measures he recommended.,The scientist was advocating for the same hygiene measures he recommended.,True,1_RC_ambig_2
+369,369,The certified medical professional advocated for the same hygiene measures she recommended.,The certified medical professional was advocating for the same hygiene measures she recommended.,True,1_RC_ambig_2
+370,370,The certified medical professional called for the same hygiene measures she supported.,The certified medical professional was calling for the same hygiene measures she supported.,True,1_RC_ambig_2
+371,371,The epidemiologist advocated for the same measures he supported.,The epidemiologist was advocating for the same measures he supported.,True,1_RC_ambig_2
+372,372,The certified medical professional called for the same measures she recommended.,The certified medical professional was calling for the same measures she recommended.,True,1_RC_ambig_2
+373,373,The scientist called for the social distancing measures he recommended.,The scientist was calling for the social distancing measures he recommended.,True,1_RC_ambig_2
+374,374,The epidemiologist called for the same hygiene measures he supported.,The epidemiologist was calling for the same hygiene measures he supported.,True,1_RC_ambig_2
+375,375,The epidemiologist advocated for the social distancing measures he recommended.,The epidemiologist was advocating for the social distancing measures he recommended.,True,1_RC_ambig_2
+376,376,The certified medical professional advocated for the same measures she recommended.,The certified medical professional was advocating for the same measures she recommended.,True,1_RC_ambig_2
+377,377,The scientist advocated for the same precautions he supported.,The scientist was advocating for the same precautions he supported.,True,1_RC_ambig_2
+378,378,The certified medical professional called for the same measures she supported.,The certified medical professional was calling for the same measures she supported.,True,1_RC_ambig_2
+379,379,The certified medical professional advocated for the social distancing measures he supported.,The certified medical professional was advocating for the social distancing measures he supported.,True,1_RC_ambig_2
+380,380,The scientist advocated for the same measures she recommended.,The scientist was advocating for the same measures she recommended.,True,1_RC_ambig_2
+381,381,The epidemiologist called for the same measures he recommended.,The epidemiologist was calling for the same measures he recommended.,True,1_RC_ambig_2
+382,382,The certified medical professional called for the same precautions he recommended.,The certified medical professional was calling for the same precautions he recommended.,True,1_RC_ambig_2
+383,383,The epidemiologist advocated for the same hygiene measures she supported.,The epidemiologist was advocating for the same hygiene measures she supported.,True,1_RC_ambig_2
+384,384,The certified medical professional called for the same precautions she supported.,The certified medical professional was calling for the same precautions she supported.,True,1_RC_ambig_2
+385,385,The certified medical professional called for the same hygiene measures he recommended.,The certified medical professional was calling for the same hygiene measures he recommended.,True,1_RC_ambig_2
+386,386,The scientist advocated for the same precautions he recommended.,The scientist was advocating for the same precautions he recommended.,True,1_RC_ambig_2
+387,387,The epidemiologist called for the same precautions he recommended.,The epidemiologist was calling for the same precautions he recommended.,True,1_RC_ambig_2
+388,388,The certified medical professional advocated for the same measures he supported.,The certified medical professional was advocating for the same measures he supported.,True,1_RC_ambig_2
+389,389,The certified medical professional called for the same precautions he supported.,The certified medical professional was calling for the same precautions he supported.,True,1_RC_ambig_2
+390,390,The scientist advocated for the same hygiene measures she recommended.,The scientist was advocating for the same hygiene measures she recommended.,True,1_RC_ambig_2
+391,391,The scientist advocated for the social distancing measures she supported.,The scientist was advocating for the social distancing measures she supported.,True,1_RC_ambig_2
+392,392,The certified medical professional advocated for the same measures she supported.,The certified medical professional was advocating for the same measures she supported.,True,1_RC_ambig_2
+393,393,The certified medical professional advocated for the same precautions he supported.,The certified medical professional was advocating for the same precautions he supported.,True,1_RC_ambig_2
+394,394,The certified medical professional advocated for the same measures he recommended.,The certified medical professional was advocating for the same measures he recommended.,True,1_RC_ambig_2
+395,395,The certified medical professional called for the same measures he recommended.,The certified medical professional was calling for the same measures he recommended.,True,1_RC_ambig_2
+396,396,The scientist advocated for the same measures she supported.,The scientist was advocating for the same measures she supported.,True,1_RC_ambig_2
+397,397,The epidemiologist advocated for the same hygiene measures he supported.,The epidemiologist was advocating for the same hygiene measures he supported.,True,1_RC_ambig_2
+398,398,The epidemiologist called for the same measures she recommended.,The epidemiologist was calling for the same measures she recommended.,True,1_RC_ambig_2
+399,399,The epidemiologist called for the same measures she supported.,The epidemiologist was calling for the same measures she supported.,True,1_RC_ambig_2
+400,400,The epidemiologist advocated for the same precautions he recommended.,The epidemiologist was advocating for the same precautions he recommended.,True,1_RC_ambig_2
+401,401,The certified medical professional called for the social distancing measures he supported.,The certified medical professional was calling for the social distancing measures he supported.,True,1_RC_ambig_2
+402,402,The epidemiologist called for the social distancing measures she supported.,The epidemiologist was calling for the social distancing measures she supported.,True,1_RC_ambig_2
+403,403,The epidemiologist called for the same precautions she recommended.,The epidemiologist was calling for the same precautions she recommended.,True,1_RC_ambig_2
+404,404,The epidemiologist called for the social distancing measures he recommended.,The epidemiologist was calling for the social distancing measures he recommended.,True,1_RC_ambig_2
+405,405,The epidemiologist called for the same precautions she supported.,The epidemiologist was calling for the same precautions she supported.,True,1_RC_ambig_2
+406,406,The scientist called for the same hygiene measures he recommended.,The scientist was calling for the same hygiene measures he recommended.,True,1_RC_ambig_2
+407,407,The epidemiologist called for the same measures he supported.,The epidemiologist was calling for the same measures he supported.,True,1_RC_ambig_2
+408,408,The epidemiologist advocated for the same precautions she recommended.,The epidemiologist was advocating for the same precautions she recommended.,True,1_RC_ambig_2
+409,409,The scientist called for the same hygiene measures she supported.,The scientist was calling for the same hygiene measures she supported.,True,1_RC_ambig_2
+410,410,The scientist called for the social distancing measures she supported.,The scientist was calling for the social distancing measures she supported.,True,1_RC_ambig_2
+411,411,The scientist advocated for the social distancing measures she recommended.,The scientist was advocating for the social distancing measures she recommended.,True,1_RC_ambig_2
+412,412,The scientist called for the same measures he supported.,The scientist was calling for the same measures he supported.,True,1_RC_ambig_2
+413,413,The certified medical professional called for the same measures he supported.,The certified medical professional was calling for the same measures he supported.,True,1_RC_ambig_2
+414,414,The scientist called for the same precautions he supported.,The scientist was calling for the same precautions he supported.,True,1_RC_ambig_2
+415,415,The certified medical professional advocated for the social distancing measures she recommended.,The certified medical professional was advocating for the social distancing measures she recommended.,True,1_RC_ambig_2
+416,416,The scientist advocated for the same precautions she supported.,The scientist was advocating for the same precautions she supported.,True,1_RC_ambig_2
+417,417,The certified medical professional advocated for the same precautions he recommended.,The certified medical professional was advocating for the same precautions he recommended.,True,1_RC_ambig_2
+418,418,The scientist called for the same precautions he recommended.,The scientist was calling for the same precautions he recommended.,True,1_RC_ambig_2
+419,419,The epidemiologist advocated for the social distancing measures she recommended.,The epidemiologist was advocating for the social distancing measures she recommended.,True,1_RC_ambig_2
+420,420,The epidemiologist called for the social distancing measures she recommended.,The epidemiologist was calling for the social distancing measures she recommended.,True,1_RC_ambig_2
+421,421,The certified medical professional called for the same precautions she recommended.,The certified medical professional was calling for the same precautions she recommended.,True,1_RC_ambig_2
+422,422,The scientist called for the same measures she recommended.,The scientist was calling for the same measures she recommended.,True,1_RC_ambig_2
+423,423,The epidemiologist called for the same hygiene measures she recommended.,The epidemiologist was calling for the same hygiene measures she recommended.,True,1_RC_ambig_2
+424,424,The certified medical professional called for the social distancing measures she recommended.,The certified medical professional was calling for the social distancing measures she recommended.,True,1_RC_ambig_2
+425,425,The scientist advocated for the same hygiene measures he supported.,The scientist was advocating for the same hygiene measures he supported.,True,1_RC_ambig_2
+426,426,The epidemiologist called for the same hygiene measures she supported.,The epidemiologist was calling for the same hygiene measures she supported.,True,1_RC_ambig_2
+427,427,The certified medical professional advocated for the same hygiene measures she supported.,The certified medical professional was advocating for the same hygiene measures she supported.,True,1_RC_ambig_2
+428,428,The scientist advocated for the social distancing measures he supported.,The scientist was advocating for the social distancing measures he supported.,True,1_RC_ambig_2
+429,429,The scientist advocated for the social distancing measures he recommended.,The scientist was advocating for the social distancing measures he recommended.,True,1_RC_ambig_2
+430,430,The scientist advocated for the same measures he supported.,The scientist was advocating for the same measures he supported.,True,1_RC_ambig_2
+431,431,The epidemiologist advocated for the same measures he recommended.,The epidemiologist was advocating for the same measures he recommended.,True,1_RC_ambig_2
+432,432,The certified medical professional advocated for the social distancing measures she supported.,The certified medical professional was advocating for the social distancing measures she supported.,True,1_RC_ambig_2
+433,433,The epidemiologist advocated for the social distancing measures she supported.,The epidemiologist was advocating for the social distancing measures she supported.,True,1_RC_ambig_2
+434,434,The scientist called for the same precautions she recommended.,The scientist was calling for the same precautions she recommended.,True,1_RC_ambig_2
+435,435,The scientist called for the same precautions she supported.,The scientist was calling for the same precautions she supported.,True,1_RC_ambig_2
+436,436,The scientist called for the same measures she supported.,The scientist was calling for the same measures she supported.,True,1_RC_ambig_2
+437,437,The epidemiologist advocated for the social distancing measures he supported.,The epidemiologist was advocating for the social distancing measures he supported.,True,1_RC_ambig_2
+438,438,The certified medical professional called for the same hygiene measures he supported.,The certified medical professional was calling for the same hygiene measures he supported.,True,1_RC_ambig_2
+439,439,The epidemiologist called for the same hygiene measures he recommended.,The epidemiologist was calling for the same hygiene measures he recommended.,True,1_RC_ambig_2
+440,440,The scientist advocated for the same measures he recommended.,The scientist was advocating for the same measures he recommended.,True,1_RC_ambig_2
+441,441,The scientist called for the same hygiene measures he supported.,The scientist was calling for the same hygiene measures he supported.,True,1_RC_ambig_2
+442,442,The certified medical professional advocated for the same precautions she recommended.,The certified medical professional was advocating for the same precautions she recommended.,True,1_RC_ambig_2
+443,443,The certified medical professional advocated for the same precautions she supported.,The certified medical professional was advocating for the same precautions she supported.,True,1_RC_ambig_2
+444,444,The epidemiologist called for the same precautions he supported.,The epidemiologist was calling for the same precautions he supported.,True,1_RC_ambig_2
+445,445,The scientist called for the same measures he recommended.,The scientist was calling for the same measures he recommended.,True,1_RC_ambig_2
+446,446,The epidemiologist advocated for the same measures she supported.,The epidemiologist was advocating for the same measures she supported.,True,1_RC_ambig_2
+447,447,The certified medical professional called for the social distancing measures he recommended.,The certified medical professional was calling for the social distancing measures he recommended.,True,1_RC_ambig_2
+448,448,The epidemiologist advocated for the same measures she recommended.,The epidemiologist was advocating for the same measures she recommended.,True,1_RC_ambig_2
+449,449,The epidemiologist advocated for the same precautions he supported.,The epidemiologist was advocating for the same precautions he supported.,True,1_RC_ambig_2
+450,450,The certified medical professional advocated for the social distancing measures he recommended.,The certified medical professional was advocating for the social distancing measures he recommended.,True,1_RC_ambig_2
+451,451,The certified medical professional advocated for the same hygiene measures he recommended.,The certified medical professional was advocating for the same hygiene measures he recommended.,True,1_RC_ambig_2
+452,452,The epidemiologist called for the social distancing measures he supported.,The epidemiologist was calling for the social distancing measures he supported.,True,1_RC_ambig_2
+453,453,The epidemiologist advocated for the same hygiene measures he recommended.,The epidemiologist was advocating for the same hygiene measures he recommended.,True,1_RC_ambig_2
+454,454,The certified medical professional called for the same hygiene measures she recommended.,The certified medical professional was calling for the same hygiene measures she recommended.,True,1_RC_ambig_2
+455,455,The epidemiologist advocated for the same hygiene measures she recommended.,The epidemiologist was advocating for the same hygiene measures she recommended.,True,1_RC_ambig_2
+456,456,The scientist advocated for the same hygiene measures she supported.,The scientist was advocating for the same hygiene measures she supported.,True,1_RC_ambig_2
+457,457,The certified medical professional advocated for the same hygiene measures he supported.,The certified medical professional was advocating for the same hygiene measures he supported.,True,1_RC_ambig_2
+458,458,The certified medical professional called for the social distancing measures she supported.,The certified medical professional was calling for the social distancing measures she supported.,True,1_RC_ambig_2
+459,459,The scientist called for the social distancing measures he supported.,The scientist was calling for the social distancing measures he supported.,True,1_RC_ambig_2
+460,460,The scientist advocated for the same precautions she recommended.,The scientist was advocating for the same precautions she recommended.,True,1_RC_ambig_2
+461,461,The scientist called for the social distancing measures she recommended.,The scientist was calling for the social distancing measures she recommended.,True,1_RC_ambig_2
+462,462,The scientist called for the same hygiene measures she recommended.,The scientist was calling for the same hygiene measures she recommended.,True,1_RC_ambig_2
+463,463,The epidemiologist advocated for the same precautions she supported.,The epidemiologist was advocating for the same precautions she supported.,True,1_RC_ambig_2
+464,464,The dancer showed off the same moves she prepared.,The dancer was showing off the same moves she prepared.,True,1_RC_ambig_2
+465,465,The supporting dancer off broadway practiced the same old dance steps she prepared.,The supporting dancer off broadway was practicing the same old dance steps she prepared.,True,1_RC_ambig_2
+466,466,The ballerina practiced the same moves she learned.,The ballerina was practicing the same moves she learned.,True,1_RC_ambig_2
+467,467,The ballerina worked on the same old dance steps she prepared.,The ballerina was working on the same old dance steps she prepared.,True,1_RC_ambig_2
+468,468,The ballerina showed off the same old dance steps she prepared.,The ballerina was showing off the same old dance steps she prepared.,True,1_RC_ambig_2
+469,469,The supporting dancer off broadway showed off the same old dance steps she learned.,The supporting dancer off broadway was showing off the same old dance steps she learned.,True,1_RC_ambig_2
+470,470,The dancer showed off the same old dance steps she learned.,The dancer was showing off the same old dance steps she learned.,True,1_RC_ambig_2
+471,471,The supporting dancer off broadway worked on the same old dance steps she prepared.,The supporting dancer off broadway was working on the same old dance steps she prepared.,True,1_RC_ambig_2
+472,472,The dancer practiced the same moves she prepared.,The dancer was practicing the same moves she prepared.,True,1_RC_ambig_2
+473,473,The ballerina worked on the same moves she prepared.,The ballerina was working on the same moves she prepared.,True,1_RC_ambig_2
+474,474,The ballerina worked on the same moves she learned.,The ballerina was working on the same moves she learned.,True,1_RC_ambig_2
+475,475,The ballerina practiced the same moves she prepared.,The ballerina was practicing the same moves she prepared.,True,1_RC_ambig_2
+476,476,The ballerina practiced the same old dance steps she prepared.,The ballerina was practicing the same old dance steps she prepared.,True,1_RC_ambig_2
+477,477,The dancer worked on the same moves she prepared.,The dancer was working on the same moves she prepared.,True,1_RC_ambig_2
+478,478,The dancer showed off the same old dance steps she prepared.,The dancer was showing off the same old dance steps she prepared.,True,1_RC_ambig_2
+479,479,The ballerina showed off the same moves she prepared.,The ballerina was showing off the same moves she prepared.,True,1_RC_ambig_2
+480,480,The supporting dancer off broadway worked on the same moves she learned.,The supporting dancer off broadway was working on the same moves she learned.,True,1_RC_ambig_2
+481,481,The dancer worked on the same moves she learned.,The dancer was working on the same moves she learned.,True,1_RC_ambig_2
+482,482,The ballerina worked on the same old dance steps she learned.,The ballerina was working on the same old dance steps she learned.,True,1_RC_ambig_2
+483,483,The ballerina practiced the same old dance steps she learned.,The ballerina was practicing the same old dance steps she learned.,True,1_RC_ambig_2
+484,484,The dancer showed off the same moves she learned.,The dancer was showing off the same moves she learned.,True,1_RC_ambig_2
+485,485,The supporting dancer off broadway practiced the same old dance steps she learned.,The supporting dancer off broadway was practicing the same old dance steps she learned.,True,1_RC_ambig_2
+486,486,The supporting dancer off broadway showed off the same moves she prepared.,The supporting dancer off broadway was showing off the same moves she prepared.,True,1_RC_ambig_2
+487,487,The supporting dancer off broadway practiced the same moves she learned.,The supporting dancer off broadway was practicing the same moves she learned.,True,1_RC_ambig_2
+488,488,The dancer worked on the same old dance steps she prepared.,The dancer was working on the same old dance steps she prepared.,True,1_RC_ambig_2
+489,489,The dancer worked on the same old dance steps she learned.,The dancer was working on the same old dance steps she learned.,True,1_RC_ambig_2
+490,490,The supporting dancer off broadway worked on the same moves she prepared.,The supporting dancer off broadway was working on the same moves she prepared.,True,1_RC_ambig_2
+491,491,The supporting dancer off broadway worked on the same old dance steps she learned.,The supporting dancer off broadway was working on the same old dance steps she learned.,True,1_RC_ambig_2
+492,492,The dancer practiced the same old dance steps she learned.,The dancer was practicing the same old dance steps she learned.,True,1_RC_ambig_2
+493,493,The ballerina showed off the same old dance steps she learned.,The ballerina was showing off the same old dance steps she learned.,True,1_RC_ambig_2
+494,494,The dancer practiced the same moves she learned.,The dancer was practicing the same moves she learned.,True,1_RC_ambig_2
+495,495,The supporting dancer off broadway showed off the same old dance steps she prepared.,The supporting dancer off broadway was showing off the same old dance steps she prepared.,True,1_RC_ambig_2
+496,496,The supporting dancer off broadway practiced the same moves she prepared.,The supporting dancer off broadway was practicing the same moves she prepared.,True,1_RC_ambig_2
+497,497,The dancer practiced the same old dance steps she prepared.,The dancer was practicing the same old dance steps she prepared.,True,1_RC_ambig_2
+498,498,The supporting dancer off broadway showed off the same moves she learned.,The supporting dancer off broadway was showing off the same moves she learned.,True,1_RC_ambig_2
+499,499,The ballerina showed off the same moves she learned.,The ballerina was showing off the same moves she learned.,True,1_RC_ambig_2
+500,500,The student tried to figure out the question he attempted to solve yesterday.,The student was trying to figure out the question he attempted to solve yesterday.,True,1_RC_ambig_2
+501,501,The interviewee tried to figure out the question she stared at yesterday.,The interviewee was trying to figure out the question she stared at yesterday.,True,1_RC_ambig_2
+502,502,The student thought about the problem set she attempted to solve yesterday.,The student was thinking about the problem set she attempted to solve yesterday.,True,1_RC_ambig_2
+503,503,The interviewee thought about the problem set she attempted to solve yesterday.,The interviewee was thinking about the problem set she attempted to solve yesterday.,True,1_RC_ambig_2
+504,504,The student thought about the problem set he stared at yesterday.,The student was thinking about the problem set he stared at yesterday.,True,1_RC_ambig_2
+505,505,The interviewee thought about the problem set he stared at yesterday.,The interviewee was thinking about the problem set he stared at yesterday.,True,1_RC_ambig_2
+506,506,The student tried to figure out the problem set she stared at yesterday.,The student was trying to figure out the problem set she stared at yesterday.,True,1_RC_ambig_2
+507,507,The student tried to figure out the question she attempted to solve yesterday.,The student was trying to figure out the question she attempted to solve yesterday.,True,1_RC_ambig_2
+508,508,The interviewee tried to figure out the question he attempted to solve yesterday.,The interviewee was trying to figure out the question he attempted to solve yesterday.,True,1_RC_ambig_2
+509,509,The interviewee thought about the question she stared at yesterday.,The interviewee was thinking about the question she stared at yesterday.,True,1_RC_ambig_2
+510,510,The interviewee thought about the question she attempted to solve yesterday.,The interviewee was thinking about the question she attempted to solve yesterday.,True,1_RC_ambig_2
+511,511,The student thought about the question he stared at yesterday.,The student was thinking about the question he stared at yesterday.,True,1_RC_ambig_2
+512,512,The interviewee thought about the problem set she stared at yesterday.,The interviewee was thinking about the problem set she stared at yesterday.,True,1_RC_ambig_2
+513,513,The interviewee tried to figure out the problem set she attempted to solve yesterday.,The interviewee was trying to figure out the problem set she attempted to solve yesterday.,True,1_RC_ambig_2
+514,514,The interviewee thought about the question he attempted to solve yesterday.,The interviewee was thinking about the question he attempted to solve yesterday.,True,1_RC_ambig_2
+515,515,The student thought about the problem set he attempted to solve yesterday.,The student was thinking about the problem set he attempted to solve yesterday.,True,1_RC_ambig_2
+516,516,The student tried to figure out the problem set she attempted to solve yesterday.,The student was trying to figure out the problem set she attempted to solve yesterday.,True,1_RC_ambig_2
+517,517,The student thought about the question she attempted to solve yesterday.,The student was thinking about the question she attempted to solve yesterday.,True,1_RC_ambig_2
+518,518,The student tried to figure out the problem set he attempted to solve yesterday.,The student was trying to figure out the problem set he attempted to solve yesterday.,True,1_RC_ambig_2
+519,519,The interviewee tried to figure out the question she attempted to solve yesterday.,The interviewee was trying to figure out the question she attempted to solve yesterday.,True,1_RC_ambig_2
+520,520,The interviewee tried to figure out the problem set he attempted to solve yesterday.,The interviewee was trying to figure out the problem set he attempted to solve yesterday.,True,1_RC_ambig_2
+521,521,The student tried to figure out the problem set he stared at yesterday.,The student was trying to figure out the problem set he stared at yesterday.,True,1_RC_ambig_2
+522,522,The interviewee thought about the question he stared at yesterday.,The interviewee was thinking about the question he stared at yesterday.,True,1_RC_ambig_2
+523,523,The student thought about the question he attempted to solve yesterday.,The student was thinking about the question he attempted to solve yesterday.,True,1_RC_ambig_2
+524,524,The interviewee tried to figure out the problem set she stared at yesterday.,The interviewee was trying to figure out the problem set she stared at yesterday.,True,1_RC_ambig_2
+525,525,The student tried to figure out the question she stared at yesterday.,The student was trying to figure out the question she stared at yesterday.,True,1_RC_ambig_2
+526,526,The interviewee tried to figure out the question he stared at yesterday.,The interviewee was trying to figure out the question he stared at yesterday.,True,1_RC_ambig_2
+527,527,The student thought about the question she stared at yesterday.,The student was thinking about the question she stared at yesterday.,True,1_RC_ambig_2
+528,528,The student thought about the problem set she stared at yesterday.,The student was thinking about the problem set she stared at yesterday.,True,1_RC_ambig_2
+529,529,The interviewee tried to figure out the problem set he stared at yesterday.,The interviewee was trying to figure out the problem set he stared at yesterday.,True,1_RC_ambig_2
+530,530,The interviewee thought about the problem set he attempted to solve yesterday.,The interviewee was thinking about the problem set he attempted to solve yesterday.,True,1_RC_ambig_2
+531,531,The student tried to figure out the question he stared at yesterday.,The student was trying to figure out the question he stared at yesterday.,True,1_RC_ambig_2
+532,532,The basketball player practiced the move he watched on TV.,The basketball player was practicing the move he watched on TV.,True,1_RC_ambig_2
+533,533,The basketball player learned the play he watched on TV.,The basketball player was learning the play he watched on TV.,True,1_RC_ambig_2
+534,534,The basketball player practiced the play she watched on TV.,The basketball player was practicing the play she watched on TV.,True,1_RC_ambig_2
+535,535,The soccer player practiced the move she watched on TV.,The soccer player was practicing the move she watched on TV.,True,1_RC_ambig_2
+536,536,The soccer player learned the play he watched on TV.,The soccer player was learning the play he watched on TV.,True,1_RC_ambig_2
+537,537,The soccer player practiced the move he watched on TV.,The soccer player was practicing the move he watched on TV.,True,1_RC_ambig_2
+538,538,The football player practiced the play she watched on TV.,The football player was practicing the play she watched on TV.,True,1_RC_ambig_2
+539,539,The football player practiced the move he watched on TV.,The football player was practicing the move he watched on TV.,True,1_RC_ambig_2
+540,540,The soccer player practiced the play he watched on TV.,The soccer player was practicing the play he watched on TV.,True,1_RC_ambig_2
+541,541,The football player learned the move he watched on TV.,The football player was learning the move he watched on TV.,True,1_RC_ambig_2
+542,542,The basketball player learned the move she watched on TV.,The basketball player was learning the move she watched on TV.,True,1_RC_ambig_2
+543,543,The soccer player learned the play she watched on TV.,The soccer player was learning the play she watched on TV.,True,1_RC_ambig_2
+544,544,The football player practiced the play he watched on TV.,The football player was practicing the play he watched on TV.,True,1_RC_ambig_2
+545,545,The basketball player practiced the move she watched on TV.,The basketball player was practicing the move she watched on TV.,True,1_RC_ambig_2
+546,546,The basketball player practiced the play he watched on TV.,The basketball player was practicing the play he watched on TV.,True,1_RC_ambig_2
+547,547,The football player practiced the move she watched on TV.,The football player was practicing the move she watched on TV.,True,1_RC_ambig_2
+548,548,The soccer player learned the move he watched on TV.,The soccer player was learning the move he watched on TV.,True,1_RC_ambig_2
+549,549,The soccer player learned the move she watched on TV.,The soccer player was learning the move she watched on TV.,True,1_RC_ambig_2
+550,550,The football player learned the move she watched on TV.,The football player was learning the move she watched on TV.,True,1_RC_ambig_2
+551,551,The basketball player learned the play she watched on TV.,The basketball player was learning the play she watched on TV.,True,1_RC_ambig_2
+552,552,The soccer player practiced the play she watched on TV.,The soccer player was practicing the play she watched on TV.,True,1_RC_ambig_2
+553,553,The football player learned the play she watched on TV.,The football player was learning the play she watched on TV.,True,1_RC_ambig_2
+554,554,The basketball player learned the move he watched on TV.,The basketball player was learning the move he watched on TV.,True,1_RC_ambig_2
+555,555,The football player learned the play he watched on TV.,The football player was learning the play he watched on TV.,True,1_RC_ambig_2
+556,556,The child ate the banana she nibbled on at 2 pm.,The child was eating the banana she nibbled on at 2 pm.,True,1_RC_ambig_2
+557,557,The little girl ate the pie she snacked on at 2 pm.,The little girl was eating the pie she snacked on at 2 pm.,True,1_RC_ambig_2
+558,558,The little girl ate the banana she snacked on at 2 pm.,The little girl was eating the banana she snacked on at 2 pm.,True,1_RC_ambig_2
+559,559,The little girl ate the apple she nibbled on this morning.,The little girl was eating the apple she nibbled on this morning.,True,1_RC_ambig_2
+560,560,The child ate the pie she nibbled on at 2 pm.,The child was eating the pie she nibbled on at 2 pm.,True,1_RC_ambig_2
+561,561,The little girl ate the pie she snacked on this morning.,The little girl was eating the pie she snacked on this morning.,True,1_RC_ambig_2
+562,562,The little girl ate the pie she nibbled on this morning.,The little girl was eating the pie she nibbled on this morning.,True,1_RC_ambig_2
+563,563,The kid ate the banana she snacked on at 2 pm.,The kid was eating the banana she snacked on at 2 pm.,True,1_RC_ambig_2
+564,564,The little girl ate the sandwich she snacked on this morning.,The little girl was eating the sandwich she snacked on this morning.,True,1_RC_ambig_2
+565,565,The child ate the banana she snacked on this morning.,The child was eating the banana she snacked on this morning.,True,1_RC_ambig_2
+566,566,The kid ate the banana she nibbled on at 2 pm.,The kid was eating the banana she nibbled on at 2 pm.,True,1_RC_ambig_2
+567,567,The child ate the banana she snacked on at 2 pm.,The child was eating the banana she snacked on at 2 pm.,True,1_RC_ambig_2
+568,568,The child ate the apple she snacked on at 2 pm.,The child was eating the apple she snacked on at 2 pm.,True,1_RC_ambig_2
+569,569,The little girl ate the apple she nibbled on at 2 pm.,The little girl was eating the apple she nibbled on at 2 pm.,True,1_RC_ambig_2
+570,570,The kid ate the banana she snacked on this morning.,The kid was eating the banana she snacked on this morning.,True,1_RC_ambig_2
+571,571,The little girl ate the apple she snacked on at 2 pm.,The little girl was eating the apple she snacked on at 2 pm.,True,1_RC_ambig_2
+572,572,The child ate the sandwich she nibbled on this morning.,The child was eating the sandwich she nibbled on this morning.,True,1_RC_ambig_2
+573,573,The kid ate the sandwich she nibbled on at 2 pm.,The kid was eating the sandwich she nibbled on at 2 pm.,True,1_RC_ambig_2
+574,574,The little girl ate the pie she nibbled on at 2 pm.,The little girl was eating the pie she nibbled on at 2 pm.,True,1_RC_ambig_2
+575,575,The kid ate the apple she snacked on at 2 pm.,The kid was eating the apple she snacked on at 2 pm.,True,1_RC_ambig_2
+576,576,The child ate the sandwich she snacked on at 2 pm.,The child was eating the sandwich she snacked on at 2 pm.,True,1_RC_ambig_2
+577,577,The little girl ate the sandwich she nibbled on this morning.,The little girl was eating the sandwich she nibbled on this morning.,True,1_RC_ambig_2
+578,578,The kid ate the apple she snacked on this morning.,The kid was eating the apple she snacked on this morning.,True,1_RC_ambig_2
+579,579,The child ate the sandwich she nibbled on at 2 pm.,The child was eating the sandwich she nibbled on at 2 pm.,True,1_RC_ambig_2
+580,580,The kid ate the pie she nibbled on this morning.,The kid was eating the pie she nibbled on this morning.,True,1_RC_ambig_2
+581,581,The little girl ate the sandwich she nibbled on at 2 pm.,The little girl was eating the sandwich she nibbled on at 2 pm.,True,1_RC_ambig_2
+582,582,The child ate the apple she nibbled on this morning.,The child was eating the apple she nibbled on this morning.,True,1_RC_ambig_2
+583,583,The child ate the sandwich she snacked on this morning.,The child was eating the sandwich she snacked on this morning.,True,1_RC_ambig_2
+584,584,The kid ate the pie she snacked on at 2 pm.,The kid was eating the pie she snacked on at 2 pm.,True,1_RC_ambig_2
+585,585,The little girl ate the banana she nibbled on this morning.,The little girl was eating the banana she nibbled on this morning.,True,1_RC_ambig_2
+586,586,The kid ate the apple she nibbled on at 2 pm.,The kid was eating the apple she nibbled on at 2 pm.,True,1_RC_ambig_2
+587,587,The little girl ate the apple she snacked on this morning.,The little girl was eating the apple she snacked on this morning.,True,1_RC_ambig_2
+588,588,The kid ate the sandwich she snacked on at 2 pm.,The kid was eating the sandwich she snacked on at 2 pm.,True,1_RC_ambig_2
+589,589,The kid ate the pie she snacked on this morning.,The kid was eating the pie she snacked on this morning.,True,1_RC_ambig_2
+590,590,The little girl ate the banana she snacked on this morning.,The little girl was eating the banana she snacked on this morning.,True,1_RC_ambig_2
+591,591,The child ate the pie she snacked on at 2 pm.,The child was eating the pie she snacked on at 2 pm.,True,1_RC_ambig_2
+592,592,The kid ate the sandwich she snacked on this morning.,The kid was eating the sandwich she snacked on this morning.,True,1_RC_ambig_2
+593,593,The child ate the pie she nibbled on this morning.,The child was eating the pie she nibbled on this morning.,True,1_RC_ambig_2
+594,594,The kid ate the sandwich she nibbled on this morning.,The kid was eating the sandwich she nibbled on this morning.,True,1_RC_ambig_2
+595,595,The child ate the banana she nibbled on this morning.,The child was eating the banana she nibbled on this morning.,True,1_RC_ambig_2
+596,596,The kid ate the banana she nibbled on this morning.,The kid was eating the banana she nibbled on this morning.,True,1_RC_ambig_2
+597,597,The child ate the apple she nibbled on at 2 pm.,The child was eating the apple she nibbled on at 2 pm.,True,1_RC_ambig_2
+598,598,The child ate the pie she snacked on this morning.,The child was eating the pie she snacked on this morning.,True,1_RC_ambig_2
+599,599,The child ate the apple she snacked on this morning.,The child was eating the apple she snacked on this morning.,True,1_RC_ambig_2
+600,600,The kid ate the apple she nibbled on this morning.,The kid was eating the apple she nibbled on this morning.,True,1_RC_ambig_2
+601,601,The kid ate the pie she nibbled on at 2 pm.,The kid was eating the pie she nibbled on at 2 pm.,True,1_RC_ambig_2
+602,602,The little girl ate the banana she nibbled on at 2 pm.,The little girl was eating the banana she nibbled on at 2 pm.,True,1_RC_ambig_2
+603,603,The little girl ate the sandwich she snacked on at 2 pm.,The little girl was eating the sandwich she snacked on at 2 pm.,True,1_RC_ambig_2
+604,604,A nurse at that hospital still lived in the same country his father worked in.,A nurse at that hospital was still living in the same country his father worked in.,True,1_RC_ambig_2
+605,605,A faculty member at that university still lived in the same country his son worked in.,A faculty member at that university was still living in the same country his son worked in.,True,1_RC_ambig_2
+606,606,A nurse at that hospital still lived in the same city her mother worked in.,A nurse at that hospital was still living in the same city her mother worked in.,True,1_RC_ambig_2
+607,607,A nurse at that hospital still lived in the same place her son worked in.,A nurse at that hospital was still living in the same place her son worked in.,True,1_RC_ambig_2
+608,608,A faculty member at that university still lived in the same country her son worked in.,A faculty member at that university was still living in the same country her son worked in.,True,1_RC_ambig_2
+609,609,A nurse at that hospital still lived in the same country her mother worked in.,A nurse at that hospital was still living in the same country her mother worked in.,True,1_RC_ambig_2
+610,610,A faculty member at that university still lived in the same place his father worked in.,A faculty member at that university was still living in the same place his father worked in.,True,1_RC_ambig_2
+611,611,A teacher at that school still lived in the same place her son worked in.,A teacher at that school was still living in the same place her son worked in.,True,1_RC_ambig_2
+612,612,A faculty member at that university still lived in the same city his father worked in.,A faculty member at that university was still living in the same city his father worked in.,True,1_RC_ambig_2
+613,613,A faculty member at that university still lived in the same city her son worked in.,A faculty member at that university was still living in the same city her son worked in.,True,1_RC_ambig_2
+614,614,A faculty member at that university still lived in the same city his son worked in.,A faculty member at that university was still living in the same city his son worked in.,True,1_RC_ambig_2
+615,615,A nurse at that hospital still lived in the same place her mother worked in.,A nurse at that hospital was still living in the same place her mother worked in.,True,1_RC_ambig_2
+616,616,A faculty member at that university still lived in the same country his father worked in.,A faculty member at that university was still living in the same country his father worked in.,True,1_RC_ambig_2
+617,617,A teacher at that school still lived in the same country his father worked in.,A teacher at that school was still living in the same country his father worked in.,True,1_RC_ambig_2
+618,618,A teacher at that school still lived in the same country her son worked in.,A teacher at that school was still living in the same country her son worked in.,True,1_RC_ambig_2
+619,619,A nurse at that hospital still lived in the same city her son worked in.,A nurse at that hospital was still living in the same city her son worked in.,True,1_RC_ambig_2
+620,620,A faculty member at that university still lived in the same place her son worked in.,A faculty member at that university was still living in the same place her son worked in.,True,1_RC_ambig_2
+621,621,A nurse at that hospital still lived in the same place his father worked in.,A nurse at that hospital was still living in the same place his father worked in.,True,1_RC_ambig_2
+622,622,A teacher at that school still lived in the same place her mother worked in.,A teacher at that school was still living in the same place her mother worked in.,True,1_RC_ambig_2
+623,623,A teacher at that school still lived in the same city her son worked in.,A teacher at that school was still living in the same city her son worked in.,True,1_RC_ambig_2
+624,624,A faculty member at that university still lived in the same place his son worked in.,A faculty member at that university was still living in the same place his son worked in.,True,1_RC_ambig_2
+625,625,A nurse at that hospital still lived in the same country his son worked in.,A nurse at that hospital was still living in the same country his son worked in.,True,1_RC_ambig_2
+626,626,A teacher at that school still lived in the same place his son worked in.,A teacher at that school was still living in the same place his son worked in.,True,1_RC_ambig_2
+627,627,A teacher at that school still lived in the same city her mother worked in.,A teacher at that school was still living in the same city her mother worked in.,True,1_RC_ambig_2
+628,628,A teacher at that school still lived in the same place his father worked in.,A teacher at that school was still living in the same place his father worked in.,True,1_RC_ambig_2
+629,629,A nurse at that hospital still lived in the same country her son worked in.,A nurse at that hospital was still living in the same country her son worked in.,True,1_RC_ambig_2
+630,630,A nurse at that hospital still lived in the same place his son worked in.,A nurse at that hospital was still living in the same place his son worked in.,True,1_RC_ambig_2
+631,631,A nurse at that hospital still lived in the same city his father worked in.,A nurse at that hospital was still living in the same city his father worked in.,True,1_RC_ambig_2
+632,632,A teacher at that school still lived in the same city his son worked in.,A teacher at that school was still living in the same city his son worked in.,True,1_RC_ambig_2
+633,633,A nurse at that hospital still lived in the same city his son worked in.,A nurse at that hospital was still living in the same city his son worked in.,True,1_RC_ambig_2
+634,634,A faculty member at that university still lived in the same city her mother worked in.,A faculty member at that university was still living in the same city her mother worked in.,True,1_RC_ambig_2
+635,635,A teacher at that school still lived in the same country her mother worked in.,A teacher at that school was still living in the same country her mother worked in.,True,1_RC_ambig_2
+636,636,A faculty member at that university still lived in the same country her mother worked in.,A faculty member at that university was still living in the same country her mother worked in.,True,1_RC_ambig_2
+637,637,A teacher at that school still lived in the same city his father worked in.,A teacher at that school was still living in the same city his father worked in.,True,1_RC_ambig_2
+638,638,A faculty member at that university still lived in the same place her mother worked in.,A faculty member at that university was still living in the same place her mother worked in.,True,1_RC_ambig_2
+639,639,A teacher at that school still lived in the same country his son worked in.,A teacher at that school was still living in the same country his son worked in.,True,1_RC_ambig_2
+640,640,The researcher held on to the argument he publicized last century.,The researcher was holding on to the argument he publicized last century.,True,1_RC_ambig_2
+641,641,The researcher held on to the theory she thought about last century.,The researcher was holding on to the theory she thought about last century.,True,1_RC_ambig_2
+642,642,The professor held on to the theory he worked on last century.,The professor was holding on to the theory he worked on last century.,True,1_RC_ambig_2
+643,643,The researcher held on to the theory he publicized last century.,The researcher was holding on to the theory he publicized last century.,True,1_RC_ambig_2
+644,644,The professor held on to the argument she thought about last century.,The professor was holding on to the argument she thought about last century.,True,1_RC_ambig_2
+645,645,The professor tried to prove the theory she thought about last century.,The professor was trying to prove the theory she thought about last century.,True,1_RC_ambig_2
+646,646,The scientist held on to the theory he thought about last century.,The scientist was holding on to the theory he thought about last century.,True,1_RC_ambig_2
+647,647,The researcher tried to prove the theory she worked on last century.,The researcher was trying to prove the theory she worked on last century.,True,1_RC_ambig_2
+648,648,The professor tried to prove the argument he publicized last century.,The professor was trying to prove the argument he publicized last century.,True,1_RC_ambig_2
+649,649,The scientist advocated for the argument she worked on last century.,The scientist was advocating for the argument she worked on last century.,True,1_RC_ambig_2
+650,650,The scientist held on to the idea she worked on last century.,The scientist was holding on to the idea she worked on last century.,True,1_RC_ambig_2
+651,651,The scientist advocated for the argument he publicized last century.,The scientist was advocating for the argument he publicized last century.,True,1_RC_ambig_2
+652,652,The professor advocated for the theory he thought about last century.,The professor was advocating for the theory he thought about last century.,True,1_RC_ambig_2
+653,653,The scientist held on to the argument she publicized last century.,The scientist was holding on to the argument she publicized last century.,True,1_RC_ambig_2
+654,654,The scientist advocated for the idea he publicized last century.,The scientist was advocating for the idea he publicized last century.,True,1_RC_ambig_2
+655,655,The researcher advocated for the argument she worked on last century.,The researcher was advocating for the argument she worked on last century.,True,1_RC_ambig_2
+656,656,The researcher tried to prove the idea she thought about last century.,The researcher was trying to prove the idea she thought about last century.,True,1_RC_ambig_2
+657,657,The scientist advocated for the idea he worked on last century.,The scientist was advocating for the idea he worked on last century.,True,1_RC_ambig_2
+658,658,The researcher advocated for the theory she publicized last century.,The researcher was advocating for the theory she publicized last century.,True,1_RC_ambig_2
+659,659,The researcher held on to the theory she publicized last century.,The researcher was holding on to the theory she publicized last century.,True,1_RC_ambig_2
+660,660,The researcher held on to the theory she worked on last century.,The researcher was holding on to the theory she worked on last century.,True,1_RC_ambig_2
+661,661,The professor held on to the theory he thought about last century.,The professor was holding on to the theory he thought about last century.,True,1_RC_ambig_2
+662,662,The professor held on to the idea he publicized last century.,The professor was holding on to the idea he publicized last century.,True,1_RC_ambig_2
+663,663,The scientist tried to prove the idea he worked on last century.,The scientist was trying to prove the idea he worked on last century.,True,1_RC_ambig_2
+664,664,The professor held on to the idea he worked on last century.,The professor was holding on to the idea he worked on last century.,True,1_RC_ambig_2
+665,665,The scientist tried to prove the idea he publicized last century.,The scientist was trying to prove the idea he publicized last century.,True,1_RC_ambig_2
+666,666,The researcher advocated for the argument he publicized last century.,The researcher was advocating for the argument he publicized last century.,True,1_RC_ambig_2
+667,667,The scientist tried to prove the idea she publicized last century.,The scientist was trying to prove the idea she publicized last century.,True,1_RC_ambig_2
+668,668,The professor tried to prove the idea she publicized last century.,The professor was trying to prove the idea she publicized last century.,True,1_RC_ambig_2
+669,669,The researcher advocated for the theory she worked on last century.,The researcher was advocating for the theory she worked on last century.,True,1_RC_ambig_2
+670,670,The researcher tried to prove the idea she worked on last century.,The researcher was trying to prove the idea she worked on last century.,True,1_RC_ambig_2
+671,671,The scientist advocated for the argument she thought about last century.,The scientist was advocating for the argument she thought about last century.,True,1_RC_ambig_2
+672,672,The professor held on to the argument he publicized last century.,The professor was holding on to the argument he publicized last century.,True,1_RC_ambig_2
+673,673,The professor held on to the idea she publicized last century.,The professor was holding on to the idea she publicized last century.,True,1_RC_ambig_2
+674,674,The professor tried to prove the theory he worked on last century.,The professor was trying to prove the theory he worked on last century.,True,1_RC_ambig_2
+675,675,The researcher advocated for the argument she thought about last century.,The researcher was advocating for the argument she thought about last century.,True,1_RC_ambig_2
+676,676,The professor tried to prove the argument he worked on last century.,The professor was trying to prove the argument he worked on last century.,True,1_RC_ambig_2
+677,677,The scientist tried to prove the argument she publicized last century.,The scientist was trying to prove the argument she publicized last century.,True,1_RC_ambig_2
+678,678,The researcher held on to the idea he publicized last century.,The researcher was holding on to the idea he publicized last century.,True,1_RC_ambig_2
+679,679,The researcher advocated for the argument she publicized last century.,The researcher was advocating for the argument she publicized last century.,True,1_RC_ambig_2
+680,680,The professor advocated for the argument she thought about last century.,The professor was advocating for the argument she thought about last century.,True,1_RC_ambig_2
+681,681,The professor advocated for the theory she worked on last century.,The professor was advocating for the theory she worked on last century.,True,1_RC_ambig_2
+682,682,The researcher advocated for the idea he publicized last century.,The researcher was advocating for the idea he publicized last century.,True,1_RC_ambig_2
+683,683,The researcher tried to prove the theory he thought about last century.,The researcher was trying to prove the theory he thought about last century.,True,1_RC_ambig_2
+684,684,The professor advocated for the idea she thought about last century.,The professor was advocating for the idea she thought about last century.,True,1_RC_ambig_2
+685,685,The professor held on to the theory he publicized last century.,The professor was holding on to the theory he publicized last century.,True,1_RC_ambig_2
+686,686,The scientist held on to the theory she publicized last century.,The scientist was holding on to the theory she publicized last century.,True,1_RC_ambig_2
+687,687,The professor advocated for the idea he thought about last century.,The professor was advocating for the idea he thought about last century.,True,1_RC_ambig_2
+688,688,The scientist advocated for the theory he thought about last century.,The scientist was advocating for the theory he thought about last century.,True,1_RC_ambig_2
+689,689,The scientist tried to prove the theory he publicized last century.,The scientist was trying to prove the theory he publicized last century.,True,1_RC_ambig_2
+690,690,The professor tried to prove the argument he thought about last century.,The professor was trying to prove the argument he thought about last century.,True,1_RC_ambig_2
+691,691,The scientist tried to prove the idea she thought about last century.,The scientist was trying to prove the idea she thought about last century.,True,1_RC_ambig_2
+692,692,The researcher advocated for the idea he worked on last century.,The researcher was advocating for the idea he worked on last century.,True,1_RC_ambig_2
+693,693,The professor tried to prove the idea he thought about last century.,The professor was trying to prove the idea he thought about last century.,True,1_RC_ambig_2
+694,694,The researcher held on to the argument he worked on last century.,The researcher was holding on to the argument he worked on last century.,True,1_RC_ambig_2
+695,695,The researcher held on to the argument she thought about last century.,The researcher was holding on to the argument she thought about last century.,True,1_RC_ambig_2
+696,696,The scientist tried to prove the argument he worked on last century.,The scientist was trying to prove the argument he worked on last century.,True,1_RC_ambig_2
+697,697,The scientist held on to the idea she thought about last century.,The scientist was holding on to the idea she thought about last century.,True,1_RC_ambig_2
+698,698,The professor advocated for the idea he publicized last century.,The professor was advocating for the idea he publicized last century.,True,1_RC_ambig_2
+699,699,The scientist tried to prove the argument she worked on last century.,The scientist was trying to prove the argument she worked on last century.,True,1_RC_ambig_2
+700,700,The scientist advocated for the idea she worked on last century.,The scientist was advocating for the idea she worked on last century.,True,1_RC_ambig_2
+701,701,The researcher advocated for the argument he thought about last century.,The researcher was advocating for the argument he thought about last century.,True,1_RC_ambig_2
+702,702,The researcher tried to prove the idea he thought about last century.,The researcher was trying to prove the idea he thought about last century.,True,1_RC_ambig_2
+703,703,The professor advocated for the argument he worked on last century.,The professor was advocating for the argument he worked on last century.,True,1_RC_ambig_2
+704,704,The professor held on to the argument she worked on last century.,The professor was holding on to the argument she worked on last century.,True,1_RC_ambig_2
+705,705,The researcher held on to the idea he thought about last century.,The researcher was holding on to the idea he thought about last century.,True,1_RC_ambig_2
+706,706,The professor tried to prove the theory she publicized last century.,The professor was trying to prove the theory she publicized last century.,True,1_RC_ambig_2
+707,707,The researcher advocated for the idea she publicized last century.,The researcher was advocating for the idea she publicized last century.,True,1_RC_ambig_2
+708,708,The researcher advocated for the theory he worked on last century.,The researcher was advocating for the theory he worked on last century.,True,1_RC_ambig_2
+709,709,The scientist tried to prove the theory she thought about last century.,The scientist was trying to prove the theory she thought about last century.,True,1_RC_ambig_2
+710,710,The professor tried to prove the idea he publicized last century.,The professor was trying to prove the idea he publicized last century.,True,1_RC_ambig_2
+711,711,The professor advocated for the argument she publicized last century.,The professor was advocating for the argument she publicized last century.,True,1_RC_ambig_2
+712,712,The researcher held on to the theory he thought about last century.,The researcher was holding on to the theory he thought about last century.,True,1_RC_ambig_2
+713,713,The researcher tried to prove the idea he publicized last century.,The researcher was trying to prove the idea he publicized last century.,True,1_RC_ambig_2
+714,714,The researcher advocated for the idea she worked on last century.,The researcher was advocating for the idea she worked on last century.,True,1_RC_ambig_2
+715,715,The scientist held on to the argument she thought about last century.,The scientist was holding on to the argument she thought about last century.,True,1_RC_ambig_2
+716,716,The professor held on to the theory she worked on last century.,The professor was holding on to the theory she worked on last century.,True,1_RC_ambig_2
+717,717,The professor held on to the argument he thought about last century.,The professor was holding on to the argument he thought about last century.,True,1_RC_ambig_2
+718,718,The professor advocated for the theory he worked on last century.,The professor was advocating for the theory he worked on last century.,True,1_RC_ambig_2
+719,719,The scientist advocated for the theory she thought about last century.,The scientist was advocating for the theory she thought about last century.,True,1_RC_ambig_2
+720,720,The scientist tried to prove the argument he publicized last century.,The scientist was trying to prove the argument he publicized last century.,True,1_RC_ambig_2
+721,721,The scientist advocated for the idea she thought about last century.,The scientist was advocating for the idea she thought about last century.,True,1_RC_ambig_2
+722,722,The professor held on to the idea she worked on last century.,The professor was holding on to the idea she worked on last century.,True,1_RC_ambig_2
+723,723,The researcher held on to the idea she worked on last century.,The researcher was holding on to the idea she worked on last century.,True,1_RC_ambig_2
+724,724,The professor tried to prove the idea she worked on last century.,The professor was trying to prove the idea she worked on last century.,True,1_RC_ambig_2
+725,725,The scientist advocated for the theory he publicized last century.,The scientist was advocating for the theory he publicized last century.,True,1_RC_ambig_2
+726,726,The professor tried to prove the idea she thought about last century.,The professor was trying to prove the idea she thought about last century.,True,1_RC_ambig_2
+727,727,The professor advocated for the argument he publicized last century.,The professor was advocating for the argument he publicized last century.,True,1_RC_ambig_2
+728,728,The scientist held on to the idea he publicized last century.,The scientist was holding on to the idea he publicized last century.,True,1_RC_ambig_2
+729,729,The scientist held on to the argument he worked on last century.,The scientist was holding on to the argument he worked on last century.,True,1_RC_ambig_2
+730,730,The professor advocated for the idea he worked on last century.,The professor was advocating for the idea he worked on last century.,True,1_RC_ambig_2
+731,731,The researcher advocated for the argument he worked on last century.,The researcher was advocating for the argument he worked on last century.,True,1_RC_ambig_2
+732,732,The professor held on to the theory she thought about last century.,The professor was holding on to the theory she thought about last century.,True,1_RC_ambig_2
+733,733,The scientist held on to the idea he worked on last century.,The scientist was holding on to the idea he worked on last century.,True,1_RC_ambig_2
+734,734,The professor advocated for the theory she thought about last century.,The professor was advocating for the theory she thought about last century.,True,1_RC_ambig_2
+735,735,The professor held on to the argument she publicized last century.,The professor was holding on to the argument she publicized last century.,True,1_RC_ambig_2
+736,736,The researcher held on to the argument he thought about last century.,The researcher was holding on to the argument he thought about last century.,True,1_RC_ambig_2
+737,737,The researcher tried to prove the argument she thought about last century.,The researcher was trying to prove the argument she thought about last century.,True,1_RC_ambig_2
+738,738,The professor held on to the theory she publicized last century.,The professor was holding on to the theory she publicized last century.,True,1_RC_ambig_2
+739,739,The researcher tried to prove the theory she publicized last century.,The researcher was trying to prove the theory she publicized last century.,True,1_RC_ambig_2
+740,740,The writer thought about the story she developed last year.,The writer was thinking about the story she developed last year.,True,1_RC_ambig_2
+741,741,The writer tried to finish the story she wrote last year.,The writer was trying to finish the story she wrote last year.,True,1_RC_ambig_2
+742,742,The writer worked on the story she planned out last year.,The writer was working on the story she planned out last year.,True,1_RC_ambig_2
+743,743,The writer worked on the story he planned out last year.,The writer was working on the story he planned out last year.,True,1_RC_ambig_2
+744,744,The writer tried to finish the story he developed last year.,The writer was trying to finish the story he developed last year.,True,1_RC_ambig_2
+745,745,The comic book writer tried to finish the story she developed last year.,The comic book writer was trying to finish the story she developed last year.,True,1_RC_ambig_2
+746,746,The director worked on the story he wrote last year.,The director was working on the story he wrote last year.,True,1_RC_ambig_2
+747,747,The director thought about the story he planned out last year.,The director was thinking about the story he planned out last year.,True,1_RC_ambig_2
+748,748,The director tried to finish the story she wrote last year.,The director was trying to finish the story she wrote last year.,True,1_RC_ambig_2
+749,749,The writer worked on the story she wrote last year.,The writer was working on the story she wrote last year.,True,1_RC_ambig_2
+750,750,The director worked on the story he developed last year.,The director was working on the story he developed last year.,True,1_RC_ambig_2
+751,751,The writer thought about the story she planned out last year.,The writer was thinking about the story she planned out last year.,True,1_RC_ambig_2
+752,752,The writer tried to finish the story he wrote last year.,The writer was trying to finish the story he wrote last year.,True,1_RC_ambig_2
+753,753,The writer thought about the story she wrote last year.,The writer was thinking about the story she wrote last year.,True,1_RC_ambig_2
+754,754,The comic book writer thought about the story she planned out last year.,The comic book writer was thinking about the story she planned out last year.,True,1_RC_ambig_2
+755,755,The director worked on the story she developed last year.,The director was working on the story she developed last year.,True,1_RC_ambig_2
+756,756,The comic book writer tried to finish the story she wrote last year.,The comic book writer was trying to finish the story she wrote last year.,True,1_RC_ambig_2
+757,757,The director thought about the story she developed last year.,The director was thinking about the story she developed last year.,True,1_RC_ambig_2
+758,758,The comic book writer worked on the story he wrote last year.,The comic book writer was working on the story he wrote last year.,True,1_RC_ambig_2
+759,759,The director thought about the story he developed last year.,The director was thinking about the story he developed last year.,True,1_RC_ambig_2
+760,760,The comic book writer tried to finish the story he developed last year.,The comic book writer was trying to finish the story he developed last year.,True,1_RC_ambig_2
+761,761,The comic book writer worked on the story she wrote last year.,The comic book writer was working on the story she wrote last year.,True,1_RC_ambig_2
+762,762,The director thought about the story she wrote last year.,The director was thinking about the story she wrote last year.,True,1_RC_ambig_2
+763,763,The director tried to finish the story she developed last year.,The director was trying to finish the story she developed last year.,True,1_RC_ambig_2
+764,764,The writer thought about the story he planned out last year.,The writer was thinking about the story he planned out last year.,True,1_RC_ambig_2
+765,765,The director worked on the story she planned out last year.,The director was working on the story she planned out last year.,True,1_RC_ambig_2
+766,766,The writer tried to finish the story she planned out last year.,The writer was trying to finish the story she planned out last year.,True,1_RC_ambig_2
+767,767,The comic book writer thought about the story he wrote last year.,The comic book writer was thinking about the story he wrote last year.,True,1_RC_ambig_2
+768,768,The comic book writer thought about the story he developed last year.,The comic book writer was thinking about the story he developed last year.,True,1_RC_ambig_2
+769,769,The comic book writer worked on the story he developed last year.,The comic book writer was working on the story he developed last year.,True,1_RC_ambig_2
+770,770,The comic book writer thought about the story she developed last year.,The comic book writer was thinking about the story she developed last year.,True,1_RC_ambig_2
+771,771,The writer worked on the story she developed last year.,The writer was working on the story she developed last year.,True,1_RC_ambig_2
+772,772,The director tried to finish the story she planned out last year.,The director was trying to finish the story she planned out last year.,True,1_RC_ambig_2
+773,773,The writer worked on the story he developed last year.,The writer was working on the story he developed last year.,True,1_RC_ambig_2
+774,774,The comic book writer tried to finish the story he planned out last year.,The comic book writer was trying to finish the story he planned out last year.,True,1_RC_ambig_2
+775,775,The writer thought about the story he wrote last year.,The writer was thinking about the story he wrote last year.,True,1_RC_ambig_2
+776,776,The director tried to finish the story he planned out last year.,The director was trying to finish the story he planned out last year.,True,1_RC_ambig_2
+777,777,The director worked on the story she wrote last year.,The director was working on the story she wrote last year.,True,1_RC_ambig_2
+778,778,The comic book writer tried to finish the story she planned out last year.,The comic book writer was trying to finish the story she planned out last year.,True,1_RC_ambig_2
+779,779,The comic book writer worked on the story she planned out last year.,The comic book writer was working on the story she planned out last year.,True,1_RC_ambig_2
+780,780,The director tried to finish the story he wrote last year.,The director was trying to finish the story he wrote last year.,True,1_RC_ambig_2
+781,781,The comic book writer thought about the story she wrote last year.,The comic book writer was thinking about the story she wrote last year.,True,1_RC_ambig_2
+782,782,The director thought about the story he wrote last year.,The director was thinking about the story he wrote last year.,True,1_RC_ambig_2
+783,783,The comic book writer tried to finish the story he wrote last year.,The comic book writer was trying to finish the story he wrote last year.,True,1_RC_ambig_2
+784,784,The comic book writer worked on the story he planned out last year.,The comic book writer was working on the story he planned out last year.,True,1_RC_ambig_2
+785,785,The writer thought about the story he developed last year.,The writer was thinking about the story he developed last year.,True,1_RC_ambig_2
+786,786,The director worked on the story he planned out last year.,The director was working on the story he planned out last year.,True,1_RC_ambig_2
+787,787,The comic book writer thought about the story he planned out last year.,The comic book writer was thinking about the story he planned out last year.,True,1_RC_ambig_2
+788,788,The director thought about the story she planned out last year.,The director was thinking about the story she planned out last year.,True,1_RC_ambig_2
+789,789,The writer worked on the story he wrote last year.,The writer was working on the story he wrote last year.,True,1_RC_ambig_2
+790,790,The writer tried to finish the story she developed last year.,The writer was trying to finish the story she developed last year.,True,1_RC_ambig_2
+791,791,The writer tried to finish the story he planned out last year.,The writer was trying to finish the story he planned out last year.,True,1_RC_ambig_2
+792,792,The director tried to finish the story he developed last year.,The director was trying to finish the story he developed last year.,True,1_RC_ambig_2
+793,793,The comic book writer worked on the story she developed last year.,The comic book writer was working on the story she developed last year.,True,1_RC_ambig_2
+794,794,The firm in the rust belt produced the product it designed last year.,The firm in the rust belt was producing the product it designed last year.,True,1_RC_ambig_2
+795,795,The startup made the product it improved last year.,The startup was making the product it improved last year.,True,1_RC_ambig_2
+796,796,The firm in the rust belt made the type of cars it designed last year.,The firm in the rust belt was making the type of cars it designed last year.,True,1_RC_ambig_2
+797,797,The firm in the rust belt manufactured the product it improved last year.,The firm in the rust belt was manufacturing the product it improved last year.,True,1_RC_ambig_2
+798,798,The oversized company manufactured the type of cars it designed last year.,The oversized company was manufacturing the type of cars it designed last year.,True,1_RC_ambig_2
+799,799,The oversized company produced the product it designed last year.,The oversized company was producing the product it designed last year.,True,1_RC_ambig_2
+800,800,The firm in the rust belt manufactured the type of cars it improved last year.,The firm in the rust belt was manufacturing the type of cars it improved last year.,True,1_RC_ambig_2
+801,801,The startup manufactured the type of cars it designed last year.,The startup was manufacturing the type of cars it designed last year.,True,1_RC_ambig_2
+802,802,The startup manufactured the type of cars it improved last year.,The startup was manufacturing the type of cars it improved last year.,True,1_RC_ambig_2
+803,803,The oversized company made the type of cars it improved last year.,The oversized company was making the type of cars it improved last year.,True,1_RC_ambig_2
+804,804,The oversized company made the product it designed last year.,The oversized company was making the product it designed last year.,True,1_RC_ambig_2
+805,805,The startup made the type of cars it designed last year.,The startup was making the type of cars it designed last year.,True,1_RC_ambig_2
+806,806,The firm in the rust belt manufactured the product it designed last year.,The firm in the rust belt was manufacturing the product it designed last year.,True,1_RC_ambig_2
+807,807,The startup produced the product it designed last year.,The startup was producing the product it designed last year.,True,1_RC_ambig_2
+808,808,The oversized company produced the type of cars it designed last year.,The oversized company was producing the type of cars it designed last year.,True,1_RC_ambig_2
+809,809,The startup made the type of cars it improved last year.,The startup was making the type of cars it improved last year.,True,1_RC_ambig_2
+810,810,The firm in the rust belt made the product it designed last year.,The firm in the rust belt was making the product it designed last year.,True,1_RC_ambig_2
+811,811,The firm in the rust belt made the type of cars it improved last year.,The firm in the rust belt was making the type of cars it improved last year.,True,1_RC_ambig_2
+812,812,The startup made the product it designed last year.,The startup was making the product it designed last year.,True,1_RC_ambig_2
+813,813,The firm in the rust belt made the product it improved last year.,The firm in the rust belt was making the product it improved last year.,True,1_RC_ambig_2
+814,814,The startup manufactured the product it designed last year.,The startup was manufacturing the product it designed last year.,True,1_RC_ambig_2
+815,815,The firm in the rust belt produced the type of cars it designed last year.,The firm in the rust belt was producing the type of cars it designed last year.,True,1_RC_ambig_2
+816,816,The startup produced the product it improved last year.,The startup was producing the product it improved last year.,True,1_RC_ambig_2
+817,817,The oversized company manufactured the product it improved last year.,The oversized company was manufacturing the product it improved last year.,True,1_RC_ambig_2
+818,818,The oversized company produced the product it improved last year.,The oversized company was producing the product it improved last year.,True,1_RC_ambig_2
+819,819,The startup produced the type of cars it improved last year.,The startup was producing the type of cars it improved last year.,True,1_RC_ambig_2
+820,820,The startup produced the type of cars it designed last year.,The startup was producing the type of cars it designed last year.,True,1_RC_ambig_2
+821,821,The oversized company made the product it improved last year.,The oversized company was making the product it improved last year.,True,1_RC_ambig_2
+822,822,The oversized company made the type of cars it designed last year.,The oversized company was making the type of cars it designed last year.,True,1_RC_ambig_2
+823,823,The firm in the rust belt produced the type of cars it improved last year.,The firm in the rust belt was producing the type of cars it improved last year.,True,1_RC_ambig_2
+824,824,The oversized company manufactured the product it designed last year.,The oversized company was manufacturing the product it designed last year.,True,1_RC_ambig_2
+825,825,The startup manufactured the product it improved last year.,The startup was manufacturing the product it improved last year.,True,1_RC_ambig_2
+826,826,The oversized company manufactured the type of cars it improved last year.,The oversized company was manufacturing the type of cars it improved last year.,True,1_RC_ambig_2
+827,827,The oversized company produced the type of cars it improved last year.,The oversized company was producing the type of cars it improved last year.,True,1_RC_ambig_2
+828,828,The firm in the rust belt manufactured the type of cars it designed last year.,The firm in the rust belt was manufacturing the type of cars it designed last year.,True,1_RC_ambig_2
+829,829,The firm in the rust belt produced the product it improved last year.,The firm in the rust belt was producing the product it improved last year.,True,1_RC_ambig_2
+830,830,The banker advocated for the same companies she invested in last year.,The banker was advocating for the same companies she invested in last year.,True,1_RC_ambig_2
+831,831,The banker invested in the same cryptocurrency she advocated for last year.,The banker was investing in the same cryptocurrency she advocated for last year.,True,1_RC_ambig_2
+832,832,The banker advocated for the same cryptocurrency she invested in last season.,The banker was advocating for the same cryptocurrency she invested in last season.,True,1_RC_ambig_2
+833,833,The fund manager invested in the same companies she advocated for last year.,The fund manager was investing in the same companies she advocated for last year.,True,1_RC_ambig_2
+834,834,The banker advocated for the same cryptocurrency she advocated for last year.,The banker was advocating for the same cryptocurrency she advocated for last year.,True,1_RC_ambig_2
+835,835,The fund manager advocated for the same cryptocurrency she advocated for last year.,The fund manager was advocating for the same cryptocurrency she advocated for last year.,True,1_RC_ambig_2
+836,836,The banker advocated for the same companies he invested in last season.,The banker was advocating for the same companies he invested in last season.,True,1_RC_ambig_2
+837,837,The investor advocated for the same companies he invested in last year.,The investor was advocating for the same companies he invested in last year.,True,1_RC_ambig_2
+838,838,The banker advocated for the same companies she advocated for last season.,The banker was advocating for the same companies she advocated for last season.,True,1_RC_ambig_2
+839,839,The banker invested in the same companies he advocated for last year.,The banker was investing in the same companies he advocated for last year.,True,1_RC_ambig_2
+840,840,The banker invested in the same companies he invested in last season.,The banker was investing in the same companies he invested in last season.,True,1_RC_ambig_2
+841,841,The banker advocated for the same cryptocurrency she advocated for last season.,The banker was advocating for the same cryptocurrency she advocated for last season.,True,1_RC_ambig_2
+842,842,The investor invested in the same cryptocurrency she invested in last year.,The investor was investing in the same cryptocurrency she invested in last year.,True,1_RC_ambig_2
+843,843,The banker invested in the same companies she invested in last season.,The banker was investing in the same companies she invested in last season.,True,1_RC_ambig_2
+844,844,The fund manager advocated for the same cryptocurrency he advocated for last season.,The fund manager was advocating for the same cryptocurrency he advocated for last season.,True,1_RC_ambig_2
+845,845,The investor advocated for the same companies she invested in last season.,The investor was advocating for the same companies she invested in last season.,True,1_RC_ambig_2
+846,846,The investor advocated for the same companies she advocated for last season.,The investor was advocating for the same companies she advocated for last season.,True,1_RC_ambig_2
+847,847,The fund manager invested in the same companies she invested in last year.,The fund manager was investing in the same companies she invested in last year.,True,1_RC_ambig_2
+848,848,The investor advocated for the same cryptocurrency she advocated for last season.,The investor was advocating for the same cryptocurrency she advocated for last season.,True,1_RC_ambig_2
+849,849,The banker invested in the same cryptocurrency she advocated for last season.,The banker was investing in the same cryptocurrency she advocated for last season.,True,1_RC_ambig_2
+850,850,The banker advocated for the same companies she invested in last season.,The banker was advocating for the same companies she invested in last season.,True,1_RC_ambig_2
+851,851,The investor advocated for the same cryptocurrency she invested in last season.,The investor was advocating for the same cryptocurrency she invested in last season.,True,1_RC_ambig_2
+852,852,The fund manager invested in the same cryptocurrency he advocated for last year.,The fund manager was investing in the same cryptocurrency he advocated for last year.,True,1_RC_ambig_2
+853,853,The fund manager advocated for the same companies he invested in last season.,The fund manager was advocating for the same companies he invested in last season.,True,1_RC_ambig_2
+854,854,The fund manager invested in the same cryptocurrency she advocated for last year.,The fund manager was investing in the same cryptocurrency she advocated for last year.,True,1_RC_ambig_2
+855,855,The banker advocated for the same cryptocurrency he advocated for last year.,The banker was advocating for the same cryptocurrency he advocated for last year.,True,1_RC_ambig_2
+856,856,The fund manager invested in the same cryptocurrency she advocated for last season.,The fund manager was investing in the same cryptocurrency she advocated for last season.,True,1_RC_ambig_2
+857,857,The fund manager advocated for the same companies she invested in last year.,The fund manager was advocating for the same companies she invested in last year.,True,1_RC_ambig_2
+858,858,The investor invested in the same cryptocurrency he advocated for last year.,The investor was investing in the same cryptocurrency he advocated for last year.,True,1_RC_ambig_2
+859,859,The banker advocated for the same cryptocurrency he invested in last season.,The banker was advocating for the same cryptocurrency he invested in last season.,True,1_RC_ambig_2
+860,860,The investor advocated for the same companies she advocated for last year.,The investor was advocating for the same companies she advocated for last year.,True,1_RC_ambig_2
+861,861,The investor invested in the same cryptocurrency he advocated for last season.,The investor was investing in the same cryptocurrency he advocated for last season.,True,1_RC_ambig_2
+862,862,The investor advocated for the same cryptocurrency he advocated for last year.,The investor was advocating for the same cryptocurrency he advocated for last year.,True,1_RC_ambig_2
+863,863,The fund manager invested in the same cryptocurrency he invested in last season.,The fund manager was investing in the same cryptocurrency he invested in last season.,True,1_RC_ambig_2
+864,864,The banker advocated for the same companies she advocated for last year.,The banker was advocating for the same companies she advocated for last year.,True,1_RC_ambig_2
+865,865,The banker invested in the same cryptocurrency she invested in last season.,The banker was investing in the same cryptocurrency she invested in last season.,True,1_RC_ambig_2
+866,866,The fund manager advocated for the same companies she invested in last season.,The fund manager was advocating for the same companies she invested in last season.,True,1_RC_ambig_2
+867,867,The investor invested in the same cryptocurrency she invested in last season.,The investor was investing in the same cryptocurrency she invested in last season.,True,1_RC_ambig_2
+868,868,The banker advocated for the same companies he advocated for last year.,The banker was advocating for the same companies he advocated for last year.,True,1_RC_ambig_2
+869,869,The fund manager advocated for the same companies he advocated for last season.,The fund manager was advocating for the same companies he advocated for last season.,True,1_RC_ambig_2
+870,870,The investor invested in the same companies she invested in last season.,The investor was investing in the same companies she invested in last season.,True,1_RC_ambig_2
+871,871,The investor advocated for the same cryptocurrency he advocated for last season.,The investor was advocating for the same cryptocurrency he advocated for last season.,True,1_RC_ambig_2
+872,872,The banker invested in the same cryptocurrency she invested in last year.,The banker was investing in the same cryptocurrency she invested in last year.,True,1_RC_ambig_2
+873,873,The investor invested in the same cryptocurrency he invested in last year.,The investor was investing in the same cryptocurrency he invested in last year.,True,1_RC_ambig_2
+874,874,The investor advocated for the same companies he advocated for last season.,The investor was advocating for the same companies he advocated for last season.,True,1_RC_ambig_2
+875,875,The banker invested in the same cryptocurrency he advocated for last season.,The banker was investing in the same cryptocurrency he advocated for last season.,True,1_RC_ambig_2
+876,876,The banker advocated for the same cryptocurrency she invested in last year.,The banker was advocating for the same cryptocurrency she invested in last year.,True,1_RC_ambig_2
+877,877,The fund manager invested in the same cryptocurrency she invested in last season.,The fund manager was investing in the same cryptocurrency she invested in last season.,True,1_RC_ambig_2
+878,878,The investor invested in the same companies she invested in last year.,The investor was investing in the same companies she invested in last year.,True,1_RC_ambig_2
+879,879,The fund manager invested in the same companies she advocated for last season.,The fund manager was investing in the same companies she advocated for last season.,True,1_RC_ambig_2
+880,880,The investor invested in the same cryptocurrency he invested in last season.,The investor was investing in the same cryptocurrency he invested in last season.,True,1_RC_ambig_2
+881,881,The fund manager advocated for the same companies she advocated for last season.,The fund manager was advocating for the same companies she advocated for last season.,True,1_RC_ambig_2
+882,882,The investor advocated for the same companies he invested in last season.,The investor was advocating for the same companies he invested in last season.,True,1_RC_ambig_2
+883,883,The fund manager invested in the same companies he invested in last year.,The fund manager was investing in the same companies he invested in last year.,True,1_RC_ambig_2
+884,884,The banker invested in the same cryptocurrency he invested in last year.,The banker was investing in the same cryptocurrency he invested in last year.,True,1_RC_ambig_2
+885,885,The fund manager advocated for the same cryptocurrency she advocated for last season.,The fund manager was advocating for the same cryptocurrency she advocated for last season.,True,1_RC_ambig_2
+886,886,The investor advocated for the same companies she invested in last year.,The investor was advocating for the same companies she invested in last year.,True,1_RC_ambig_2
+887,887,The banker advocated for the same cryptocurrency he invested in last year.,The banker was advocating for the same cryptocurrency he invested in last year.,True,1_RC_ambig_2
+888,888,The fund manager advocated for the same cryptocurrency she invested in last year.,The fund manager was advocating for the same cryptocurrency she invested in last year.,True,1_RC_ambig_2
+889,889,The fund manager invested in the same cryptocurrency she invested in last year.,The fund manager was investing in the same cryptocurrency she invested in last year.,True,1_RC_ambig_2
+890,890,The fund manager advocated for the same companies she advocated for last year.,The fund manager was advocating for the same companies she advocated for last year.,True,1_RC_ambig_2
+891,891,The banker invested in the same companies she advocated for last season.,The banker was investing in the same companies she advocated for last season.,True,1_RC_ambig_2
+892,892,The banker advocated for the same companies he invested in last year.,The banker was advocating for the same companies he invested in last year.,True,1_RC_ambig_2
+893,893,The fund manager advocated for the same cryptocurrency he invested in last season.,The fund manager was advocating for the same cryptocurrency he invested in last season.,True,1_RC_ambig_2
+894,894,The investor invested in the same companies he advocated for last year.,The investor was investing in the same companies he advocated for last year.,True,1_RC_ambig_2
+895,895,The fund manager advocated for the same cryptocurrency he invested in last year.,The fund manager was advocating for the same cryptocurrency he invested in last year.,True,1_RC_ambig_2
+896,896,The fund manager advocated for the same cryptocurrency she invested in last season.,The fund manager was advocating for the same cryptocurrency she invested in last season.,True,1_RC_ambig_2
+897,897,The banker invested in the same cryptocurrency he invested in last season.,The banker was investing in the same cryptocurrency he invested in last season.,True,1_RC_ambig_2
+898,898,The investor invested in the same companies she advocated for last year.,The investor was investing in the same companies she advocated for last year.,True,1_RC_ambig_2
+899,899,The fund manager invested in the same companies he invested in last season.,The fund manager was investing in the same companies he invested in last season.,True,1_RC_ambig_2
+900,900,The fund manager invested in the same companies he advocated for last season.,The fund manager was investing in the same companies he advocated for last season.,True,1_RC_ambig_2
+901,901,The banker invested in the same companies she invested in last year.,The banker was investing in the same companies she invested in last year.,True,1_RC_ambig_2
+902,902,The fund manager invested in the same companies he advocated for last year.,The fund manager was investing in the same companies he advocated for last year.,True,1_RC_ambig_2
+903,903,The banker invested in the same companies she advocated for last year.,The banker was investing in the same companies she advocated for last year.,True,1_RC_ambig_2
+904,904,The investor invested in the same companies he invested in last year.,The investor was investing in the same companies he invested in last year.,True,1_RC_ambig_2
+905,905,The investor invested in the same cryptocurrency she advocated for last season.,The investor was investing in the same cryptocurrency she advocated for last season.,True,1_RC_ambig_2
+906,906,The fund manager advocated for the same companies he invested in last year.,The fund manager was advocating for the same companies he invested in last year.,True,1_RC_ambig_2
+907,907,The investor advocated for the same cryptocurrency she advocated for last year.,The investor was advocating for the same cryptocurrency she advocated for last year.,True,1_RC_ambig_2
+908,908,The investor advocated for the same cryptocurrency he invested in last year.,The investor was advocating for the same cryptocurrency he invested in last year.,True,1_RC_ambig_2
+909,909,The fund manager invested in the same cryptocurrency he advocated for last season.,The fund manager was investing in the same cryptocurrency he advocated for last season.,True,1_RC_ambig_2
+910,910,The fund manager advocated for the same cryptocurrency he advocated for last year.,The fund manager was advocating for the same cryptocurrency he advocated for last year.,True,1_RC_ambig_2
+911,911,The investor invested in the same companies she advocated for last season.,The investor was investing in the same companies she advocated for last season.,True,1_RC_ambig_2
+912,912,The investor advocated for the same cryptocurrency he invested in last season.,The investor was advocating for the same cryptocurrency he invested in last season.,True,1_RC_ambig_2
+913,913,The investor invested in the same companies he invested in last season.,The investor was investing in the same companies he invested in last season.,True,1_RC_ambig_2
+914,914,The investor invested in the same companies he advocated for last season.,The investor was investing in the same companies he advocated for last season.,True,1_RC_ambig_2
+915,915,The banker invested in the same companies he invested in last year.,The banker was investing in the same companies he invested in last year.,True,1_RC_ambig_2
+916,916,The fund manager invested in the same companies she invested in last season.,The fund manager was investing in the same companies she invested in last season.,True,1_RC_ambig_2
+917,917,The fund manager advocated for the same companies he advocated for last year.,The fund manager was advocating for the same companies he advocated for last year.,True,1_RC_ambig_2
+918,918,The investor advocated for the same cryptocurrency she invested in last year.,The investor was advocating for the same cryptocurrency she invested in last year.,True,1_RC_ambig_2
+919,919,The investor invested in the same cryptocurrency she advocated for last year.,The investor was investing in the same cryptocurrency she advocated for last year.,True,1_RC_ambig_2
+920,920,The fund manager invested in the same cryptocurrency he invested in last year.,The fund manager was investing in the same cryptocurrency he invested in last year.,True,1_RC_ambig_2
+921,921,The banker invested in the same companies he advocated for last season.,The banker was investing in the same companies he advocated for last season.,True,1_RC_ambig_2
+922,922,The banker invested in the same cryptocurrency he advocated for last year.,The banker was investing in the same cryptocurrency he advocated for last year.,True,1_RC_ambig_2
+923,923,The investor advocated for the same companies he advocated for last year.,The investor was advocating for the same companies he advocated for last year.,True,1_RC_ambig_2
+924,924,The banker advocated for the same cryptocurrency he advocated for last season.,The banker was advocating for the same cryptocurrency he advocated for last season.,True,1_RC_ambig_2
+925,925,The banker advocated for the same companies he advocated for last season.,The banker was advocating for the same companies he advocated for last season.,True,1_RC_ambig_2
+926,926,The doctor took care of the same group of patients he took responsibility for.,The doctor was taking care of the same group of patients he took responsibility for.,True,1_RC_ambig_2
+927,927,The nurse took care of the same patient he took responsibility for.,The nurse was taking care of the same patient he took responsibility for.,True,1_RC_ambig_2
+928,928,The nurse took care of the same patient she took charge of.,The nurse was taking care of the same patient she took charge of.,True,1_RC_ambig_2
+929,929,The nurse took care of the same patient she took responsibility for.,The nurse was taking care of the same patient she took responsibility for.,True,1_RC_ambig_2
+930,930,The doctor looked after the same patient she took charge of.,The doctor was looking after the same patient she took charge of.,True,1_RC_ambig_2
+931,931,The doctor took care of the same patient he took charge of.,The doctor was taking care of the same patient he took charge of.,True,1_RC_ambig_2
+932,932,The nurse took care of the same patient he took charge of.,The nurse was taking care of the same patient he took charge of.,True,1_RC_ambig_2
+933,933,The doctor took care of the same group of patients he took charge of.,The doctor was taking care of the same group of patients he took charge of.,True,1_RC_ambig_2
+934,934,The nurse looked after the same group of patients he took charge of.,The nurse was looking after the same group of patients he took charge of.,True,1_RC_ambig_2
+935,935,The nurse took care of the same group of patients she took responsibility for.,The nurse was taking care of the same group of patients she took responsibility for.,True,1_RC_ambig_2
+936,936,The doctor looked after the same group of patients he took responsibility for.,The doctor was looking after the same group of patients he took responsibility for.,True,1_RC_ambig_2
+937,937,The nurse looked after the same patient she took charge of.,The nurse was looking after the same patient she took charge of.,True,1_RC_ambig_2
+938,938,The nurse took care of the same group of patients he took responsibility for.,The nurse was taking care of the same group of patients he took responsibility for.,True,1_RC_ambig_2
+939,939,The doctor looked after the same group of patients he took charge of.,The doctor was looking after the same group of patients he took charge of.,True,1_RC_ambig_2
+940,940,The nurse looked after the same group of patients she took charge of.,The nurse was looking after the same group of patients she took charge of.,True,1_RC_ambig_2
+941,941,The nurse looked after the same group of patients he took responsibility for.,The nurse was looking after the same group of patients he took responsibility for.,True,1_RC_ambig_2
+942,942,The doctor looked after the same patient she took responsibility for.,The doctor was looking after the same patient she took responsibility for.,True,1_RC_ambig_2
+943,943,The doctor looked after the same group of patients she took charge of.,The doctor was looking after the same group of patients she took charge of.,True,1_RC_ambig_2
+944,944,The doctor looked after the same patient he took responsibility for.,The doctor was looking after the same patient he took responsibility for.,True,1_RC_ambig_2
+945,945,The nurse looked after the same patient he took responsibility for.,The nurse was looking after the same patient he took responsibility for.,True,1_RC_ambig_2
+946,946,The doctor took care of the same patient she took responsibility for.,The doctor was taking care of the same patient she took responsibility for.,True,1_RC_ambig_2
+947,947,The nurse took care of the same group of patients he took charge of.,The nurse was taking care of the same group of patients he took charge of.,True,1_RC_ambig_2
+948,948,The nurse looked after the same patient she took responsibility for.,The nurse was looking after the same patient she took responsibility for.,True,1_RC_ambig_2
+949,949,The doctor took care of the same patient he took responsibility for.,The doctor was taking care of the same patient he took responsibility for.,True,1_RC_ambig_2
+950,950,The doctor took care of the same group of patients she took charge of.,The doctor was taking care of the same group of patients she took charge of.,True,1_RC_ambig_2
+951,951,The nurse took care of the same group of patients she took charge of.,The nurse was taking care of the same group of patients she took charge of.,True,1_RC_ambig_2
+952,952,The nurse looked after the same patient he took charge of.,The nurse was looking after the same patient he took charge of.,True,1_RC_ambig_2
+953,953,The doctor looked after the same patient he took charge of.,The doctor was looking after the same patient he took charge of.,True,1_RC_ambig_2
+954,954,The doctor took care of the same patient she took charge of.,The doctor was taking care of the same patient she took charge of.,True,1_RC_ambig_2
+955,955,The doctor looked after the same group of patients she took responsibility for.,The doctor was looking after the same group of patients she took responsibility for.,True,1_RC_ambig_2
+956,956,The nurse looked after the same group of patients she took responsibility for.,The nurse was looking after the same group of patients she took responsibility for.,True,1_RC_ambig_2
+957,957,The doctor took care of the same group of patients she took responsibility for.,The doctor was taking care of the same group of patients she took responsibility for.,True,1_RC_ambig_2
+958,958,The restaurant advertised the same type of snack it had made last year.,The restaurant was advertising the same type of snack it had made last year.,True,1_RC_ambig_2
+959,959,The restaurant advertised the same food it had cooked last year.,The restaurant was advertising the same food it had cooked last year.,True,1_RC_ambig_2
+960,960,The fast food restaurant made TV commercials for the same type of snack it had cooked last year.,The fast food restaurant was making TV commercials for the same type of snack it had cooked last year.,True,1_RC_ambig_2
+961,961,The restaurant advertised the same type of snack it had sold last year.,The restaurant was advertising the same type of snack it had sold last year.,True,1_RC_ambig_2
+962,962,The fast food restaurant advertised the same type of snack it had cooked last year.,The fast food restaurant was advertising the same type of snack it had cooked last year.,True,1_RC_ambig_2
+963,963,The fast food restaurant tried to sell the same type of snack it had made last year.,The fast food restaurant was trying to sell the same type of snack it had made last year.,True,1_RC_ambig_2
+964,964,The fast food restaurant made TV commercials for the same type of snack it had made last year.,The fast food restaurant was making TV commercials for the same type of snack it had made last year.,True,1_RC_ambig_2
+965,965,The fast food restaurant tried to sell the same food it had made last year.,The fast food restaurant was trying to sell the same food it had made last year.,True,1_RC_ambig_2
+966,966,The fast food restaurant advertised the same type of snack it had made last year.,The fast food restaurant was advertising the same type of snack it had made last year.,True,1_RC_ambig_2
+967,967,The restaurant made TV commercials for the same food it had sold last year.,The restaurant was making TV commercials for the same food it had sold last year.,True,1_RC_ambig_2
+968,968,The restaurant tried to sell the same food it had sold last year.,The restaurant was trying to sell the same food it had sold last year.,True,1_RC_ambig_2
+969,969,The fast food restaurant tried to sell the same food it had cooked last year.,The fast food restaurant was trying to sell the same food it had cooked last year.,True,1_RC_ambig_2
+970,970,The restaurant advertised the same type of snack it had cooked last year.,The restaurant was advertising the same type of snack it had cooked last year.,True,1_RC_ambig_2
+971,971,The restaurant tried to sell the same food it had cooked last year.,The restaurant was trying to sell the same food it had cooked last year.,True,1_RC_ambig_2
+972,972,The fast food restaurant advertised the same food it had made last year.,The fast food restaurant was advertising the same food it had made last year.,True,1_RC_ambig_2
+973,973,The fast food restaurant tried to sell the same food it had sold last year.,The fast food restaurant was trying to sell the same food it had sold last year.,True,1_RC_ambig_2
+974,974,The fast food restaurant made TV commercials for the same food it had made last year.,The fast food restaurant was making TV commercials for the same food it had made last year.,True,1_RC_ambig_2
+975,975,The restaurant advertised the same food it had made last year.,The restaurant was advertising the same food it had made last year.,True,1_RC_ambig_2
+976,976,The fast food restaurant advertised the same food it had cooked last year.,The fast food restaurant was advertising the same food it had cooked last year.,True,1_RC_ambig_2
+977,977,The restaurant advertised the same food it had sold last year.,The restaurant was advertising the same food it had sold last year.,True,1_RC_ambig_2
+978,978,The restaurant tried to sell the same food it had made last year.,The restaurant was trying to sell the same food it had made last year.,True,1_RC_ambig_2
+979,979,The restaurant tried to sell the same type of snack it had made last year.,The restaurant was trying to sell the same type of snack it had made last year.,True,1_RC_ambig_2
+980,980,The fast food restaurant advertised the same type of snack it had sold last year.,The fast food restaurant was advertising the same type of snack it had sold last year.,True,1_RC_ambig_2
+981,981,The restaurant made TV commercials for the same food it had made last year.,The restaurant was making TV commercials for the same food it had made last year.,True,1_RC_ambig_2
+982,982,The restaurant made TV commercials for the same type of snack it had made last year.,The restaurant was making TV commercials for the same type of snack it had made last year.,True,1_RC_ambig_2
+983,983,The fast food restaurant tried to sell the same type of snack it had sold last year.,The fast food restaurant was trying to sell the same type of snack it had sold last year.,True,1_RC_ambig_2
+984,984,The restaurant made TV commercials for the same type of snack it had sold last year.,The restaurant was making TV commercials for the same type of snack it had sold last year.,True,1_RC_ambig_2
+985,985,The restaurant tried to sell the same type of snack it had cooked last year.,The restaurant was trying to sell the same type of snack it had cooked last year.,True,1_RC_ambig_2
+986,986,The fast food restaurant made TV commercials for the same food it had sold last year.,The fast food restaurant was making TV commercials for the same food it had sold last year.,True,1_RC_ambig_2
+987,987,The restaurant made TV commercials for the same food it had cooked last year.,The restaurant was making TV commercials for the same food it had cooked last year.,True,1_RC_ambig_2
+988,988,The restaurant tried to sell the same type of snack it had sold last year.,The restaurant was trying to sell the same type of snack it had sold last year.,True,1_RC_ambig_2
+989,989,The fast food restaurant advertised the same food it had sold last year.,The fast food restaurant was advertising the same food it had sold last year.,True,1_RC_ambig_2
+990,990,The fast food restaurant tried to sell the same type of snack it had cooked last year.,The fast food restaurant was trying to sell the same type of snack it had cooked last year.,True,1_RC_ambig_2
+991,991,The fast food restaurant made TV commercials for the same food it had cooked last year.,The fast food restaurant was making TV commercials for the same food it had cooked last year.,True,1_RC_ambig_2
+992,992,The fast food restaurant made TV commercials for the same type of snack it had sold last year.,The fast food restaurant was making TV commercials for the same type of snack it had sold last year.,True,1_RC_ambig_2
+993,993,The restaurant made TV commercials for the same type of snack it had cooked last year.,The restaurant was making TV commercials for the same type of snack it had cooked last year.,True,1_RC_ambig_2
+994,994,The undergraduate stayed in the same apartment she had lived in.,The undergraduate was staying in the same apartment she had lived in.,True,1_RC_ambig_2
+995,995,The undergraduate stayed in the same dorm room he had lived in.,The undergraduate was staying in the same dorm room he had lived in.,True,1_RC_ambig_2
+996,996,The student stayed in the same dorm room he had slept in.,The student was staying in the same dorm room he had slept in.,True,1_RC_ambig_2
+997,997,The undergraduate occupied the same tiny bedroom she had slept in.,The undergraduate was occupying the same tiny bedroom she had slept in.,True,1_RC_ambig_2
+998,998,The student occupied the same dorm room he had slept in.,The student was occupying the same dorm room he had slept in.,True,1_RC_ambig_2
+999,999,The student occupied the same dorm room she had slept in.,The student was occupying the same dorm room she had slept in.,True,1_RC_ambig_2
+1000,1000,The undergraduate occupied the same dorm room she had lived in.,The undergraduate was occupying the same dorm room she had lived in.,True,1_RC_ambig_2
+1001,1001,The student occupied the same dorm room she had lived in.,The student was occupying the same dorm room she had lived in.,True,1_RC_ambig_2
+1002,1002,The student stayed in the same apartment he had lived in.,The student was staying in the same apartment he had lived in.,True,1_RC_ambig_2
+1003,1003,The undergraduate occupied the same apartment she had lived in.,The undergraduate was occupying the same apartment she had lived in.,True,1_RC_ambig_2
+1004,1004,The student occupied the same tiny bedroom he had slept in.,The student was occupying the same tiny bedroom he had slept in.,True,1_RC_ambig_2
+1005,1005,The student stayed in the same tiny bedroom she had slept in.,The student was staying in the same tiny bedroom she had slept in.,True,1_RC_ambig_2
+1006,1006,The student occupied the same apartment she had lived in.,The student was occupying the same apartment she had lived in.,True,1_RC_ambig_2
+1007,1007,The undergraduate stayed in the same apartment he had slept in.,The undergraduate was staying in the same apartment he had slept in.,True,1_RC_ambig_2
+1008,1008,The undergraduate occupied the same apartment he had slept in.,The undergraduate was occupying the same apartment he had slept in.,True,1_RC_ambig_2
+1009,1009,The student occupied the same tiny bedroom he had lived in.,The student was occupying the same tiny bedroom he had lived in.,True,1_RC_ambig_2
+1010,1010,The undergraduate occupied the same tiny bedroom he had slept in.,The undergraduate was occupying the same tiny bedroom he had slept in.,True,1_RC_ambig_2
+1011,1011,The undergraduate occupied the same tiny bedroom she had lived in.,The undergraduate was occupying the same tiny bedroom she had lived in.,True,1_RC_ambig_2
+1012,1012,The student stayed in the same apartment she had slept in.,The student was staying in the same apartment she had slept in.,True,1_RC_ambig_2
+1013,1013,The undergraduate stayed in the same dorm room he had slept in.,The undergraduate was staying in the same dorm room he had slept in.,True,1_RC_ambig_2
+1014,1014,The student occupied the same apartment he had lived in.,The student was occupying the same apartment he had lived in.,True,1_RC_ambig_2
+1015,1015,The undergraduate stayed in the same tiny bedroom he had lived in.,The undergraduate was staying in the same tiny bedroom he had lived in.,True,1_RC_ambig_2
+1016,1016,The student occupied the same dorm room he had lived in.,The student was occupying the same dorm room he had lived in.,True,1_RC_ambig_2
+1017,1017,The student occupied the same tiny bedroom she had slept in.,The student was occupying the same tiny bedroom she had slept in.,True,1_RC_ambig_2
+1018,1018,The undergraduate stayed in the same tiny bedroom she had slept in.,The undergraduate was staying in the same tiny bedroom she had slept in.,True,1_RC_ambig_2
+1019,1019,The student occupied the same apartment he had slept in.,The student was occupying the same apartment he had slept in.,True,1_RC_ambig_2
+1020,1020,The undergraduate occupied the same tiny bedroom he had lived in.,The undergraduate was occupying the same tiny bedroom he had lived in.,True,1_RC_ambig_2
+1021,1021,The student stayed in the same tiny bedroom he had slept in.,The student was staying in the same tiny bedroom he had slept in.,True,1_RC_ambig_2
+1022,1022,The undergraduate occupied the same apartment he had lived in.,The undergraduate was occupying the same apartment he had lived in.,True,1_RC_ambig_2
+1023,1023,The student stayed in the same dorm room she had lived in.,The student was staying in the same dorm room she had lived in.,True,1_RC_ambig_2
+1024,1024,The undergraduate occupied the same dorm room he had slept in.,The undergraduate was occupying the same dorm room he had slept in.,True,1_RC_ambig_2
+1025,1025,The undergraduate stayed in the same apartment he had lived in.,The undergraduate was staying in the same apartment he had lived in.,True,1_RC_ambig_2
+1026,1026,The student stayed in the same tiny bedroom she had lived in.,The student was staying in the same tiny bedroom she had lived in.,True,1_RC_ambig_2
+1027,1027,The student stayed in the same tiny bedroom he had lived in.,The student was staying in the same tiny bedroom he had lived in.,True,1_RC_ambig_2
+1028,1028,The student occupied the same tiny bedroom she had lived in.,The student was occupying the same tiny bedroom she had lived in.,True,1_RC_ambig_2
+1029,1029,The undergraduate stayed in the same apartment she had slept in.,The undergraduate was staying in the same apartment she had slept in.,True,1_RC_ambig_2
+1030,1030,The undergraduate occupied the same dorm room he had lived in.,The undergraduate was occupying the same dorm room he had lived in.,True,1_RC_ambig_2
+1031,1031,The student stayed in the same apartment she had lived in.,The student was staying in the same apartment she had lived in.,True,1_RC_ambig_2
+1032,1032,The student stayed in the same dorm room he had lived in.,The student was staying in the same dorm room he had lived in.,True,1_RC_ambig_2
+1033,1033,The undergraduate stayed in the same dorm room she had lived in.,The undergraduate was staying in the same dorm room she had lived in.,True,1_RC_ambig_2
+1034,1034,The undergraduate stayed in the same dorm room she had slept in.,The undergraduate was staying in the same dorm room she had slept in.,True,1_RC_ambig_2
+1035,1035,The undergraduate stayed in the same tiny bedroom he had slept in.,The undergraduate was staying in the same tiny bedroom he had slept in.,True,1_RC_ambig_2
+1036,1036,The student stayed in the same apartment he had slept in.,The student was staying in the same apartment he had slept in.,True,1_RC_ambig_2
+1037,1037,The student stayed in the same dorm room she had slept in.,The student was staying in the same dorm room she had slept in.,True,1_RC_ambig_2
+1038,1038,The undergraduate stayed in the same tiny bedroom she had lived in.,The undergraduate was staying in the same tiny bedroom she had lived in.,True,1_RC_ambig_2
+1039,1039,The undergraduate occupied the same dorm room she had slept in.,The undergraduate was occupying the same dorm room she had slept in.,True,1_RC_ambig_2
+1040,1040,The undergraduate occupied the same apartment she had slept in.,The undergraduate was occupying the same apartment she had slept in.,True,1_RC_ambig_2
+1041,1041,The student occupied the same apartment she had slept in.,The student was occupying the same apartment she had slept in.,True,1_RC_ambig_2
+1042,1042,The analyst analyzed the raw data the data engineer had collected.,The analyst was analyzing the raw data the data engineer had collected.,True,1_RC_ambig_2
+1043,1043,The data analyst processed the customer data the data engineer had collected.,The data analyst was processing the customer data the data engineer had collected.,True,1_RC_ambig_2
+1044,1044,The data analyst wrote a program to process the customer data the data engineer had collected.,The data analyst was writing a program to process the customer data the data engineer had collected.,True,1_RC_ambig_2
+1045,1045,The data scientist processed the customer data the data engineer had collected.,The data scientist was processing the customer data the data engineer had collected.,True,1_RC_ambig_2
+1046,1046,The data analyst analyzed the data the data engineer had collected.,The data analyst was analyzing the data the data engineer had collected.,True,1_RC_ambig_2
+1047,1047,The analyst wrote a program to process the data the data engineer had collected.,The analyst was writing a program to process the data the data engineer had collected.,True,1_RC_ambig_2
+1048,1048,The analyst analyzed the customer data the data engineer had collected.,The analyst was analyzing the customer data the data engineer had collected.,True,1_RC_ambig_2
+1049,1049,The data scientist processed the raw data the data engineer had collected.,The data scientist was processing the raw data the data engineer had collected.,True,1_RC_ambig_2
+1050,1050,The analyst processed the raw data the data engineer had collected.,The analyst was processing the raw data the data engineer had collected.,True,1_RC_ambig_2
+1051,1051,The data analyst wrote a program to process the raw data the data engineer had collected.,The data analyst was writing a program to process the raw data the data engineer had collected.,True,1_RC_ambig_2
+1052,1052,The data scientist wrote a program to process the data the data engineer had collected.,The data scientist was writing a program to process the data the data engineer had collected.,True,1_RC_ambig_2
+1053,1053,The data analyst processed the data the data engineer had collected.,The data analyst was processing the data the data engineer had collected.,True,1_RC_ambig_2
+1054,1054,The analyst wrote a program to process the raw data the data engineer had collected.,The analyst was writing a program to process the raw data the data engineer had collected.,True,1_RC_ambig_2
+1055,1055,The analyst processed the customer data the data engineer had collected.,The analyst was processing the customer data the data engineer had collected.,True,1_RC_ambig_2
+1056,1056,The data scientist wrote a program to process the raw data the data engineer had collected.,The data scientist was writing a program to process the raw data the data engineer had collected.,True,1_RC_ambig_2
+1057,1057,The analyst processed the data the data engineer had collected.,The analyst was processing the data the data engineer had collected.,True,1_RC_ambig_2
+1058,1058,The data scientist analyzed the raw data the data engineer had collected.,The data scientist was analyzing the raw data the data engineer had collected.,True,1_RC_ambig_2
+1059,1059,The data scientist analyzed the data the data engineer had collected.,The data scientist was analyzing the data the data engineer had collected.,True,1_RC_ambig_2
+1060,1060,The analyst wrote a program to process the customer data the data engineer had collected.,The analyst was writing a program to process the customer data the data engineer had collected.,True,1_RC_ambig_2
+1061,1061,The data analyst analyzed the customer data the data engineer had collected.,The data analyst was analyzing the customer data the data engineer had collected.,True,1_RC_ambig_2
+1062,1062,The data analyst analyzed the raw data the data engineer had collected.,The data analyst was analyzing the raw data the data engineer had collected.,True,1_RC_ambig_2
+1063,1063,The data analyst wrote a program to process the data the data engineer had collected.,The data analyst was writing a program to process the data the data engineer had collected.,True,1_RC_ambig_2
+1064,1064,The data scientist wrote a program to process the customer data the data engineer had collected.,The data scientist was writing a program to process the customer data the data engineer had collected.,True,1_RC_ambig_2
+1065,1065,The analyst analyzed the data the data engineer had collected.,The analyst was analyzing the data the data engineer had collected.,True,1_RC_ambig_2
+1066,1066,The data scientist analyzed the customer data the data engineer had collected.,The data scientist was analyzing the customer data the data engineer had collected.,True,1_RC_ambig_2
+1067,1067,The data scientist processed the data the data engineer had collected.,The data scientist was processing the data the data engineer had collected.,True,1_RC_ambig_2
+1068,1068,The data analyst processed the raw data the data engineer had collected.,The data analyst was processing the raw data the data engineer had collected.,True,1_RC_ambig_2

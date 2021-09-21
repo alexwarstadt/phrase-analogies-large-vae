@@ -1,0 +1,1001 @@
+,pair_ID,a,b,ambiguous,template
+0,0,She has tried to transfer the ticket the guard was setting aside for her friend.,Has she tried to transfer the ticket the guard was setting aside for her friend?,True,1_RC_ambig_2
+1,1,She has tried to transfer the ticket the ticket booth was reserving for her.,Has she tried to transfer the ticket the ticket booth was reserving for her?,True,1_RC_ambig_2
+2,2,She has tried to transfer the ticket the ticket booth was setting aside for her friend.,Has she tried to transfer the ticket the ticket booth was setting aside for her friend?,True,1_RC_ambig_2
+3,3,She has forgotten to pick up the admission bracelet the guard was setting aside for her.,Has she forgotten to pick up the admission bracelet the guard was setting aside for her?,True,1_RC_ambig_2
+4,4,She has tried to transfer the admission bracelet the guard was reserving for her.,Has she tried to transfer the admission bracelet the guard was reserving for her?,True,1_RC_ambig_2
+5,5,She has tried to transfer the ticket the guard was reserving for her friend.,Has she tried to transfer the ticket the guard was reserving for her friend?,True,1_RC_ambig_2
+6,6,She has claimed the admission bracelet the guard was setting aside for her friend.,Has she claimed the admission bracelet the guard was setting aside for her friend?,True,1_RC_ambig_2
+7,7,She has forgotten to pick up the ticket the guard was saving for her.,Has she forgotten to pick up the ticket the guard was saving for her?,True,1_RC_ambig_2
+8,8,She has claimed the admission bracelet the box office was reserving for her friend.,Has she claimed the admission bracelet the box office was reserving for her friend?,True,1_RC_ambig_2
+9,9,She has claimed the admission bracelet the ticket booth was saving for her.,Has she claimed the admission bracelet the ticket booth was saving for her?,True,1_RC_ambig_2
+10,10,She has claimed the admission bracelet the guard was setting aside for her.,Has she claimed the admission bracelet the guard was setting aside for her?,True,1_RC_ambig_2
+11,11,She has forgotten to pick up the ticket the box office was setting aside for her.,Has she forgotten to pick up the ticket the box office was setting aside for her?,True,1_RC_ambig_2
+12,12,She has forgotten to pick up the admission bracelet the guard was saving for her friend.,Has she forgotten to pick up the admission bracelet the guard was saving for her friend?,True,1_RC_ambig_2
+13,13,She has claimed the admission bracelet the guard was saving for her.,Has she claimed the admission bracelet the guard was saving for her?,True,1_RC_ambig_2
+14,14,She has forgotten to pick up the ticket the box office was reserving for her.,Has she forgotten to pick up the ticket the box office was reserving for her?,True,1_RC_ambig_2
+15,15,She has forgotten to pick up the admission bracelet the ticket booth was setting aside for her friend.,Has she forgotten to pick up the admission bracelet the ticket booth was setting aside for her friend?,True,1_RC_ambig_2
+16,16,She has claimed the admission bracelet the ticket booth was setting aside for her.,Has she claimed the admission bracelet the ticket booth was setting aside for her?,True,1_RC_ambig_2
+17,17,She has claimed the ticket the box office was reserving for her friend.,Has she claimed the ticket the box office was reserving for her friend?,True,1_RC_ambig_2
+18,18,She has tried to transfer the admission bracelet the box office was setting aside for her.,Has she tried to transfer the admission bracelet the box office was setting aside for her?,True,1_RC_ambig_2
+19,19,She has claimed the admission bracelet the guard was reserving for her.,Has she claimed the admission bracelet the guard was reserving for her?,True,1_RC_ambig_2
+20,20,She has tried to transfer the ticket the guard was saving for her friend.,Has she tried to transfer the ticket the guard was saving for her friend?,True,1_RC_ambig_2
+21,21,She has tried to transfer the admission bracelet the box office was saving for her friend.,Has she tried to transfer the admission bracelet the box office was saving for her friend?,True,1_RC_ambig_2
+22,22,She has tried to transfer the admission bracelet the guard was setting aside for her friend.,Has she tried to transfer the admission bracelet the guard was setting aside for her friend?,True,1_RC_ambig_2
+23,23,She has tried to transfer the ticket the box office was setting aside for her friend.,Has she tried to transfer the ticket the box office was setting aside for her friend?,True,1_RC_ambig_2
+24,24,She has claimed the admission bracelet the guard was saving for her friend.,Has she claimed the admission bracelet the guard was saving for her friend?,True,1_RC_ambig_2
+25,25,She has claimed the ticket the ticket booth was reserving for her friend.,Has she claimed the ticket the ticket booth was reserving for her friend?,True,1_RC_ambig_2
+26,26,She has claimed the admission bracelet the box office was setting aside for her friend.,Has she claimed the admission bracelet the box office was setting aside for her friend?,True,1_RC_ambig_2
+27,27,She has forgotten to pick up the admission bracelet the ticket booth was saving for her friend.,Has she forgotten to pick up the admission bracelet the ticket booth was saving for her friend?,True,1_RC_ambig_2
+28,28,She has claimed the ticket the ticket booth was saving for her.,Has she claimed the ticket the ticket booth was saving for her?,True,1_RC_ambig_2
+29,29,She has forgotten to pick up the admission bracelet the box office was setting aside for her friend.,Has she forgotten to pick up the admission bracelet the box office was setting aside for her friend?,True,1_RC_ambig_2
+30,30,She has forgotten to pick up the admission bracelet the box office was reserving for her.,Has she forgotten to pick up the admission bracelet the box office was reserving for her?,True,1_RC_ambig_2
+31,31,She has claimed the ticket the box office was saving for her.,Has she claimed the ticket the box office was saving for her?,True,1_RC_ambig_2
+32,32,She has claimed the ticket the ticket booth was setting aside for her.,Has she claimed the ticket the ticket booth was setting aside for her?,True,1_RC_ambig_2
+33,33,She has tried to transfer the ticket the guard was setting aside for her.,Has she tried to transfer the ticket the guard was setting aside for her?,True,1_RC_ambig_2
+34,34,She has forgotten to pick up the ticket the ticket booth was saving for her friend.,Has she forgotten to pick up the ticket the ticket booth was saving for her friend?,True,1_RC_ambig_2
+35,35,She has claimed the admission bracelet the ticket booth was setting aside for her friend.,Has she claimed the admission bracelet the ticket booth was setting aside for her friend?,True,1_RC_ambig_2
+36,36,She has forgotten to pick up the ticket the box office was saving for her.,Has she forgotten to pick up the ticket the box office was saving for her?,True,1_RC_ambig_2
+37,37,She has tried to transfer the ticket the guard was reserving for her.,Has she tried to transfer the ticket the guard was reserving for her?,True,1_RC_ambig_2
+38,38,She has claimed the ticket the guard was setting aside for her friend.,Has she claimed the ticket the guard was setting aside for her friend?,True,1_RC_ambig_2
+39,39,She has tried to transfer the ticket the ticket booth was reserving for her friend.,Has she tried to transfer the ticket the ticket booth was reserving for her friend?,True,1_RC_ambig_2
+40,40,She has forgotten to pick up the ticket the guard was setting aside for her friend.,Has she forgotten to pick up the ticket the guard was setting aside for her friend?,True,1_RC_ambig_2
+41,41,She has claimed the admission bracelet the ticket booth was reserving for her friend.,Has she claimed the admission bracelet the ticket booth was reserving for her friend?,True,1_RC_ambig_2
+42,42,She has claimed the ticket the box office was saving for her friend.,Has she claimed the ticket the box office was saving for her friend?,True,1_RC_ambig_2
+43,43,She has forgotten to pick up the admission bracelet the box office was reserving for her friend.,Has she forgotten to pick up the admission bracelet the box office was reserving for her friend?,True,1_RC_ambig_2
+44,44,She has claimed the ticket the guard was reserving for her friend.,Has she claimed the ticket the guard was reserving for her friend?,True,1_RC_ambig_2
+45,45,She has claimed the ticket the guard was saving for her.,Has she claimed the ticket the guard was saving for her?,True,1_RC_ambig_2
+46,46,She has tried to transfer the admission bracelet the guard was saving for her friend.,Has she tried to transfer the admission bracelet the guard was saving for her friend?,True,1_RC_ambig_2
+47,47,She has forgotten to pick up the admission bracelet the ticket booth was reserving for her friend.,Has she forgotten to pick up the admission bracelet the ticket booth was reserving for her friend?,True,1_RC_ambig_2
+48,48,She has tried to transfer the admission bracelet the ticket booth was setting aside for her friend.,Has she tried to transfer the admission bracelet the ticket booth was setting aside for her friend?,True,1_RC_ambig_2
+49,49,She has claimed the admission bracelet the guard was reserving for her friend.,Has she claimed the admission bracelet the guard was reserving for her friend?,True,1_RC_ambig_2
+50,50,He has swiped the cash his mother was storing on the dresser.,Has he swiped the cash his mother was storing on the dresser?,True,1_RC_ambig_2
+51,51,He has grabbed the money his friend was storing on the dresser.,Has he grabbed the money his friend was storing on the dresser?,True,1_RC_ambig_2
+52,52,He has stolen the cash his friend was keeping on the dresser.,Has he stolen the cash his friend was keeping on the dresser?,True,1_RC_ambig_2
+53,53,He has pilfered the cash his brother was hiding on the dresser.,Has he pilfered the cash his brother was hiding on the dresser?,True,1_RC_ambig_2
+54,54,He has stolen the money his father was hiding in the safe.,Has he stolen the money his father was hiding in the safe?,True,1_RC_ambig_2
+55,55,He has swiped the cash his brother was hiding in the safe.,Has he swiped the cash his brother was hiding in the safe?,True,1_RC_ambig_2
+56,56,He has swiped the money his mother was keeping in the safe.,Has he swiped the money his mother was keeping in the safe?,True,1_RC_ambig_2
+57,57,He has stolen the cash his sister was keeping under the bed.,Has he stolen the cash his sister was keeping under the bed?,True,1_RC_ambig_2
+58,58,He has grabbed the money his father was keeping on the dresser.,Has he grabbed the money his father was keeping on the dresser?,True,1_RC_ambig_2
+59,59,He has swiped the cash his father was keeping in the safe.,Has he swiped the cash his father was keeping in the safe?,True,1_RC_ambig_2
+60,60,He has swiped the cash his friend was storing under the bed.,Has he swiped the cash his friend was storing under the bed?,True,1_RC_ambig_2
+61,61,He has swiped the cash his mother was storing under the bed.,Has he swiped the cash his mother was storing under the bed?,True,1_RC_ambig_2
+62,62,He has pilfered the cash his friend was storing on the dresser.,Has he pilfered the cash his friend was storing on the dresser?,True,1_RC_ambig_2
+63,63,He has swiped the money his mother was storing on the dresser.,Has he swiped the money his mother was storing on the dresser?,True,1_RC_ambig_2
+64,64,He has pilfered the cash his mother was hiding on the dresser.,Has he pilfered the cash his mother was hiding on the dresser?,True,1_RC_ambig_2
+65,65,He has stolen the money his sister was keeping in the safe.,Has he stolen the money his sister was keeping in the safe?,True,1_RC_ambig_2
+66,66,He has swiped the money his mother was keeping under the bed.,Has he swiped the money his mother was keeping under the bed?,True,1_RC_ambig_2
+67,67,He has stolen the money his brother was hiding in the safe.,Has he stolen the money his brother was hiding in the safe?,True,1_RC_ambig_2
+68,68,He has pilfered the cash his brother was keeping in the safe.,Has he pilfered the cash his brother was keeping in the safe?,True,1_RC_ambig_2
+69,69,He has pilfered the cash his mother was hiding in the safe.,Has he pilfered the cash his mother was hiding in the safe?,True,1_RC_ambig_2
+70,70,He has grabbed the money his mother was storing in the safe.,Has he grabbed the money his mother was storing in the safe?,True,1_RC_ambig_2
+71,71,He has grabbed the money his sister was hiding under the bed.,Has he grabbed the money his sister was hiding under the bed?,True,1_RC_ambig_2
+72,72,He has stolen the money his friend was keeping under the bed.,Has he stolen the money his friend was keeping under the bed?,True,1_RC_ambig_2
+73,73,He has grabbed the money his mother was hiding in the safe.,Has he grabbed the money his mother was hiding in the safe?,True,1_RC_ambig_2
+74,74,He has swiped the money his mother was keeping on the dresser.,Has he swiped the money his mother was keeping on the dresser?,True,1_RC_ambig_2
+75,75,He has pilfered the cash his father was hiding in the safe.,Has he pilfered the cash his father was hiding in the safe?,True,1_RC_ambig_2
+76,76,He has swiped the cash his brother was keeping under the bed.,Has he swiped the cash his brother was keeping under the bed?,True,1_RC_ambig_2
+77,77,He has grabbed the money his friend was keeping under the bed.,Has he grabbed the money his friend was keeping under the bed?,True,1_RC_ambig_2
+78,78,He has grabbed the money his father was storing on the dresser.,Has he grabbed the money his father was storing on the dresser?,True,1_RC_ambig_2
+79,79,He has grabbed the money his father was storing under the bed.,Has he grabbed the money his father was storing under the bed?,True,1_RC_ambig_2
+80,80,He has stolen the money his father was storing in the safe.,Has he stolen the money his father was storing in the safe?,True,1_RC_ambig_2
+81,81,He has pilfered the cash his friend was storing in the safe.,Has he pilfered the cash his friend was storing in the safe?,True,1_RC_ambig_2
+82,82,He has stolen the money his brother was storing in the safe.,Has he stolen the money his brother was storing in the safe?,True,1_RC_ambig_2
+83,83,He has grabbed the cash his brother was storing in the safe.,Has he grabbed the cash his brother was storing in the safe?,True,1_RC_ambig_2
+84,84,He has pilfered the money his sister was keeping on the dresser.,Has he pilfered the money his sister was keeping on the dresser?,True,1_RC_ambig_2
+85,85,He has grabbed the cash his father was storing under the bed.,Has he grabbed the cash his father was storing under the bed?,True,1_RC_ambig_2
+86,86,He has grabbed the cash his friend was hiding in the safe.,Has he grabbed the cash his friend was hiding in the safe?,True,1_RC_ambig_2
+87,87,He has swiped the money his brother was keeping under the bed.,Has he swiped the money his brother was keeping under the bed?,True,1_RC_ambig_2
+88,88,He has swiped the money his friend was hiding on the dresser.,Has he swiped the money his friend was hiding on the dresser?,True,1_RC_ambig_2
+89,89,He has swiped the cash his sister was storing on the dresser.,Has he swiped the cash his sister was storing on the dresser?,True,1_RC_ambig_2
+90,90,He has grabbed the cash his father was hiding on the dresser.,Has he grabbed the cash his father was hiding on the dresser?,True,1_RC_ambig_2
+91,91,He has swiped the money his sister was keeping under the bed.,Has he swiped the money his sister was keeping under the bed?,True,1_RC_ambig_2
+92,92,He has pilfered the money his mother was storing under the bed.,Has he pilfered the money his mother was storing under the bed?,True,1_RC_ambig_2
+93,93,He has swiped the money his sister was storing in the safe.,Has he swiped the money his sister was storing in the safe?,True,1_RC_ambig_2
+94,94,He has grabbed the cash his sister was storing in the safe.,Has he grabbed the cash his sister was storing in the safe?,True,1_RC_ambig_2
+95,95,He has grabbed the cash his father was storing on the dresser.,Has he grabbed the cash his father was storing on the dresser?,True,1_RC_ambig_2
+96,96,He has stolen the money his friend was storing under the bed.,Has he stolen the money his friend was storing under the bed?,True,1_RC_ambig_2
+97,97,He has swiped the cash his brother was storing under the bed.,Has he swiped the cash his brother was storing under the bed?,True,1_RC_ambig_2
+98,98,He has stolen the money his father was keeping under the bed.,Has he stolen the money his father was keeping under the bed?,True,1_RC_ambig_2
+99,99,He has swiped the cash his father was storing on the dresser.,Has he swiped the cash his father was storing on the dresser?,True,1_RC_ambig_2
+100,100,She has lost the bracelet her roommate was saving for her daughter.,Has she lost the bracelet her roommate was saving for her daughter?,True,1_RC_ambig_2
+101,101,She has lost the necklace her roommate was holding onto for her friend.,Has she lost the necklace her roommate was holding onto for her friend?,True,1_RC_ambig_2
+102,102,She has pawned the ring the jeweler was saving for her friend.,Has she pawned the ring the jeweler was saving for her friend?,True,1_RC_ambig_2
+103,103,She has sold the bracelet her roommate was saving for her wife.,Has she sold the bracelet her roommate was saving for her wife?,True,1_RC_ambig_2
+104,104,She has pawned the necklace the jeweler was holding onto for her friend.,Has she pawned the necklace the jeweler was holding onto for her friend?,True,1_RC_ambig_2
+105,105,She has sold the bracelet her roommate was saving for her daughter.,Has she sold the bracelet her roommate was saving for her daughter?,True,1_RC_ambig_2
+106,106,She has sold the necklace her roommate was holding onto for her daughter.,Has she sold the necklace her roommate was holding onto for her daughter?,True,1_RC_ambig_2
+107,107,She has lost the bracelet the jeweler was holding onto for her wife.,Has she lost the bracelet the jeweler was holding onto for her wife?,True,1_RC_ambig_2
+108,108,She has pawned the ring her roommate was saving for herself.,Has she pawned the ring her roommate was saving for herself?,True,1_RC_ambig_2
+109,109,She has pawned the bracelet the jeweler was saving for her daughter.,Has she pawned the bracelet the jeweler was saving for her daughter?,True,1_RC_ambig_2
+110,110,She has sold the ring her roommate was saving for herself.,Has she sold the ring her roommate was saving for herself?,True,1_RC_ambig_2
+111,111,She has sold the bracelet the jeweler was holding onto for her friend.,Has she sold the bracelet the jeweler was holding onto for her friend?,True,1_RC_ambig_2
+112,112,She has sold the ring the jeweler was holding onto for her friend.,Has she sold the ring the jeweler was holding onto for her friend?,True,1_RC_ambig_2
+113,113,She has sold the necklace her roommate was saving for her friend.,Has she sold the necklace her roommate was saving for her friend?,True,1_RC_ambig_2
+114,114,She has lost the bracelet her roommate was holding onto for her wife.,Has she lost the bracelet her roommate was holding onto for her wife?,True,1_RC_ambig_2
+115,115,She has pawned the ring the jeweler was saving for herself.,Has she pawned the ring the jeweler was saving for herself?,True,1_RC_ambig_2
+116,116,She has sold the ring the jeweler was holding onto for her wife.,Has she sold the ring the jeweler was holding onto for her wife?,True,1_RC_ambig_2
+117,117,She has lost the ring her roommate was holding onto for her friend.,Has she lost the ring her roommate was holding onto for her friend?,True,1_RC_ambig_2
+118,118,She has pawned the necklace her roommate was saving for herself.,Has she pawned the necklace her roommate was saving for herself?,True,1_RC_ambig_2
+119,119,She has lost the ring the jeweler was saving for her wife.,Has she lost the ring the jeweler was saving for her wife?,True,1_RC_ambig_2
+120,120,She has lost the ring the jeweler was saving for herself.,Has she lost the ring the jeweler was saving for herself?,True,1_RC_ambig_2
+121,121,She has sold the necklace her roommate was saving for her wife.,Has she sold the necklace her roommate was saving for her wife?,True,1_RC_ambig_2
+122,122,She has sold the ring her roommate was holding onto for her wife.,Has she sold the ring her roommate was holding onto for her wife?,True,1_RC_ambig_2
+123,123,She has lost the necklace her roommate was holding onto for her daughter.,Has she lost the necklace her roommate was holding onto for her daughter?,True,1_RC_ambig_2
+124,124,She has sold the bracelet her roommate was holding onto for her daughter.,Has she sold the bracelet her roommate was holding onto for her daughter?,True,1_RC_ambig_2
+125,125,She has pawned the bracelet the jeweler was holding onto for her wife.,Has she pawned the bracelet the jeweler was holding onto for her wife?,True,1_RC_ambig_2
+126,126,She has pawned the bracelet the jeweler was saving for her friend.,Has she pawned the bracelet the jeweler was saving for her friend?,True,1_RC_ambig_2
+127,127,She has sold the bracelet her roommate was holding onto for herself.,Has she sold the bracelet her roommate was holding onto for herself?,True,1_RC_ambig_2
+128,128,She has sold the ring the jeweler was saving for her friend.,Has she sold the ring the jeweler was saving for her friend?,True,1_RC_ambig_2
+129,129,She has pawned the bracelet her roommate was saving for her wife.,Has she pawned the bracelet her roommate was saving for her wife?,True,1_RC_ambig_2
+130,130,She has pawned the bracelet her roommate was holding onto for her wife.,Has she pawned the bracelet her roommate was holding onto for her wife?,True,1_RC_ambig_2
+131,131,She has lost the necklace the jeweler was saving for herself.,Has she lost the necklace the jeweler was saving for herself?,True,1_RC_ambig_2
+132,132,She has sold the necklace her roommate was holding onto for herself.,Has she sold the necklace her roommate was holding onto for herself?,True,1_RC_ambig_2
+133,133,She has lost the necklace the jeweler was saving for her wife.,Has she lost the necklace the jeweler was saving for her wife?,True,1_RC_ambig_2
+134,134,She has sold the ring her roommate was holding onto for her friend.,Has she sold the ring her roommate was holding onto for her friend?,True,1_RC_ambig_2
+135,135,She has pawned the ring her roommate was saving for her friend.,Has she pawned the ring her roommate was saving for her friend?,True,1_RC_ambig_2
+136,136,She has pawned the bracelet her roommate was saving for herself.,Has she pawned the bracelet her roommate was saving for herself?,True,1_RC_ambig_2
+137,137,She has sold the ring her roommate was saving for her friend.,Has she sold the ring her roommate was saving for her friend?,True,1_RC_ambig_2
+138,138,She has sold the necklace her roommate was saving for her daughter.,Has she sold the necklace her roommate was saving for her daughter?,True,1_RC_ambig_2
+139,139,She has pawned the bracelet the jeweler was saving for her wife.,Has she pawned the bracelet the jeweler was saving for her wife?,True,1_RC_ambig_2
+140,140,She has pawned the bracelet the jeweler was holding onto for her daughter.,Has she pawned the bracelet the jeweler was holding onto for her daughter?,True,1_RC_ambig_2
+141,141,She has pawned the bracelet the jeweler was holding onto for herself.,Has she pawned the bracelet the jeweler was holding onto for herself?,True,1_RC_ambig_2
+142,142,She has lost the necklace the jeweler was holding onto for her daughter.,Has she lost the necklace the jeweler was holding onto for her daughter?,True,1_RC_ambig_2
+143,143,She has lost the necklace the jeweler was holding onto for herself.,Has she lost the necklace the jeweler was holding onto for herself?,True,1_RC_ambig_2
+144,144,She has sold the bracelet her roommate was saving for her friend.,Has she sold the bracelet her roommate was saving for her friend?,True,1_RC_ambig_2
+145,145,She has lost the ring her roommate was saving for her daughter.,Has she lost the ring her roommate was saving for her daughter?,True,1_RC_ambig_2
+146,146,She has pawned the ring the jeweler was holding onto for her friend.,Has she pawned the ring the jeweler was holding onto for her friend?,True,1_RC_ambig_2
+147,147,She has lost the bracelet the jeweler was holding onto for her daughter.,Has she lost the bracelet the jeweler was holding onto for her daughter?,True,1_RC_ambig_2
+148,148,She has pawned the bracelet the jeweler was holding onto for her friend.,Has she pawned the bracelet the jeweler was holding onto for her friend?,True,1_RC_ambig_2
+149,149,She has pawned the bracelet her roommate was saving for her daughter.,Has she pawned the bracelet her roommate was saving for her daughter?,True,1_RC_ambig_2
+150,150,He has fed the annoying little dog I was walking to the park.,Has he fed the annoying little dog I was walking to the park?,True,1_RC_ambig_2
+151,151,He has brushed the dalmatian the dog walker was taking to the park.,Has he brushed the dalmatian the dog walker was taking to the park?,True,1_RC_ambig_2
+152,152,He has fed the annoying little dog I was walking outside.,Has he fed the annoying little dog I was walking outside?,True,1_RC_ambig_2
+153,153,He has brushed the dog the dog walker was taking outside.,Has he brushed the dog the dog walker was taking outside?,True,1_RC_ambig_2
+154,154,He has fed the dalmatian he was walking around the block.,Has he fed the dalmatian he was walking around the block?,True,1_RC_ambig_2
+155,155,He has brushed the dog the dog walker was walking outside.,Has he brushed the dog the dog walker was walking outside?,True,1_RC_ambig_2
+156,156,He has fed the annoying little dog the dog walker was walking around the block.,Has he fed the annoying little dog the dog walker was walking around the block?,True,1_RC_ambig_2
+157,157,He has fed the dog the dog walker was taking to the park.,Has he fed the dog the dog walker was taking to the park?,True,1_RC_ambig_2
+158,158,He has brushed the annoying little dog the dog walker was walking outside.,Has he brushed the annoying little dog the dog walker was walking outside?,True,1_RC_ambig_2
+159,159,He has brushed the dalmatian he was taking around the block.,Has he brushed the dalmatian he was taking around the block?,True,1_RC_ambig_2
+160,160,He has fed the annoying little dog he was walking to the park.,Has he fed the annoying little dog he was walking to the park?,True,1_RC_ambig_2
+161,161,He has brushed the annoying little dog I was taking around the block.,Has he brushed the annoying little dog I was taking around the block?,True,1_RC_ambig_2
+162,162,He has fed the dog I was walking around the block.,Has he fed the dog I was walking around the block?,True,1_RC_ambig_2
+163,163,He has played with the dog I was walking outside.,Has he played with the dog I was walking outside?,True,1_RC_ambig_2
+164,164,He has brushed the dog I was taking around the block.,Has he brushed the dog I was taking around the block?,True,1_RC_ambig_2
+165,165,He has fed the dalmatian the dog walker was taking outside.,Has he fed the dalmatian the dog walker was taking outside?,True,1_RC_ambig_2
+166,166,He has played with the dalmatian the dog walker was walking around the block.,Has he played with the dalmatian the dog walker was walking around the block?,True,1_RC_ambig_2
+167,167,He has brushed the annoying little dog I was walking around the block.,Has he brushed the annoying little dog I was walking around the block?,True,1_RC_ambig_2
+168,168,He has brushed the dog he was taking outside.,Has he brushed the dog he was taking outside?,True,1_RC_ambig_2
+169,169,He has brushed the dalmatian the dog walker was walking around the block.,Has he brushed the dalmatian the dog walker was walking around the block?,True,1_RC_ambig_2
+170,170,He has fed the dog the dog walker was walking outside.,Has he fed the dog the dog walker was walking outside?,True,1_RC_ambig_2
+171,171,He has fed the dalmatian he was taking around the block.,Has he fed the dalmatian he was taking around the block?,True,1_RC_ambig_2
+172,172,He has fed the dog he was walking around the block.,Has he fed the dog he was walking around the block?,True,1_RC_ambig_2
+173,173,He has brushed the annoying little dog I was taking to the park.,Has he brushed the annoying little dog I was taking to the park?,True,1_RC_ambig_2
+174,174,He has played with the dog he was walking around the block.,Has he played with the dog he was walking around the block?,True,1_RC_ambig_2
+175,175,He has played with the annoying little dog the dog walker was taking around the block.,Has he played with the annoying little dog the dog walker was taking around the block?,True,1_RC_ambig_2
+176,176,He has fed the annoying little dog he was walking around the block.,Has he fed the annoying little dog he was walking around the block?,True,1_RC_ambig_2
+177,177,He has played with the dalmatian he was taking to the park.,Has he played with the dalmatian he was taking to the park?,True,1_RC_ambig_2
+178,178,He has brushed the dalmatian I was taking outside.,Has he brushed the dalmatian I was taking outside?,True,1_RC_ambig_2
+179,179,He has fed the dog the dog walker was taking around the block.,Has he fed the dog the dog walker was taking around the block?,True,1_RC_ambig_2
+180,180,He has brushed the annoying little dog the dog walker was walking around the block.,Has he brushed the annoying little dog the dog walker was walking around the block?,True,1_RC_ambig_2
+181,181,He has played with the annoying little dog the dog walker was walking outside.,Has he played with the annoying little dog the dog walker was walking outside?,True,1_RC_ambig_2
+182,182,He has fed the dog I was taking outside.,Has he fed the dog I was taking outside?,True,1_RC_ambig_2
+183,183,He has played with the dog I was taking to the park.,Has he played with the dog I was taking to the park?,True,1_RC_ambig_2
+184,184,He has played with the annoying little dog I was taking outside.,Has he played with the annoying little dog I was taking outside?,True,1_RC_ambig_2
+185,185,He has brushed the dog he was walking to the park.,Has he brushed the dog he was walking to the park?,True,1_RC_ambig_2
+186,186,He has brushed the dog he was walking around the block.,Has he brushed the dog he was walking around the block?,True,1_RC_ambig_2
+187,187,He has brushed the dalmatian he was walking around the block.,Has he brushed the dalmatian he was walking around the block?,True,1_RC_ambig_2
+188,188,He has brushed the annoying little dog the dog walker was walking to the park.,Has he brushed the annoying little dog the dog walker was walking to the park?,True,1_RC_ambig_2
+189,189,He has fed the dalmatian he was taking outside.,Has he fed the dalmatian he was taking outside?,True,1_RC_ambig_2
+190,190,He has brushed the dalmatian I was walking to the park.,Has he brushed the dalmatian I was walking to the park?,True,1_RC_ambig_2
+191,191,He has played with the dalmatian he was walking to the park.,Has he played with the dalmatian he was walking to the park?,True,1_RC_ambig_2
+192,192,He has brushed the annoying little dog the dog walker was taking to the park.,Has he brushed the annoying little dog the dog walker was taking to the park?,True,1_RC_ambig_2
+193,193,He has played with the dalmatian the dog walker was taking outside.,Has he played with the dalmatian the dog walker was taking outside?,True,1_RC_ambig_2
+194,194,He has fed the dog he was walking to the park.,Has he fed the dog he was walking to the park?,True,1_RC_ambig_2
+195,195,He has played with the dog he was walking to the park.,Has he played with the dog he was walking to the park?,True,1_RC_ambig_2
+196,196,He has fed the dalmatian I was taking to the park.,Has he fed the dalmatian I was taking to the park?,True,1_RC_ambig_2
+197,197,He has brushed the annoying little dog the dog walker was taking outside.,Has he brushed the annoying little dog the dog walker was taking outside?,True,1_RC_ambig_2
+198,198,He has brushed the annoying little dog he was walking to the park.,Has he brushed the annoying little dog he was walking to the park?,True,1_RC_ambig_2
+199,199,He has fed the dog the dog walker was walking to the park.,Has he fed the dog the dog walker was walking to the park?,True,1_RC_ambig_2
+200,200,She has taken home the dog she was looking at in the pound.,Has she taken home the dog she was looking at in the pound?,True,1_RC_ambig_2
+201,201,She has taken home the dog her daughter was caring for in the pound.,Has she taken home the dog her daughter was caring for in the pound?,True,1_RC_ambig_2
+202,202,She has adopted the cat her daughter was caring for in the pound.,Has she adopted the cat her daughter was caring for in the pound?,True,1_RC_ambig_2
+203,203,She has adopted the bird her daughter was visiting in the animal rescue.,Has she adopted the bird her daughter was visiting in the animal rescue?,True,1_RC_ambig_2
+204,204,She has adopted the cat she was visiting in the animal rescue.,Has she adopted the cat she was visiting in the animal rescue?,True,1_RC_ambig_2
+205,205,She has taken home the bird she was caring for in the animal rescue.,Has she taken home the bird she was caring for in the animal rescue?,True,1_RC_ambig_2
+206,206,She has taken home the cat she was caring for in the shelter.,Has she taken home the cat she was caring for in the shelter?,True,1_RC_ambig_2
+207,207,She has taken home the cat her daughter was caring for in the pound.,Has she taken home the cat her daughter was caring for in the pound?,True,1_RC_ambig_2
+208,208,She has taken home the bird her daughter was visiting in the animal rescue.,Has she taken home the bird her daughter was visiting in the animal rescue?,True,1_RC_ambig_2
+209,209,She has taken home the cat she was caring for in the pound.,Has she taken home the cat she was caring for in the pound?,True,1_RC_ambig_2
+210,210,She has taken home the cat she was looking at in the shelter.,Has she taken home the cat she was looking at in the shelter?,True,1_RC_ambig_2
+211,211,She has adopted the dog she was looking at in the animal rescue.,Has she adopted the dog she was looking at in the animal rescue?,True,1_RC_ambig_2
+212,212,She has taken home the dog her daughter was looking at in the shelter.,Has she taken home the dog her daughter was looking at in the shelter?,True,1_RC_ambig_2
+213,213,She has adopted the cat she was visiting in the pound.,Has she adopted the cat she was visiting in the pound?,True,1_RC_ambig_2
+214,214,She has taken home the dog her daughter was visiting in the animal rescue.,Has she taken home the dog her daughter was visiting in the animal rescue?,True,1_RC_ambig_2
+215,215,She has adopted the bird her daughter was looking at in the animal rescue.,Has she adopted the bird her daughter was looking at in the animal rescue?,True,1_RC_ambig_2
+216,216,She has adopted the bird her daughter was visiting in the shelter.,Has she adopted the bird her daughter was visiting in the shelter?,True,1_RC_ambig_2
+217,217,She has adopted the bird she was looking at in the shelter.,Has she adopted the bird she was looking at in the shelter?,True,1_RC_ambig_2
+218,218,She has taken home the dog her daughter was visiting in the pound.,Has she taken home the dog her daughter was visiting in the pound?,True,1_RC_ambig_2
+219,219,She has adopted the cat her daughter was looking at in the animal rescue.,Has she adopted the cat her daughter was looking at in the animal rescue?,True,1_RC_ambig_2
+220,220,She has adopted the bird she was visiting in the pound.,Has she adopted the bird she was visiting in the pound?,True,1_RC_ambig_2
+221,221,She has taken home the cat her daughter was visiting in the shelter.,Has she taken home the cat her daughter was visiting in the shelter?,True,1_RC_ambig_2
+222,222,She has taken home the dog her daughter was caring for in the shelter.,Has she taken home the dog her daughter was caring for in the shelter?,True,1_RC_ambig_2
+223,223,She has adopted the cat she was looking at in the animal rescue.,Has she adopted the cat she was looking at in the animal rescue?,True,1_RC_ambig_2
+224,224,She has adopted the bird she was looking at in the animal rescue.,Has she adopted the bird she was looking at in the animal rescue?,True,1_RC_ambig_2
+225,225,She has taken home the bird she was visiting in the animal rescue.,Has she taken home the bird she was visiting in the animal rescue?,True,1_RC_ambig_2
+226,226,She has taken home the dog she was looking at in the shelter.,Has she taken home the dog she was looking at in the shelter?,True,1_RC_ambig_2
+227,227,She has taken home the cat her daughter was visiting in the pound.,Has she taken home the cat her daughter was visiting in the pound?,True,1_RC_ambig_2
+228,228,She has taken home the bird her daughter was looking at in the animal rescue.,Has she taken home the bird her daughter was looking at in the animal rescue?,True,1_RC_ambig_2
+229,229,She has taken home the cat her daughter was caring for in the animal rescue.,Has she taken home the cat her daughter was caring for in the animal rescue?,True,1_RC_ambig_2
+230,230,She has adopted the dog she was looking at in the pound.,Has she adopted the dog she was looking at in the pound?,True,1_RC_ambig_2
+231,231,She has adopted the bird her daughter was caring for in the pound.,Has she adopted the bird her daughter was caring for in the pound?,True,1_RC_ambig_2
+232,232,She has taken home the cat she was visiting in the shelter.,Has she taken home the cat she was visiting in the shelter?,True,1_RC_ambig_2
+233,233,She has adopted the dog her daughter was visiting in the shelter.,Has she adopted the dog her daughter was visiting in the shelter?,True,1_RC_ambig_2
+234,234,She has taken home the cat she was looking at in the animal rescue.,Has she taken home the cat she was looking at in the animal rescue?,True,1_RC_ambig_2
+235,235,She has taken home the bird her daughter was caring for in the pound.,Has she taken home the bird her daughter was caring for in the pound?,True,1_RC_ambig_2
+236,236,She has taken home the bird her daughter was caring for in the shelter.,Has she taken home the bird her daughter was caring for in the shelter?,True,1_RC_ambig_2
+237,237,She has taken home the bird she was visiting in the shelter.,Has she taken home the bird she was visiting in the shelter?,True,1_RC_ambig_2
+238,238,She has taken home the bird she was caring for in the shelter.,Has she taken home the bird she was caring for in the shelter?,True,1_RC_ambig_2
+239,239,She has taken home the cat her daughter was visiting in the animal rescue.,Has she taken home the cat her daughter was visiting in the animal rescue?,True,1_RC_ambig_2
+240,240,She has taken home the cat her daughter was looking at in the pound.,Has she taken home the cat her daughter was looking at in the pound?,True,1_RC_ambig_2
+241,241,She has taken home the bird her daughter was looking at in the pound.,Has she taken home the bird her daughter was looking at in the pound?,True,1_RC_ambig_2
+242,242,She has adopted the bird she was caring for in the pound.,Has she adopted the bird she was caring for in the pound?,True,1_RC_ambig_2
+243,243,She has taken home the bird she was caring for in the pound.,Has she taken home the bird she was caring for in the pound?,True,1_RC_ambig_2
+244,244,She has adopted the cat she was looking at in the pound.,Has she adopted the cat she was looking at in the pound?,True,1_RC_ambig_2
+245,245,She has adopted the bird her daughter was caring for in the shelter.,Has she adopted the bird her daughter was caring for in the shelter?,True,1_RC_ambig_2
+246,246,She has taken home the bird she was looking at in the pound.,Has she taken home the bird she was looking at in the pound?,True,1_RC_ambig_2
+247,247,She has taken home the cat she was looking at in the pound.,Has she taken home the cat she was looking at in the pound?,True,1_RC_ambig_2
+248,248,She has taken home the dog she was caring for in the pound.,Has she taken home the dog she was caring for in the pound?,True,1_RC_ambig_2
+249,249,She has adopted the cat she was looking at in the shelter.,Has she adopted the cat she was looking at in the shelter?,True,1_RC_ambig_2
+250,250,He has practiced the positions he was learning on YouTube.,Has he practiced the positions he was learning on YouTube?,True,1_RC_ambig_2
+251,251,He has mastered the moves he was learning from Sensei John.,Has he mastered the moves he was learning from Sensei John?,True,1_RC_ambig_2
+252,252,He has practiced the moves he was learning on YouTube.,Has he practiced the moves he was learning on YouTube?,True,1_RC_ambig_2
+253,253,He has practiced the moves he was studying from Sensei John.,Has he practiced the moves he was studying from Sensei John?,True,1_RC_ambig_2
+254,254,He has honed the techniques he was learning from his master of martial arts.,Has he honed the techniques he was learning from his master of martial arts?,True,1_RC_ambig_2
+255,255,He has practiced the techniques he was studying on YouTube.,Has he practiced the techniques he was studying on YouTube?,True,1_RC_ambig_2
+256,256,He has practiced the techniques he was learning from his master of martial arts.,Has he practiced the techniques he was learning from his master of martial arts?,True,1_RC_ambig_2
+257,257,He has mastered the techniques he was learning from Sensei John.,Has he mastered the techniques he was learning from Sensei John?,True,1_RC_ambig_2
+258,258,He has honed the moves he was studying from Sensei John.,Has he honed the moves he was studying from Sensei John?,True,1_RC_ambig_2
+259,259,He has practiced the moves he was learning from his master of martial arts.,Has he practiced the moves he was learning from his master of martial arts?,True,1_RC_ambig_2
+260,260,He has honed the positions he was studying from his master of martial arts.,Has he honed the positions he was studying from his master of martial arts?,True,1_RC_ambig_2
+261,261,He has practiced the positions he was studying from Sensei John.,Has he practiced the positions he was studying from Sensei John?,True,1_RC_ambig_2
+262,262,He has honed the moves he was studying on YouTube.,Has he honed the moves he was studying on YouTube?,True,1_RC_ambig_2
+263,263,He has honed the techniques he was studying from his master of martial arts.,Has he honed the techniques he was studying from his master of martial arts?,True,1_RC_ambig_2
+264,264,He has practiced the positions he was studying from his master of martial arts.,Has he practiced the positions he was studying from his master of martial arts?,True,1_RC_ambig_2
+265,265,He has mastered the techniques he was studying on YouTube.,Has he mastered the techniques he was studying on YouTube?,True,1_RC_ambig_2
+266,266,He has mastered the techniques he was learning on YouTube.,Has he mastered the techniques he was learning on YouTube?,True,1_RC_ambig_2
+267,267,He has mastered the moves he was learning from his master of martial arts.,Has he mastered the moves he was learning from his master of martial arts?,True,1_RC_ambig_2
+268,268,He has honed the techniques he was studying from Sensei John.,Has he honed the techniques he was studying from Sensei John?,True,1_RC_ambig_2
+269,269,He has practiced the moves he was studying on YouTube.,Has he practiced the moves he was studying on YouTube?,True,1_RC_ambig_2
+270,270,He has mastered the positions he was studying on YouTube.,Has he mastered the positions he was studying on YouTube?,True,1_RC_ambig_2
+271,271,He has honed the techniques he was learning on YouTube.,Has he honed the techniques he was learning on YouTube?,True,1_RC_ambig_2
+272,272,He has mastered the techniques he was learning from his master of martial arts.,Has he mastered the techniques he was learning from his master of martial arts?,True,1_RC_ambig_2
+273,273,He has mastered the positions he was learning from his master of martial arts.,Has he mastered the positions he was learning from his master of martial arts?,True,1_RC_ambig_2
+274,274,He has practiced the techniques he was studying from his master of martial arts.,Has he practiced the techniques he was studying from his master of martial arts?,True,1_RC_ambig_2
+275,275,He has mastered the positions he was studying from Sensei John.,Has he mastered the positions he was studying from Sensei John?,True,1_RC_ambig_2
+276,276,He has practiced the techniques he was studying from Sensei John.,Has he practiced the techniques he was studying from Sensei John?,True,1_RC_ambig_2
+277,277,He has practiced the moves he was learning from Sensei John.,Has he practiced the moves he was learning from Sensei John?,True,1_RC_ambig_2
+278,278,He has practiced the positions he was studying on YouTube.,Has he practiced the positions he was studying on YouTube?,True,1_RC_ambig_2
+279,279,He has honed the positions he was studying on YouTube.,Has he honed the positions he was studying on YouTube?,True,1_RC_ambig_2
+280,280,He has mastered the positions he was studying from his master of martial arts.,Has he mastered the positions he was studying from his master of martial arts?,True,1_RC_ambig_2
+281,281,He has honed the moves he was learning from Sensei John.,Has he honed the moves he was learning from Sensei John?,True,1_RC_ambig_2
+282,282,He has honed the positions he was learning from Sensei John.,Has he honed the positions he was learning from Sensei John?,True,1_RC_ambig_2
+283,283,He has honed the positions he was studying from Sensei John.,Has he honed the positions he was studying from Sensei John?,True,1_RC_ambig_2
+284,284,He has mastered the moves he was studying from Sensei John.,Has he mastered the moves he was studying from Sensei John?,True,1_RC_ambig_2
+285,285,He has practiced the positions he was learning from Sensei John.,Has he practiced the positions he was learning from Sensei John?,True,1_RC_ambig_2
+286,286,He has mastered the techniques he was studying from Sensei John.,Has he mastered the techniques he was studying from Sensei John?,True,1_RC_ambig_2
+287,287,He has honed the positions he was learning on YouTube.,Has he honed the positions he was learning on YouTube?,True,1_RC_ambig_2
+288,288,He has honed the positions he was learning from his master of martial arts.,Has he honed the positions he was learning from his master of martial arts?,True,1_RC_ambig_2
+289,289,He has honed the moves he was learning from his master of martial arts.,Has he honed the moves he was learning from his master of martial arts?,True,1_RC_ambig_2
+290,290,He has mastered the moves he was studying from his master of martial arts.,Has he mastered the moves he was studying from his master of martial arts?,True,1_RC_ambig_2
+291,291,He has honed the techniques he was learning from Sensei John.,Has he honed the techniques he was learning from Sensei John?,True,1_RC_ambig_2
+292,292,He has mastered the moves he was learning on YouTube.,Has he mastered the moves he was learning on YouTube?,True,1_RC_ambig_2
+293,293,He has mastered the moves he was studying on YouTube.,Has he mastered the moves he was studying on YouTube?,True,1_RC_ambig_2
+294,294,He has practiced the techniques he was learning on YouTube.,Has he practiced the techniques he was learning on YouTube?,True,1_RC_ambig_2
+295,295,He has practiced the positions he was learning from his master of martial arts.,Has he practiced the positions he was learning from his master of martial arts?,True,1_RC_ambig_2
+296,296,He has honed the techniques he was studying on YouTube.,Has he honed the techniques he was studying on YouTube?,True,1_RC_ambig_2
+297,297,He has mastered the positions he was learning on YouTube.,Has he mastered the positions he was learning on YouTube?,True,1_RC_ambig_2
+298,298,He has practiced the techniques he was learning from Sensei John.,Has he practiced the techniques he was learning from Sensei John?,True,1_RC_ambig_2
+299,299,He has honed the moves he was studying from his master of martial arts.,Has he honed the moves he was studying from his master of martial arts?,True,1_RC_ambig_2
+300,300,She has finished the program her team was writing for the website.,Has she finished the program her team was writing for the website?,True,1_RC_ambig_2
+301,301,She has tested the code her colleague was writing before the product launch.,Has she tested the code her colleague was writing before the product launch?,True,1_RC_ambig_2
+302,302,She has tested the program her team was writing for the website.,Has she tested the program her team was writing for the website?,True,1_RC_ambig_2
+303,303,She has tested the code her colleague was implementing for the website.,Has she tested the code her colleague was implementing for the website?,True,1_RC_ambig_2
+304,304,She has finished the algorithm her team was writing for the website.,Has she finished the algorithm her team was writing for the website?,True,1_RC_ambig_2
+305,305,She has tested the algorithm her colleague was implementing for the new feature.,Has she tested the algorithm her colleague was implementing for the new feature?,True,1_RC_ambig_2
+306,306,She has found a bug in the algorithm her colleague was writing for the new feature.,Has she found a bug in the algorithm her colleague was writing for the new feature?,True,1_RC_ambig_2
+307,307,She has found a bug in the code her team was writing before the product launch.,Has she found a bug in the code her team was writing before the product launch?,True,1_RC_ambig_2
+308,308,She has finished the code her team was implementing for the new feature.,Has she finished the code her team was implementing for the new feature?,True,1_RC_ambig_2
+309,309,She has found a bug in the code her team was implementing before the product launch.,Has she found a bug in the code her team was implementing before the product launch?,True,1_RC_ambig_2
+310,310,She has finished the code her team was implementing for the website.,Has she finished the code her team was implementing for the website?,True,1_RC_ambig_2
+311,311,She has found a bug in the program her team was implementing for the website.,Has she found a bug in the program her team was implementing for the website?,True,1_RC_ambig_2
+312,312,She has finished the program her team was writing before the product launch.,Has she finished the program her team was writing before the product launch?,True,1_RC_ambig_2
+313,313,She has tested the program her team was implementing before the product launch.,Has she tested the program her team was implementing before the product launch?,True,1_RC_ambig_2
+314,314,She has found a bug in the code her colleague was writing for the new feature.,Has she found a bug in the code her colleague was writing for the new feature?,True,1_RC_ambig_2
+315,315,She has tested the code her team was writing for the new feature.,Has she tested the code her team was writing for the new feature?,True,1_RC_ambig_2
+316,316,She has finished the algorithm her team was implementing for the website.,Has she finished the algorithm her team was implementing for the website?,True,1_RC_ambig_2
+317,317,She has finished the algorithm her colleague was writing for the website.,Has she finished the algorithm her colleague was writing for the website?,True,1_RC_ambig_2
+318,318,She has finished the code her colleague was implementing for the website.,Has she finished the code her colleague was implementing for the website?,True,1_RC_ambig_2
+319,319,She has finished the program her colleague was writing for the website.,Has she finished the program her colleague was writing for the website?,True,1_RC_ambig_2
+320,320,She has found a bug in the program her colleague was implementing for the website.,Has she found a bug in the program her colleague was implementing for the website?,True,1_RC_ambig_2
+321,321,She has finished the algorithm her team was implementing before the product launch.,Has she finished the algorithm her team was implementing before the product launch?,True,1_RC_ambig_2
+322,322,She has finished the algorithm her colleague was writing before the product launch.,Has she finished the algorithm her colleague was writing before the product launch?,True,1_RC_ambig_2
+323,323,She has found a bug in the program her colleague was writing before the product launch.,Has she found a bug in the program her colleague was writing before the product launch?,True,1_RC_ambig_2
+324,324,She has tested the algorithm her team was implementing before the product launch.,Has she tested the algorithm her team was implementing before the product launch?,True,1_RC_ambig_2
+325,325,She has tested the algorithm her team was writing before the product launch.,Has she tested the algorithm her team was writing before the product launch?,True,1_RC_ambig_2
+326,326,She has finished the algorithm her colleague was writing for the new feature.,Has she finished the algorithm her colleague was writing for the new feature?,True,1_RC_ambig_2
+327,327,She has finished the algorithm her team was writing before the product launch.,Has she finished the algorithm her team was writing before the product launch?,True,1_RC_ambig_2
+328,328,She has finished the program her team was implementing for the new feature.,Has she finished the program her team was implementing for the new feature?,True,1_RC_ambig_2
+329,329,She has found a bug in the program her colleague was implementing for the new feature.,Has she found a bug in the program her colleague was implementing for the new feature?,True,1_RC_ambig_2
+330,330,She has tested the code her team was implementing for the new feature.,Has she tested the code her team was implementing for the new feature?,True,1_RC_ambig_2
+331,331,She has found a bug in the algorithm her team was implementing for the website.,Has she found a bug in the algorithm her team was implementing for the website?,True,1_RC_ambig_2
+332,332,She has found a bug in the program her team was writing for the website.,Has she found a bug in the program her team was writing for the website?,True,1_RC_ambig_2
+333,333,She has finished the code her colleague was implementing before the product launch.,Has she finished the code her colleague was implementing before the product launch?,True,1_RC_ambig_2
+334,334,She has tested the code her team was implementing for the website.,Has she tested the code her team was implementing for the website?,True,1_RC_ambig_2
+335,335,She has tested the program her team was implementing for the new feature.,Has she tested the program her team was implementing for the new feature?,True,1_RC_ambig_2
+336,336,She has tested the program her colleague was writing before the product launch.,Has she tested the program her colleague was writing before the product launch?,True,1_RC_ambig_2
+337,337,She has found a bug in the code her team was implementing for the new feature.,Has she found a bug in the code her team was implementing for the new feature?,True,1_RC_ambig_2
+338,338,She has finished the code her colleague was implementing for the new feature.,Has she finished the code her colleague was implementing for the new feature?,True,1_RC_ambig_2
+339,339,She has tested the program her team was writing before the product launch.,Has she tested the program her team was writing before the product launch?,True,1_RC_ambig_2
+340,340,She has tested the code her team was implementing before the product launch.,Has she tested the code her team was implementing before the product launch?,True,1_RC_ambig_2
+341,341,She has tested the algorithm her colleague was writing for the new feature.,Has she tested the algorithm her colleague was writing for the new feature?,True,1_RC_ambig_2
+342,342,She has tested the code her colleague was writing for the new feature.,Has she tested the code her colleague was writing for the new feature?,True,1_RC_ambig_2
+343,343,She has tested the program her colleague was implementing for the website.,Has she tested the program her colleague was implementing for the website?,True,1_RC_ambig_2
+344,344,She has found a bug in the algorithm her team was writing for the website.,Has she found a bug in the algorithm her team was writing for the website?,True,1_RC_ambig_2
+345,345,She has tested the algorithm her colleague was writing before the product launch.,Has she tested the algorithm her colleague was writing before the product launch?,True,1_RC_ambig_2
+346,346,She has found a bug in the algorithm her colleague was implementing before the product launch.,Has she found a bug in the algorithm her colleague was implementing before the product launch?,True,1_RC_ambig_2
+347,347,She has tested the algorithm her team was implementing for the new feature.,Has she tested the algorithm her team was implementing for the new feature?,True,1_RC_ambig_2
+348,348,She has found a bug in the program her team was implementing before the product launch.,Has she found a bug in the program her team was implementing before the product launch?,True,1_RC_ambig_2
+349,349,She has tested the algorithm her colleague was implementing for the website.,Has she tested the algorithm her colleague was implementing for the website?,True,1_RC_ambig_2
+350,350,He has sold the information his boss was holding during the ongoing mission.,Has he sold the information his boss was holding during the ongoing mission?,True,1_RC_ambig_2
+351,351,He has sold the secrets the CIA was keeping for further investigation.,Has he sold the secrets the CIA was keeping for further investigation?,True,1_RC_ambig_2
+352,352,He has leaked the secrets his boss was keeping during the ongoing mission.,Has he leaked the secrets his boss was keeping during the ongoing mission?,True,1_RC_ambig_2
+353,353,He has leaked the information the Department of Defense was keeping for further investigation.,Has he leaked the information the Department of Defense was keeping for further investigation?,True,1_RC_ambig_2
+354,354,He has sold the classified files the CIA was keeping during the ongoing mission.,Has he sold the classified files the CIA was keeping during the ongoing mission?,True,1_RC_ambig_2
+355,355,He has sold the secrets his boss was keeping during the ongoing mission.,Has he sold the secrets his boss was keeping during the ongoing mission?,True,1_RC_ambig_2
+356,356,He has sold the information the CIA was holding during the ongoing mission.,Has he sold the information the CIA was holding during the ongoing mission?,True,1_RC_ambig_2
+357,357,He has sold the information his boss was keeping for further investigation.,Has he sold the information his boss was keeping for further investigation?,True,1_RC_ambig_2
+358,358,He has sold the secrets the CIA was keeping during the ongoing mission.,Has he sold the secrets the CIA was keeping during the ongoing mission?,True,1_RC_ambig_2
+359,359,He has leaked the information his boss was keeping during the ongoing mission.,Has he leaked the information his boss was keeping during the ongoing mission?,True,1_RC_ambig_2
+360,360,He has leaked the classified files the CIA was keeping for further investigation.,Has he leaked the classified files the CIA was keeping for further investigation?,True,1_RC_ambig_2
+361,361,He has leaked the information the Department of Defense was keeping during the ongoing mission.,Has he leaked the information the Department of Defense was keeping during the ongoing mission?,True,1_RC_ambig_2
+362,362,He has sold the secrets the Department of Defense was keeping for further investigation.,Has he sold the secrets the Department of Defense was keeping for further investigation?,True,1_RC_ambig_2
+363,363,He has leaked the information the Department of Defense was holding during the ongoing mission.,Has he leaked the information the Department of Defense was holding during the ongoing mission?,True,1_RC_ambig_2
+364,364,He has leaked the secrets the CIA was keeping during the ongoing mission.,Has he leaked the secrets the CIA was keeping during the ongoing mission?,True,1_RC_ambig_2
+365,365,He has sold the secrets the Department of Defense was keeping during the ongoing mission.,Has he sold the secrets the Department of Defense was keeping during the ongoing mission?,True,1_RC_ambig_2
+366,366,He has sold the secrets his boss was holding during the ongoing mission.,Has he sold the secrets his boss was holding during the ongoing mission?,True,1_RC_ambig_2
+367,367,He has sold the secrets his boss was holding for further investigation.,Has he sold the secrets his boss was holding for further investigation?,True,1_RC_ambig_2
+368,368,He has sold the classified files the Department of Defense was keeping during the ongoing mission.,Has he sold the classified files the Department of Defense was keeping during the ongoing mission?,True,1_RC_ambig_2
+369,369,He has leaked the secrets the Department of Defense was keeping for further investigation.,Has he leaked the secrets the Department of Defense was keeping for further investigation?,True,1_RC_ambig_2
+370,370,He has leaked the classified files his boss was holding during the ongoing mission.,Has he leaked the classified files his boss was holding during the ongoing mission?,True,1_RC_ambig_2
+371,371,He has sold the classified files the Department of Defense was holding during the ongoing mission.,Has he sold the classified files the Department of Defense was holding during the ongoing mission?,True,1_RC_ambig_2
+372,372,He has sold the classified files the CIA was holding during the ongoing mission.,Has he sold the classified files the CIA was holding during the ongoing mission?,True,1_RC_ambig_2
+373,373,He has sold the information the CIA was keeping for further investigation.,Has he sold the information the CIA was keeping for further investigation?,True,1_RC_ambig_2
+374,374,He has sold the classified files his boss was keeping for further investigation.,Has he sold the classified files his boss was keeping for further investigation?,True,1_RC_ambig_2
+375,375,He has leaked the classified files the CIA was holding during the ongoing mission.,Has he leaked the classified files the CIA was holding during the ongoing mission?,True,1_RC_ambig_2
+376,376,He has sold the information the Department of Defense was holding during the ongoing mission.,Has he sold the information the Department of Defense was holding during the ongoing mission?,True,1_RC_ambig_2
+377,377,He has leaked the information the CIA was keeping during the ongoing mission.,Has he leaked the information the CIA was keeping during the ongoing mission?,True,1_RC_ambig_2
+378,378,He has sold the information the Department of Defense was holding for further investigation.,Has he sold the information the Department of Defense was holding for further investigation?,True,1_RC_ambig_2
+379,379,He has leaked the information the CIA was holding for further investigation.,Has he leaked the information the CIA was holding for further investigation?,True,1_RC_ambig_2
+380,380,He has sold the information the CIA was holding for further investigation.,Has he sold the information the CIA was holding for further investigation?,True,1_RC_ambig_2
+381,381,He has leaked the secrets the Department of Defense was holding for further investigation.,Has he leaked the secrets the Department of Defense was holding for further investigation?,True,1_RC_ambig_2
+382,382,He has sold the classified files the CIA was keeping for further investigation.,Has he sold the classified files the CIA was keeping for further investigation?,True,1_RC_ambig_2
+383,383,He has leaked the information the Department of Defense was holding for further investigation.,Has he leaked the information the Department of Defense was holding for further investigation?,True,1_RC_ambig_2
+384,384,He has sold the classified files his boss was holding during the ongoing mission.,Has he sold the classified files his boss was holding during the ongoing mission?,True,1_RC_ambig_2
+385,385,He has sold the classified files the Department of Defense was holding for further investigation.,Has he sold the classified files the Department of Defense was holding for further investigation?,True,1_RC_ambig_2
+386,386,He has leaked the classified files his boss was keeping during the ongoing mission.,Has he leaked the classified files his boss was keeping during the ongoing mission?,True,1_RC_ambig_2
+387,387,He has leaked the information his boss was holding for further investigation.,Has he leaked the information his boss was holding for further investigation?,True,1_RC_ambig_2
+388,388,He has sold the classified files his boss was keeping during the ongoing mission.,Has he sold the classified files his boss was keeping during the ongoing mission?,True,1_RC_ambig_2
+389,389,He has leaked the classified files his boss was keeping for further investigation.,Has he leaked the classified files his boss was keeping for further investigation?,True,1_RC_ambig_2
+390,390,He has leaked the information his boss was holding during the ongoing mission.,Has he leaked the information his boss was holding during the ongoing mission?,True,1_RC_ambig_2
+391,391,He has leaked the secrets his boss was holding during the ongoing mission.,Has he leaked the secrets his boss was holding during the ongoing mission?,True,1_RC_ambig_2
+392,392,He has sold the information his boss was holding for further investigation.,Has he sold the information his boss was holding for further investigation?,True,1_RC_ambig_2
+393,393,He has leaked the secrets the Department of Defense was keeping during the ongoing mission.,Has he leaked the secrets the Department of Defense was keeping during the ongoing mission?,True,1_RC_ambig_2
+394,394,He has sold the information the CIA was keeping during the ongoing mission.,Has he sold the information the CIA was keeping during the ongoing mission?,True,1_RC_ambig_2
+395,395,He has leaked the secrets his boss was keeping for further investigation.,Has he leaked the secrets his boss was keeping for further investigation?,True,1_RC_ambig_2
+396,396,He has leaked the classified files his boss was holding for further investigation.,Has he leaked the classified files his boss was holding for further investigation?,True,1_RC_ambig_2
+397,397,He has leaked the secrets the CIA was holding during the ongoing mission.,Has he leaked the secrets the CIA was holding during the ongoing mission?,True,1_RC_ambig_2
+398,398,He has leaked the classified files the CIA was keeping during the ongoing mission.,Has he leaked the classified files the CIA was keeping during the ongoing mission?,True,1_RC_ambig_2
+399,399,He has leaked the classified files the Department of Defense was holding during the ongoing mission.,Has he leaked the classified files the Department of Defense was holding during the ongoing mission?,True,1_RC_ambig_2
+400,400,She has reported on the discussion the group of leaders was having regarding the new trade deal.,Has she reported on the discussion the group of leaders was having regarding the new trade deal?,True,1_RC_ambig_2
+401,401,He has reported on the dialogues the group of leaders was having regarding the new trade deal.,Has he reported on the dialogues the group of leaders was having regarding the new trade deal?,True,1_RC_ambig_2
+402,402,He has recorded the discussion the UN council was having regarding the new trade deal.,Has he recorded the discussion the UN council was having regarding the new trade deal?,True,1_RC_ambig_2
+403,403,He has recorded the discussion the UN council was having about environmental issues.,Has he recorded the discussion the UN council was having about environmental issues?,True,1_RC_ambig_2
+404,404,She has recorded the discussion the UN council was having regarding the new trade deal.,Has she recorded the discussion the UN council was having regarding the new trade deal?,True,1_RC_ambig_2
+405,405,She has reported on the discussion the UN council was having about environmental issues.,Has she reported on the discussion the UN council was having about environmental issues?,True,1_RC_ambig_2
+406,406,She has reported on the discussion the country's president was having about the refugee crisis.,Has she reported on the discussion the country's president was having about the refugee crisis?,True,1_RC_ambig_2
+407,407,He has recorded the dialogues the group of leaders was having regarding the new trade deal.,Has he recorded the dialogues the group of leaders was having regarding the new trade deal?,True,1_RC_ambig_2
+408,408,She has reported on the discussion the group of leaders was having about the refugee crisis.,Has she reported on the discussion the group of leaders was having about the refugee crisis?,True,1_RC_ambig_2
+409,409,She has reported on the discussion the UN council was having regarding the new trade deal.,Has she reported on the discussion the UN council was having regarding the new trade deal?,True,1_RC_ambig_2
+410,410,He has recorded the dialogues the country's president was having about the refugee crisis.,Has he recorded the dialogues the country's president was having about the refugee crisis?,True,1_RC_ambig_2
+411,411,He has reported on the dialogues the group of leaders was having about environmental issues.,Has he reported on the dialogues the group of leaders was having about environmental issues?,True,1_RC_ambig_2
+412,412,He has recorded the discussion the group of leaders was having regarding the new trade deal.,Has he recorded the discussion the group of leaders was having regarding the new trade deal?,True,1_RC_ambig_2
+413,413,She has reported on the dialogues the group of leaders was having about environmental issues.,Has she reported on the dialogues the group of leaders was having about environmental issues?,True,1_RC_ambig_2
+414,414,She has recorded the discussion the group of leaders was having about the refugee crisis.,Has she recorded the discussion the group of leaders was having about the refugee crisis?,True,1_RC_ambig_2
+415,415,He has recorded the dialogues the UN council was having about environmental issues.,Has he recorded the dialogues the UN council was having about environmental issues?,True,1_RC_ambig_2
+416,416,She has recorded the dialogues the UN council was having about environmental issues.,Has she recorded the dialogues the UN council was having about environmental issues?,True,1_RC_ambig_2
+417,417,He has reported on the dialogues the UN council was having regarding the new trade deal.,Has he reported on the dialogues the UN council was having regarding the new trade deal?,True,1_RC_ambig_2
+418,418,He has reported on the dialogues the UN council was having about environmental issues.,Has he reported on the dialogues the UN council was having about environmental issues?,True,1_RC_ambig_2
+419,419,He has reported on the discussion the country's president was having regarding the new trade deal.,Has he reported on the discussion the country's president was having regarding the new trade deal?,True,1_RC_ambig_2
+420,420,He has reported on the dialogues the country's president was having about environmental issues.,Has he reported on the dialogues the country's president was having about environmental issues?,True,1_RC_ambig_2
+421,421,She has reported on the discussion the country's president was having about environmental issues.,Has she reported on the discussion the country's president was having about environmental issues?,True,1_RC_ambig_2
+422,422,She has reported on the dialogues the UN council was having regarding the new trade deal.,Has she reported on the dialogues the UN council was having regarding the new trade deal?,True,1_RC_ambig_2
+423,423,She has recorded the dialogues the group of leaders was having about environmental issues.,Has she recorded the dialogues the group of leaders was having about environmental issues?,True,1_RC_ambig_2
+424,424,He has recorded the discussion the group of leaders was having about environmental issues.,Has he recorded the discussion the group of leaders was having about environmental issues?,True,1_RC_ambig_2
+425,425,He has recorded the discussion the country's president was having about environmental issues.,Has he recorded the discussion the country's president was having about environmental issues?,True,1_RC_ambig_2
+426,426,He has reported on the discussion the group of leaders was having regarding the new trade deal.,Has he reported on the discussion the group of leaders was having regarding the new trade deal?,True,1_RC_ambig_2
+427,427,He has reported on the discussion the country's president was having about the refugee crisis.,Has he reported on the discussion the country's president was having about the refugee crisis?,True,1_RC_ambig_2
+428,428,She has recorded the dialogues the UN council was having about the refugee crisis.,Has she recorded the dialogues the UN council was having about the refugee crisis?,True,1_RC_ambig_2
+429,429,He has recorded the dialogues the UN council was having about the refugee crisis.,Has he recorded the dialogues the UN council was having about the refugee crisis?,True,1_RC_ambig_2
+430,430,He has recorded the dialogues the country's president was having regarding the new trade deal.,Has he recorded the dialogues the country's president was having regarding the new trade deal?,True,1_RC_ambig_2
+431,431,He has reported on the discussion the group of leaders was having about the refugee crisis.,Has he reported on the discussion the group of leaders was having about the refugee crisis?,True,1_RC_ambig_2
+432,432,She has recorded the discussion the country's president was having about the refugee crisis.,Has she recorded the discussion the country's president was having about the refugee crisis?,True,1_RC_ambig_2
+433,433,She has recorded the dialogues the country's president was having regarding the new trade deal.,Has she recorded the dialogues the country's president was having regarding the new trade deal?,True,1_RC_ambig_2
+434,434,She has recorded the dialogues the country's president was having about environmental issues.,Has she recorded the dialogues the country's president was having about environmental issues?,True,1_RC_ambig_2
+435,435,She has reported on the discussion the group of leaders was having about environmental issues.,Has she reported on the discussion the group of leaders was having about environmental issues?,True,1_RC_ambig_2
+436,436,He has recorded the discussion the group of leaders was having about the refugee crisis.,Has he recorded the discussion the group of leaders was having about the refugee crisis?,True,1_RC_ambig_2
+437,437,She has recorded the discussion the group of leaders was having regarding the new trade deal.,Has she recorded the discussion the group of leaders was having regarding the new trade deal?,True,1_RC_ambig_2
+438,438,She has reported on the dialogues the group of leaders was having regarding the new trade deal.,Has she reported on the dialogues the group of leaders was having regarding the new trade deal?,True,1_RC_ambig_2
+439,439,He has reported on the discussion the UN council was having about environmental issues.,Has he reported on the discussion the UN council was having about environmental issues?,True,1_RC_ambig_2
+440,440,She has recorded the dialogues the UN council was having regarding the new trade deal.,Has she recorded the dialogues the UN council was having regarding the new trade deal?,True,1_RC_ambig_2
+441,441,She has reported on the dialogues the UN council was having about the refugee crisis.,Has she reported on the dialogues the UN council was having about the refugee crisis?,True,1_RC_ambig_2
+442,442,He has recorded the discussion the UN council was having about the refugee crisis.,Has he recorded the discussion the UN council was having about the refugee crisis?,True,1_RC_ambig_2
+443,443,He has recorded the discussion the country's president was having regarding the new trade deal.,Has he recorded the discussion the country's president was having regarding the new trade deal?,True,1_RC_ambig_2
+444,444,She has reported on the discussion the UN council was having about the refugee crisis.,Has she reported on the discussion the UN council was having about the refugee crisis?,True,1_RC_ambig_2
+445,445,He has recorded the dialogues the UN council was having regarding the new trade deal.,Has he recorded the dialogues the UN council was having regarding the new trade deal?,True,1_RC_ambig_2
+446,446,He has reported on the discussion the UN council was having about the refugee crisis.,Has he reported on the discussion the UN council was having about the refugee crisis?,True,1_RC_ambig_2
+447,447,He has reported on the dialogues the group of leaders was having about the refugee crisis.,Has he reported on the dialogues the group of leaders was having about the refugee crisis?,True,1_RC_ambig_2
+448,448,He has reported on the dialogues the UN council was having about the refugee crisis.,Has he reported on the dialogues the UN council was having about the refugee crisis?,True,1_RC_ambig_2
+449,449,He has recorded the discussion the country's president was having about the refugee crisis.,Has he recorded the discussion the country's president was having about the refugee crisis?,True,1_RC_ambig_2
+450,450,She has watched the tutorial the lead developer was presenting at the conference.,Has she watched the tutorial the lead developer was presenting at the conference?,True,1_RC_ambig_2
+451,451,She has walked through the tutorial the man was giving at the technology summit.,Has she walked through the tutorial the man was giving at the technology summit?,True,1_RC_ambig_2
+452,452,He has walked through the tutorial the man was giving at the technology summit.,Has he walked through the tutorial the man was giving at the technology summit?,True,1_RC_ambig_2
+453,453,He has walked through the introductory lesson the lead developer was presenting at the technology summit.,Has he walked through the introductory lesson the lead developer was presenting at the technology summit?,True,1_RC_ambig_2
+454,454,She has watched the tutorial the man was giving at this year's AAAI.,Has she watched the tutorial the man was giving at this year's AAAI?,True,1_RC_ambig_2
+455,455,He has walked through the tutorial the keynote speaker was giving at the technology summit.,Has he walked through the tutorial the keynote speaker was giving at the technology summit?,True,1_RC_ambig_2
+456,456,He has walked through the demo the man was presenting at the conference.,Has he walked through the demo the man was presenting at the conference?,True,1_RC_ambig_2
+457,457,He has watched the demo the man was giving at this year's AAAI.,Has he watched the demo the man was giving at this year's AAAI?,True,1_RC_ambig_2
+458,458,She has walked through the demo the lead developer was giving at the conference.,Has she walked through the demo the lead developer was giving at the conference?,True,1_RC_ambig_2
+459,459,She has walked through the tutorial the keynote speaker was presenting at the technology summit.,Has she walked through the tutorial the keynote speaker was presenting at the technology summit?,True,1_RC_ambig_2
+460,460,He has watched the tutorial the keynote speaker was giving at this year's AAAI.,Has he watched the tutorial the keynote speaker was giving at this year's AAAI?,True,1_RC_ambig_2
+461,461,She has walked through the demo the man was giving at this year's AAAI.,Has she walked through the demo the man was giving at this year's AAAI?,True,1_RC_ambig_2
+462,462,He has watched the demo the man was presenting at this year's AAAI.,Has he watched the demo the man was presenting at this year's AAAI?,True,1_RC_ambig_2
+463,463,She has watched the demo the man was giving at the conference.,Has she watched the demo the man was giving at the conference?,True,1_RC_ambig_2
+464,464,He has walked through the demo the keynote speaker was giving at the technology summit.,Has he walked through the demo the keynote speaker was giving at the technology summit?,True,1_RC_ambig_2
+465,465,She has walked through the demo the lead developer was presenting at this year's AAAI.,Has she walked through the demo the lead developer was presenting at this year's AAAI?,True,1_RC_ambig_2
+466,466,She has walked through the introductory lesson the lead developer was presenting at this year's AAAI.,Has she walked through the introductory lesson the lead developer was presenting at this year's AAAI?,True,1_RC_ambig_2
+467,467,He has walked through the tutorial the man was giving at this year's AAAI.,Has he walked through the tutorial the man was giving at this year's AAAI?,True,1_RC_ambig_2
+468,468,She has watched the tutorial the keynote speaker was presenting at this year's AAAI.,Has she watched the tutorial the keynote speaker was presenting at this year's AAAI?,True,1_RC_ambig_2
+469,469,He has watched the demo the lead developer was giving at the conference.,Has he watched the demo the lead developer was giving at the conference?,True,1_RC_ambig_2
+470,470,He has walked through the introductory lesson the lead developer was presenting at this year's AAAI.,Has he walked through the introductory lesson the lead developer was presenting at this year's AAAI?,True,1_RC_ambig_2
+471,471,She has watched the introductory lesson the lead developer was presenting at this year's AAAI.,Has she watched the introductory lesson the lead developer was presenting at this year's AAAI?,True,1_RC_ambig_2
+472,472,She has watched the demo the man was presenting at the conference.,Has she watched the demo the man was presenting at the conference?,True,1_RC_ambig_2
+473,473,She has walked through the introductory lesson the lead developer was giving at the technology summit.,Has she walked through the introductory lesson the lead developer was giving at the technology summit?,True,1_RC_ambig_2
+474,474,She has walked through the tutorial the man was giving at this year's AAAI.,Has she walked through the tutorial the man was giving at this year's AAAI?,True,1_RC_ambig_2
+475,475,She has walked through the demo the keynote speaker was presenting at this year's AAAI.,Has she walked through the demo the keynote speaker was presenting at this year's AAAI?,True,1_RC_ambig_2
+476,476,She has walked through the demo the man was presenting at the conference.,Has she walked through the demo the man was presenting at the conference?,True,1_RC_ambig_2
+477,477,She has walked through the demo the man was giving at the technology summit.,Has she walked through the demo the man was giving at the technology summit?,True,1_RC_ambig_2
+478,478,He has walked through the tutorial the man was presenting at this year's AAAI.,Has he walked through the tutorial the man was presenting at this year's AAAI?,True,1_RC_ambig_2
+479,479,He has walked through the introductory lesson the man was presenting at the technology summit.,Has he walked through the introductory lesson the man was presenting at the technology summit?,True,1_RC_ambig_2
+480,480,He has watched the demo the keynote speaker was giving at the technology summit.,Has he watched the demo the keynote speaker was giving at the technology summit?,True,1_RC_ambig_2
+481,481,She has watched the demo the man was presenting at this year's AAAI.,Has she watched the demo the man was presenting at this year's AAAI?,True,1_RC_ambig_2
+482,482,He has walked through the demo the man was presenting at the technology summit.,Has he walked through the demo the man was presenting at the technology summit?,True,1_RC_ambig_2
+483,483,He has watched the introductory lesson the lead developer was presenting at the technology summit.,Has he watched the introductory lesson the lead developer was presenting at the technology summit?,True,1_RC_ambig_2
+484,484,He has walked through the demo the man was presenting at this year's AAAI.,Has he walked through the demo the man was presenting at this year's AAAI?,True,1_RC_ambig_2
+485,485,She has watched the tutorial the keynote speaker was giving at the conference.,Has she watched the tutorial the keynote speaker was giving at the conference?,True,1_RC_ambig_2
+486,486,He has walked through the introductory lesson the man was presenting at this year's AAAI.,Has he walked through the introductory lesson the man was presenting at this year's AAAI?,True,1_RC_ambig_2
+487,487,He has watched the demo the keynote speaker was presenting at the technology summit.,Has he watched the demo the keynote speaker was presenting at the technology summit?,True,1_RC_ambig_2
+488,488,He has walked through the tutorial the keynote speaker was presenting at this year's AAAI.,Has he walked through the tutorial the keynote speaker was presenting at this year's AAAI?,True,1_RC_ambig_2
+489,489,She has walked through the demo the keynote speaker was giving at the conference.,Has she walked through the demo the keynote speaker was giving at the conference?,True,1_RC_ambig_2
+490,490,She has watched the introductory lesson the keynote speaker was presenting at this year's AAAI.,Has she watched the introductory lesson the keynote speaker was presenting at this year's AAAI?,True,1_RC_ambig_2
+491,491,She has watched the introductory lesson the man was giving at the technology summit.,Has she watched the introductory lesson the man was giving at the technology summit?,True,1_RC_ambig_2
+492,492,She has watched the demo the lead developer was presenting at the technology summit.,Has she watched the demo the lead developer was presenting at the technology summit?,True,1_RC_ambig_2
+493,493,He has watched the demo the man was presenting at the technology summit.,Has he watched the demo the man was presenting at the technology summit?,True,1_RC_ambig_2
+494,494,He has walked through the demo the man was giving at this year's AAAI.,Has he walked through the demo the man was giving at this year's AAAI?,True,1_RC_ambig_2
+495,495,She has watched the tutorial the man was giving at the conference.,Has she watched the tutorial the man was giving at the conference?,True,1_RC_ambig_2
+496,496,She has watched the introductory lesson the man was presenting at the technology summit.,Has she watched the introductory lesson the man was presenting at the technology summit?,True,1_RC_ambig_2
+497,497,She has watched the tutorial the keynote speaker was presenting at the technology summit.,Has she watched the tutorial the keynote speaker was presenting at the technology summit?,True,1_RC_ambig_2
+498,498,She has walked through the introductory lesson the keynote speaker was giving at the conference.,Has she walked through the introductory lesson the keynote speaker was giving at the conference?,True,1_RC_ambig_2
+499,499,She has watched the demo the man was presenting at the technology summit.,Has she watched the demo the man was presenting at the technology summit?,True,1_RC_ambig_2
+500,500,He has invested in the shares the bank was buying for a loss.,Has he invested in the shares the bank was buying for a loss?,True,1_RC_ambig_2
+501,501,He has sold the stock the trader was selling for a loss.,Has he sold the stock the trader was selling for a loss?,True,1_RC_ambig_2
+502,502,He has sold the shares the bank was selling at high price.,Has he sold the shares the bank was selling at high price?,True,1_RC_ambig_2
+503,503,She has bought the stock the firm was buying for a loss.,Has she bought the stock the firm was buying for a loss?,True,1_RC_ambig_2
+504,504,She has sold the stock the bank was buying for a loss.,Has she sold the stock the bank was buying for a loss?,True,1_RC_ambig_2
+505,505,She has bought the shares the bank was selling after the market crash.,Has she bought the shares the bank was selling after the market crash?,True,1_RC_ambig_2
+506,506,He has bought the shares the firm was buying after the market crash.,Has he bought the shares the firm was buying after the market crash?,True,1_RC_ambig_2
+507,507,He has invested in the stock the trader was buying after the market crash.,Has he invested in the stock the trader was buying after the market crash?,True,1_RC_ambig_2
+508,508,She has bought the shares the trader was selling for a loss.,Has she bought the shares the trader was selling for a loss?,True,1_RC_ambig_2
+509,509,He has invested in the shares the firm was buying after the market crash.,Has he invested in the shares the firm was buying after the market crash?,True,1_RC_ambig_2
+510,510,He has invested in the shares the bank was buying at high price.,Has he invested in the shares the bank was buying at high price?,True,1_RC_ambig_2
+511,511,She has invested in the shares the company was selling after the market crash.,Has she invested in the shares the company was selling after the market crash?,True,1_RC_ambig_2
+512,512,She has sold the stock the firm was buying for a loss.,Has she sold the stock the firm was buying for a loss?,True,1_RC_ambig_2
+513,513,She has sold the shares the trader was selling at high price.,Has she sold the shares the trader was selling at high price?,True,1_RC_ambig_2
+514,514,He has sold the shares the trader was buying after the market crash.,Has he sold the shares the trader was buying after the market crash?,True,1_RC_ambig_2
+515,515,He has invested in the shares the bank was selling after the market crash.,Has he invested in the shares the bank was selling after the market crash?,True,1_RC_ambig_2
+516,516,She has invested in the shares the company was buying for a loss.,Has she invested in the shares the company was buying for a loss?,True,1_RC_ambig_2
+517,517,He has bought the shares the company was selling for a loss.,Has he bought the shares the company was selling for a loss?,True,1_RC_ambig_2
+518,518,He has invested in the stock the bank was buying after the market crash.,Has he invested in the stock the bank was buying after the market crash?,True,1_RC_ambig_2
+519,519,She has sold the shares the firm was selling at high price.,Has she sold the shares the firm was selling at high price?,True,1_RC_ambig_2
+520,520,He has bought the shares the bank was selling after the market crash.,Has he bought the shares the bank was selling after the market crash?,True,1_RC_ambig_2
+521,521,She has sold the shares the bank was selling for a loss.,Has she sold the shares the bank was selling for a loss?,True,1_RC_ambig_2
+522,522,He has invested in the shares the firm was selling after the market crash.,Has he invested in the shares the firm was selling after the market crash?,True,1_RC_ambig_2
+523,523,He has bought the stock the trader was selling at high price.,Has he bought the stock the trader was selling at high price?,True,1_RC_ambig_2
+524,524,He has bought the stock the bank was selling after the market crash.,Has he bought the stock the bank was selling after the market crash?,True,1_RC_ambig_2
+525,525,He has invested in the stock the firm was selling after the market crash.,Has he invested in the stock the firm was selling after the market crash?,True,1_RC_ambig_2
+526,526,He has bought the stock the trader was buying for a loss.,Has he bought the stock the trader was buying for a loss?,True,1_RC_ambig_2
+527,527,She has sold the shares the bank was buying for a loss.,Has she sold the shares the bank was buying for a loss?,True,1_RC_ambig_2
+528,528,He has sold the stock the bank was buying for a loss.,Has he sold the stock the bank was buying for a loss?,True,1_RC_ambig_2
+529,529,He has invested in the shares the bank was buying after the market crash.,Has he invested in the shares the bank was buying after the market crash?,True,1_RC_ambig_2
+530,530,He has bought the shares the trader was selling at high price.,Has he bought the shares the trader was selling at high price?,True,1_RC_ambig_2
+531,531,He has sold the shares the bank was selling after the market crash.,Has he sold the shares the bank was selling after the market crash?,True,1_RC_ambig_2
+532,532,She has sold the stock the trader was selling at high price.,Has she sold the stock the trader was selling at high price?,True,1_RC_ambig_2
+533,533,She has bought the stock the bank was buying at high price.,Has she bought the stock the bank was buying at high price?,True,1_RC_ambig_2
+534,534,He has sold the stock the firm was buying at high price.,Has he sold the stock the firm was buying at high price?,True,1_RC_ambig_2
+535,535,He has invested in the shares the company was buying for a loss.,Has he invested in the shares the company was buying for a loss?,True,1_RC_ambig_2
+536,536,He has bought the stock the trader was selling for a loss.,Has he bought the stock the trader was selling for a loss?,True,1_RC_ambig_2
+537,537,He has sold the shares the company was selling after the market crash.,Has he sold the shares the company was selling after the market crash?,True,1_RC_ambig_2
+538,538,He has bought the stock the firm was selling after the market crash.,Has he bought the stock the firm was selling after the market crash?,True,1_RC_ambig_2
+539,539,She has bought the stock the firm was selling after the market crash.,Has she bought the stock the firm was selling after the market crash?,True,1_RC_ambig_2
+540,540,She has sold the shares the firm was selling for a loss.,Has she sold the shares the firm was selling for a loss?,True,1_RC_ambig_2
+541,541,He has sold the stock the company was buying after the market crash.,Has he sold the stock the company was buying after the market crash?,True,1_RC_ambig_2
+542,542,He has bought the shares the bank was selling for a loss.,Has he bought the shares the bank was selling for a loss?,True,1_RC_ambig_2
+543,543,He has invested in the stock the bank was selling at high price.,Has he invested in the stock the bank was selling at high price?,True,1_RC_ambig_2
+544,544,He has bought the stock the firm was selling at high price.,Has he bought the stock the firm was selling at high price?,True,1_RC_ambig_2
+545,545,He has bought the shares the company was buying at high price.,Has he bought the shares the company was buying at high price?,True,1_RC_ambig_2
+546,546,He has bought the shares the company was selling at high price.,Has he bought the shares the company was selling at high price?,True,1_RC_ambig_2
+547,547,She has sold the stock the bank was selling after the market crash.,Has she sold the stock the bank was selling after the market crash?,True,1_RC_ambig_2
+548,548,She has sold the shares the trader was buying for a loss.,Has she sold the shares the trader was buying for a loss?,True,1_RC_ambig_2
+549,549,She has sold the stock the trader was selling after the market crash.,Has she sold the stock the trader was selling after the market crash?,True,1_RC_ambig_2
+550,550,He has troubleshot the rover the European Space Agency was launching to Mars.,Has he troubleshot the rover the European Space Agency was launching to Mars?,True,1_RC_ambig_2
+551,551,She has repaired the rover the European Space Agency was launching to Mars.,Has she repaired the rover the European Space Agency was launching to Mars?,True,1_RC_ambig_2
+552,552,He has tested the rover Russia was launching to the moon.,Has he tested the rover Russia was launching to the moon?,True,1_RC_ambig_2
+553,553,She has tested the rover Russia was sending to Venus.,Has she tested the rover Russia was sending to Venus?,True,1_RC_ambig_2
+554,554,He has troubleshot the rover the European Space Agency was sending to Mars.,Has he troubleshot the rover the European Space Agency was sending to Mars?,True,1_RC_ambig_2
+555,555,He has troubleshot the rover Russia was sending to Venus.,Has he troubleshot the rover Russia was sending to Venus?,True,1_RC_ambig_2
+556,556,He has repaired the rover the European Space Agency was sending to Venus.,Has he repaired the rover the European Space Agency was sending to Venus?,True,1_RC_ambig_2
+557,557,He has tested the rover the European Space Agency was launching to Mars.,Has he tested the rover the European Space Agency was launching to Mars?,True,1_RC_ambig_2
+558,558,She has repaired the rover the European Space Agency was sending to Venus.,Has she repaired the rover the European Space Agency was sending to Venus?,True,1_RC_ambig_2
+559,559,She has repaired the rover NASA was launching to Venus.,Has she repaired the rover NASA was launching to Venus?,True,1_RC_ambig_2
+560,560,He has repaired the rover Russia was launching to the moon.,Has he repaired the rover Russia was launching to the moon?,True,1_RC_ambig_2
+561,561,She has repaired the rover Russia was launching to Mars.,Has she repaired the rover Russia was launching to Mars?,True,1_RC_ambig_2
+562,562,She has repaired the rover the European Space Agency was launching to the moon.,Has she repaired the rover the European Space Agency was launching to the moon?,True,1_RC_ambig_2
+563,563,He has troubleshot the rover NASA was launching to the moon.,Has he troubleshot the rover NASA was launching to the moon?,True,1_RC_ambig_2
+564,564,He has troubleshot the rover NASA was sending to Venus.,Has he troubleshot the rover NASA was sending to Venus?,True,1_RC_ambig_2
+565,565,She has tested the rover the European Space Agency was sending to Mars.,Has she tested the rover the European Space Agency was sending to Mars?,True,1_RC_ambig_2
+566,566,She has tested the rover the European Space Agency was launching to Mars.,Has she tested the rover the European Space Agency was launching to Mars?,True,1_RC_ambig_2
+567,567,He has repaired the rover the European Space Agency was launching to the moon.,Has he repaired the rover the European Space Agency was launching to the moon?,True,1_RC_ambig_2
+568,568,She has tested the rover NASA was launching to the moon.,Has she tested the rover NASA was launching to the moon?,True,1_RC_ambig_2
+569,569,She has tested the rover the European Space Agency was launching to the moon.,Has she tested the rover the European Space Agency was launching to the moon?,True,1_RC_ambig_2
+570,570,She has tested the rover NASA was launching to Venus.,Has she tested the rover NASA was launching to Venus?,True,1_RC_ambig_2
+571,571,He has repaired the rover NASA was sending to Venus.,Has he repaired the rover NASA was sending to Venus?,True,1_RC_ambig_2
+572,572,He has troubleshot the rover NASA was launching to Mars.,Has he troubleshot the rover NASA was launching to Mars?,True,1_RC_ambig_2
+573,573,He has repaired the rover Russia was launching to Venus.,Has he repaired the rover Russia was launching to Venus?,True,1_RC_ambig_2
+574,574,He has repaired the rover NASA was sending to the moon.,Has he repaired the rover NASA was sending to the moon?,True,1_RC_ambig_2
+575,575,She has repaired the rover the European Space Agency was sending to Mars.,Has she repaired the rover the European Space Agency was sending to Mars?,True,1_RC_ambig_2
+576,576,She has repaired the rover Russia was launching to the moon.,Has she repaired the rover Russia was launching to the moon?,True,1_RC_ambig_2
+577,577,He has repaired the rover the European Space Agency was sending to the moon.,Has he repaired the rover the European Space Agency was sending to the moon?,True,1_RC_ambig_2
+578,578,He has repaired the rover NASA was launching to the moon.,Has he repaired the rover NASA was launching to the moon?,True,1_RC_ambig_2
+579,579,She has troubleshot the rover NASA was launching to the moon.,Has she troubleshot the rover NASA was launching to the moon?,True,1_RC_ambig_2
+580,580,He has repaired the rover the European Space Agency was launching to Venus.,Has he repaired the rover the European Space Agency was launching to Venus?,True,1_RC_ambig_2
+581,581,She has tested the rover NASA was sending to Mars.,Has she tested the rover NASA was sending to Mars?,True,1_RC_ambig_2
+582,582,He has tested the rover Russia was sending to Venus.,Has he tested the rover Russia was sending to Venus?,True,1_RC_ambig_2
+583,583,She has repaired the rover NASA was sending to Venus.,Has she repaired the rover NASA was sending to Venus?,True,1_RC_ambig_2
+584,584,She has troubleshot the rover NASA was launching to Mars.,Has she troubleshot the rover NASA was launching to Mars?,True,1_RC_ambig_2
+585,585,He has troubleshot the rover Russia was launching to Mars.,Has he troubleshot the rover Russia was launching to Mars?,True,1_RC_ambig_2
+586,586,She has tested the rover NASA was sending to the moon.,Has she tested the rover NASA was sending to the moon?,True,1_RC_ambig_2
+587,587,He has troubleshot the rover the European Space Agency was launching to Venus.,Has he troubleshot the rover the European Space Agency was launching to Venus?,True,1_RC_ambig_2
+588,588,She has troubleshot the rover NASA was launching to Venus.,Has she troubleshot the rover NASA was launching to Venus?,True,1_RC_ambig_2
+589,589,He has troubleshot the rover Russia was sending to Mars.,Has he troubleshot the rover Russia was sending to Mars?,True,1_RC_ambig_2
+590,590,She has troubleshot the rover the European Space Agency was launching to Venus.,Has she troubleshot the rover the European Space Agency was launching to Venus?,True,1_RC_ambig_2
+591,591,He has tested the rover Russia was launching to Mars.,Has he tested the rover Russia was launching to Mars?,True,1_RC_ambig_2
+592,592,He has tested the rover Russia was launching to Venus.,Has he tested the rover Russia was launching to Venus?,True,1_RC_ambig_2
+593,593,He has troubleshot the rover Russia was sending to the moon.,Has he troubleshot the rover Russia was sending to the moon?,True,1_RC_ambig_2
+594,594,He has troubleshot the rover NASA was sending to Mars.,Has he troubleshot the rover NASA was sending to Mars?,True,1_RC_ambig_2
+595,595,He has repaired the rover Russia was sending to the moon.,Has he repaired the rover Russia was sending to the moon?,True,1_RC_ambig_2
+596,596,She has tested the rover the European Space Agency was sending to Venus.,Has she tested the rover the European Space Agency was sending to Venus?,True,1_RC_ambig_2
+597,597,She has repaired the rover the European Space Agency was launching to Venus.,Has she repaired the rover the European Space Agency was launching to Venus?,True,1_RC_ambig_2
+598,598,He has repaired the rover Russia was sending to Venus.,Has he repaired the rover Russia was sending to Venus?,True,1_RC_ambig_2
+599,599,She has troubleshot the rover NASA was sending to the moon.,Has she troubleshot the rover NASA was sending to the moon?,True,1_RC_ambig_2
+600,600,She has given tacit approval to the unrest the right wing militia was plotting in the weeks before the inauguration.,Has she given tacit approval to the unrest the right wing militia was plotting in the weeks before the inauguration?,True,1_RC_ambig_2
+601,601,He has praised the unrest the right wing militia was plotting after the election.,Has he praised the unrest the right wing militia was plotting after the election?,True,1_RC_ambig_2
+602,602,She has condemned the violence the mob of insurrectionists was causing in the weeks before the inauguration.,Has she condemned the violence the mob of insurrectionists was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+603,603,She has praised the chaos the mob of insurrectionists was instigating in the weeks before the inauguration.,Has she praised the chaos the mob of insurrectionists was instigating in the weeks before the inauguration?,True,1_RC_ambig_2
+604,604,She has praised the chaos the right wing militia was plotting after the election.,Has she praised the chaos the right wing militia was plotting after the election?,True,1_RC_ambig_2
+605,605,She has condemned the unrest the mob of insurrectionists was instigating in the weeks before the inauguration.,Has she condemned the unrest the mob of insurrectionists was instigating in the weeks before the inauguration?,True,1_RC_ambig_2
+606,606,He has condemned the chaos the right wing militia was causing after the election.,Has he condemned the chaos the right wing militia was causing after the election?,True,1_RC_ambig_2
+607,607,He has praised the chaos the group of extremists was instigating in the weeks before the inauguration.,Has he praised the chaos the group of extremists was instigating in the weeks before the inauguration?,True,1_RC_ambig_2
+608,608,He has given tacit approval to the chaos the mob of insurrectionists was causing in the weeks before the inauguration.,Has he given tacit approval to the chaos the mob of insurrectionists was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+609,609,She has given tacit approval to the violence the right wing militia was plotting after the election.,Has she given tacit approval to the violence the right wing militia was plotting after the election?,True,1_RC_ambig_2
+610,610,He has condemned the chaos the group of extremists was plotting in the weeks before the inauguration.,Has he condemned the chaos the group of extremists was plotting in the weeks before the inauguration?,True,1_RC_ambig_2
+611,611,She has praised the unrest the right wing militia was causing in the weeks before the inauguration.,Has she praised the unrest the right wing militia was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+612,612,He has praised the chaos the right wing militia was plotting in the weeks before the inauguration.,Has he praised the chaos the right wing militia was plotting in the weeks before the inauguration?,True,1_RC_ambig_2
+613,613,She has given tacit approval to the unrest the group of extremists was causing after the election.,Has she given tacit approval to the unrest the group of extremists was causing after the election?,True,1_RC_ambig_2
+614,614,She has given tacit approval to the chaos the group of extremists was plotting after the election.,Has she given tacit approval to the chaos the group of extremists was plotting after the election?,True,1_RC_ambig_2
+615,615,He has condemned the chaos the mob of insurrectionists was plotting in the weeks before the inauguration.,Has he condemned the chaos the mob of insurrectionists was plotting in the weeks before the inauguration?,True,1_RC_ambig_2
+616,616,He has praised the violence the group of extremists was causing in the weeks before the inauguration.,Has he praised the violence the group of extremists was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+617,617,She has praised the unrest the right wing militia was plotting after the election.,Has she praised the unrest the right wing militia was plotting after the election?,True,1_RC_ambig_2
+618,618,She has praised the unrest the group of extremists was causing in the weeks before the inauguration.,Has she praised the unrest the group of extremists was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+619,619,He has given tacit approval to the violence the right wing militia was instigating after the election.,Has he given tacit approval to the violence the right wing militia was instigating after the election?,True,1_RC_ambig_2
+620,620,He has praised the unrest the group of extremists was plotting in the weeks before the inauguration.,Has he praised the unrest the group of extremists was plotting in the weeks before the inauguration?,True,1_RC_ambig_2
+621,621,He has praised the chaos the group of extremists was causing in the weeks before the inauguration.,Has he praised the chaos the group of extremists was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+622,622,She has condemned the violence the mob of insurrectionists was instigating after the election.,Has she condemned the violence the mob of insurrectionists was instigating after the election?,True,1_RC_ambig_2
+623,623,He has condemned the violence the mob of insurrectionists was plotting in the weeks before the inauguration.,Has he condemned the violence the mob of insurrectionists was plotting in the weeks before the inauguration?,True,1_RC_ambig_2
+624,624,She has given tacit approval to the unrest the group of extremists was causing in the weeks before the inauguration.,Has she given tacit approval to the unrest the group of extremists was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+625,625,He has praised the violence the group of extremists was instigating in the weeks before the inauguration.,Has he praised the violence the group of extremists was instigating in the weeks before the inauguration?,True,1_RC_ambig_2
+626,626,He has condemned the chaos the right wing militia was instigating after the election.,Has he condemned the chaos the right wing militia was instigating after the election?,True,1_RC_ambig_2
+627,627,She has given tacit approval to the violence the group of extremists was instigating in the weeks before the inauguration.,Has she given tacit approval to the violence the group of extremists was instigating in the weeks before the inauguration?,True,1_RC_ambig_2
+628,628,He has condemned the violence the right wing militia was instigating after the election.,Has he condemned the violence the right wing militia was instigating after the election?,True,1_RC_ambig_2
+629,629,He has praised the unrest the mob of insurrectionists was instigating after the election.,Has he praised the unrest the mob of insurrectionists was instigating after the election?,True,1_RC_ambig_2
+630,630,He has praised the unrest the right wing militia was causing in the weeks before the inauguration.,Has he praised the unrest the right wing militia was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+631,631,He has given tacit approval to the violence the group of extremists was causing in the weeks before the inauguration.,Has he given tacit approval to the violence the group of extremists was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+632,632,He has praised the violence the mob of insurrectionists was causing after the election.,Has he praised the violence the mob of insurrectionists was causing after the election?,True,1_RC_ambig_2
+633,633,She has given tacit approval to the unrest the mob of insurrectionists was causing after the election.,Has she given tacit approval to the unrest the mob of insurrectionists was causing after the election?,True,1_RC_ambig_2
+634,634,She has given tacit approval to the unrest the right wing militia was causing after the election.,Has she given tacit approval to the unrest the right wing militia was causing after the election?,True,1_RC_ambig_2
+635,635,She has given tacit approval to the chaos the group of extremists was plotting in the weeks before the inauguration.,Has she given tacit approval to the chaos the group of extremists was plotting in the weeks before the inauguration?,True,1_RC_ambig_2
+636,636,He has condemned the violence the right wing militia was causing in the weeks before the inauguration.,Has he condemned the violence the right wing militia was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+637,637,He has given tacit approval to the chaos the right wing militia was instigating in the weeks before the inauguration.,Has he given tacit approval to the chaos the right wing militia was instigating in the weeks before the inauguration?,True,1_RC_ambig_2
+638,638,He has given tacit approval to the chaos the right wing militia was instigating after the election.,Has he given tacit approval to the chaos the right wing militia was instigating after the election?,True,1_RC_ambig_2
+639,639,He has given tacit approval to the chaos the right wing militia was causing in the weeks before the inauguration.,Has he given tacit approval to the chaos the right wing militia was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+640,640,She has praised the chaos the group of extremists was causing after the election.,Has she praised the chaos the group of extremists was causing after the election?,True,1_RC_ambig_2
+641,641,He has condemned the violence the group of extremists was causing in the weeks before the inauguration.,Has he condemned the violence the group of extremists was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+642,642,She has condemned the chaos the right wing militia was instigating after the election.,Has she condemned the chaos the right wing militia was instigating after the election?,True,1_RC_ambig_2
+643,643,She has given tacit approval to the chaos the right wing militia was causing after the election.,Has she given tacit approval to the chaos the right wing militia was causing after the election?,True,1_RC_ambig_2
+644,644,She has condemned the chaos the group of extremists was causing in the weeks before the inauguration.,Has she condemned the chaos the group of extremists was causing in the weeks before the inauguration?,True,1_RC_ambig_2
+645,645,She has given tacit approval to the violence the right wing militia was plotting in the weeks before the inauguration.,Has she given tacit approval to the violence the right wing militia was plotting in the weeks before the inauguration?,True,1_RC_ambig_2
+646,646,He has praised the chaos the right wing militia was causing after the election.,Has he praised the chaos the right wing militia was causing after the election?,True,1_RC_ambig_2
+647,647,She has condemned the unrest the right wing militia was instigating in the weeks before the inauguration.,Has she condemned the unrest the right wing militia was instigating in the weeks before the inauguration?,True,1_RC_ambig_2
+648,648,He has condemned the unrest the group of extremists was plotting in the weeks before the inauguration.,Has he condemned the unrest the group of extremists was plotting in the weeks before the inauguration?,True,1_RC_ambig_2
+649,649,She has praised the violence the right wing militia was causing after the election.,Has she praised the violence the right wing militia was causing after the election?,True,1_RC_ambig_2
+650,650,She has earned the trophy every team was hoping for this season.,Has she earned the trophy every team was hoping for this season?,True,1_RC_ambig_2
+651,651,He has earned the trophy every team was coveting this year.,Has he earned the trophy every team was coveting this year?,True,1_RC_ambig_2
+652,652,She has won the trophy every team was coveting this season.,Has she won the trophy every team was coveting this season?,True,1_RC_ambig_2
+653,653,He has earned the title every competitor was hoping for this year.,Has he earned the title every competitor was hoping for this year?,True,1_RC_ambig_2
+654,654,She has earned the trophy every competitor was hoping for this year.,Has she earned the trophy every competitor was hoping for this year?,True,1_RC_ambig_2
+655,655,He has gotten the award every team was hoping for this year.,Has he gotten the award every team was hoping for this year?,True,1_RC_ambig_2
+656,656,He has gotten the title every team was coveting this season.,Has he gotten the title every team was coveting this season?,True,1_RC_ambig_2
+657,657,She has earned the title every team was coveting this season.,Has she earned the title every team was coveting this season?,True,1_RC_ambig_2
+658,658,She has earned the trophy every competitor was coveting this season.,Has she earned the trophy every competitor was coveting this season?,True,1_RC_ambig_2
+659,659,He has earned the trophy every competitor was hoping for this year.,Has he earned the trophy every competitor was hoping for this year?,True,1_RC_ambig_2
+660,660,She has earned the award every team was coveting this year.,Has she earned the award every team was coveting this year?,True,1_RC_ambig_2
+661,661,She has won the trophy every team was coveting this year.,Has she won the trophy every team was coveting this year?,True,1_RC_ambig_2
+662,662,She has won the trophy every team was hoping for this year.,Has she won the trophy every team was hoping for this year?,True,1_RC_ambig_2
+663,663,She has gotten the award every competitor was hoping for this season.,Has she gotten the award every competitor was hoping for this season?,True,1_RC_ambig_2
+664,664,He has won the title every competitor was hoping for this year.,Has he won the title every competitor was hoping for this year?,True,1_RC_ambig_2
+665,665,She has won the title every team was coveting this year.,Has she won the title every team was coveting this year?,True,1_RC_ambig_2
+666,666,She has won the title every team was hoping for this season.,Has she won the title every team was hoping for this season?,True,1_RC_ambig_2
+667,667,He has won the trophy every competitor was coveting this year.,Has he won the trophy every competitor was coveting this year?,True,1_RC_ambig_2
+668,668,He has won the award every team was coveting this season.,Has he won the award every team was coveting this season?,True,1_RC_ambig_2
+669,669,He has gotten the title every competitor was coveting this year.,Has he gotten the title every competitor was coveting this year?,True,1_RC_ambig_2
+670,670,She has gotten the award every team was hoping for this year.,Has she gotten the award every team was hoping for this year?,True,1_RC_ambig_2
+671,671,She has gotten the trophy every competitor was hoping for this season.,Has she gotten the trophy every competitor was hoping for this season?,True,1_RC_ambig_2
+672,672,He has earned the award every team was coveting this year.,Has he earned the award every team was coveting this year?,True,1_RC_ambig_2
+673,673,She has gotten the award every competitor was coveting this year.,Has she gotten the award every competitor was coveting this year?,True,1_RC_ambig_2
+674,674,He has won the trophy every team was coveting this year.,Has he won the trophy every team was coveting this year?,True,1_RC_ambig_2
+675,675,He has gotten the trophy every team was hoping for this year.,Has he gotten the trophy every team was hoping for this year?,True,1_RC_ambig_2
+676,676,He has earned the award every team was hoping for this year.,Has he earned the award every team was hoping for this year?,True,1_RC_ambig_2
+677,677,He has gotten the trophy every competitor was hoping for this year.,Has he gotten the trophy every competitor was hoping for this year?,True,1_RC_ambig_2
+678,678,She has gotten the title every team was hoping for this year.,Has she gotten the title every team was hoping for this year?,True,1_RC_ambig_2
+679,679,She has earned the award every competitor was coveting this season.,Has she earned the award every competitor was coveting this season?,True,1_RC_ambig_2
+680,680,He has gotten the award every competitor was coveting this year.,Has he gotten the award every competitor was coveting this year?,True,1_RC_ambig_2
+681,681,He has earned the award every competitor was coveting this year.,Has he earned the award every competitor was coveting this year?,True,1_RC_ambig_2
+682,682,She has won the title every competitor was coveting this season.,Has she won the title every competitor was coveting this season?,True,1_RC_ambig_2
+683,683,He has gotten the title every competitor was hoping for this season.,Has he gotten the title every competitor was hoping for this season?,True,1_RC_ambig_2
+684,684,She has earned the trophy every competitor was hoping for this season.,Has she earned the trophy every competitor was hoping for this season?,True,1_RC_ambig_2
+685,685,She has earned the title every competitor was coveting this year.,Has she earned the title every competitor was coveting this year?,True,1_RC_ambig_2
+686,686,She has gotten the title every competitor was coveting this season.,Has she gotten the title every competitor was coveting this season?,True,1_RC_ambig_2
+687,687,She has won the title every team was coveting this season.,Has she won the title every team was coveting this season?,True,1_RC_ambig_2
+688,688,She has won the award every competitor was coveting this year.,Has she won the award every competitor was coveting this year?,True,1_RC_ambig_2
+689,689,He has won the award every competitor was coveting this year.,Has he won the award every competitor was coveting this year?,True,1_RC_ambig_2
+690,690,He has gotten the trophy every team was hoping for this season.,Has he gotten the trophy every team was hoping for this season?,True,1_RC_ambig_2
+691,691,He has won the trophy every competitor was hoping for this season.,Has he won the trophy every competitor was hoping for this season?,True,1_RC_ambig_2
+692,692,She has won the title every competitor was hoping for this season.,Has she won the title every competitor was hoping for this season?,True,1_RC_ambig_2
+693,693,She has gotten the trophy every competitor was coveting this year.,Has she gotten the trophy every competitor was coveting this year?,True,1_RC_ambig_2
+694,694,She has earned the title every competitor was hoping for this season.,Has she earned the title every competitor was hoping for this season?,True,1_RC_ambig_2
+695,695,She has gotten the trophy every team was coveting this year.,Has she gotten the trophy every team was coveting this year?,True,1_RC_ambig_2
+696,696,She has gotten the award every team was coveting this year.,Has she gotten the award every team was coveting this year?,True,1_RC_ambig_2
+697,697,He has won the award every competitor was hoping for this season.,Has he won the award every competitor was hoping for this season?,True,1_RC_ambig_2
+698,698,She has gotten the award every team was hoping for this season.,Has she gotten the award every team was hoping for this season?,True,1_RC_ambig_2
+699,699,She has earned the title every team was hoping for this season.,Has she earned the title every team was hoping for this season?,True,1_RC_ambig_2
+700,700,He has declined to participate in the race the university was planning due to a family emergency.,Has he declined to participate in the race the university was planning due to a family emergency?,True,1_RC_ambig_2
+701,701,She has quit the race the university was holding due to medical conditions.,Has she quit the race the university was holding due to medical conditions?,True,1_RC_ambig_2
+702,702,He has dropped out of the tournament the city was holding in the summer.,Has he dropped out of the tournament the city was holding in the summer?,True,1_RC_ambig_2
+703,703,She has quit the race the summer camp was planning in the summer.,Has she quit the race the summer camp was planning in the summer?,True,1_RC_ambig_2
+704,704,He has declined to participate in the race the university was planning in the summer.,Has he declined to participate in the race the university was planning in the summer?,True,1_RC_ambig_2
+705,705,He has declined to participate in the tournament the city was planning due to a family emergency.,Has he declined to participate in the tournament the city was planning due to a family emergency?,True,1_RC_ambig_2
+706,706,She has declined to participate in the tournament the summer camp was holding due to a family emergency.,Has she declined to participate in the tournament the summer camp was holding due to a family emergency?,True,1_RC_ambig_2
+707,707,He has dropped out of the race the summer camp was hosting due to a family emergency.,Has he dropped out of the race the summer camp was hosting due to a family emergency?,True,1_RC_ambig_2
+708,708,He has dropped out of the game the city was planning in the summer.,Has he dropped out of the game the city was planning in the summer?,True,1_RC_ambig_2
+709,709,She has quit the tournament the university was holding due to a family emergency.,Has she quit the tournament the university was holding due to a family emergency?,True,1_RC_ambig_2
+710,710,She has declined to participate in the race the university was planning in the summer.,Has she declined to participate in the race the university was planning in the summer?,True,1_RC_ambig_2
+711,711,He has quit the race the city was holding due to medical conditions.,Has he quit the race the city was holding due to medical conditions?,True,1_RC_ambig_2
+712,712,He has declined to participate in the tournament the summer camp was holding in the summer.,Has he declined to participate in the tournament the summer camp was holding in the summer?,True,1_RC_ambig_2
+713,713,She has dropped out of the tournament the city was hosting in the summer.,Has she dropped out of the tournament the city was hosting in the summer?,True,1_RC_ambig_2
+714,714,She has quit the game the summer camp was planning due to medical conditions.,Has she quit the game the summer camp was planning due to medical conditions?,True,1_RC_ambig_2
+715,715,He has declined to participate in the tournament the city was planning due to medical conditions.,Has he declined to participate in the tournament the city was planning due to medical conditions?,True,1_RC_ambig_2
+716,716,She has quit the tournament the university was holding due to medical conditions.,Has she quit the tournament the university was holding due to medical conditions?,True,1_RC_ambig_2
+717,717,He has dropped out of the race the university was planning due to medical conditions.,Has he dropped out of the race the university was planning due to medical conditions?,True,1_RC_ambig_2
+718,718,He has dropped out of the tournament the city was hosting due to a family emergency.,Has he dropped out of the tournament the city was hosting due to a family emergency?,True,1_RC_ambig_2
+719,719,She has dropped out of the game the university was holding in the summer.,Has she dropped out of the game the university was holding in the summer?,True,1_RC_ambig_2
+720,720,He has quit the tournament the summer camp was hosting in the summer.,Has he quit the tournament the summer camp was hosting in the summer?,True,1_RC_ambig_2
+721,721,He has dropped out of the game the university was hosting due to a family emergency.,Has he dropped out of the game the university was hosting due to a family emergency?,True,1_RC_ambig_2
+722,722,She has declined to participate in the game the city was planning due to a family emergency.,Has she declined to participate in the game the city was planning due to a family emergency?,True,1_RC_ambig_2
+723,723,He has quit the race the university was planning in the summer.,Has he quit the race the university was planning in the summer?,True,1_RC_ambig_2
+724,724,He has dropped out of the tournament the summer camp was hosting due to a family emergency.,Has he dropped out of the tournament the summer camp was hosting due to a family emergency?,True,1_RC_ambig_2
+725,725,She has quit the game the university was holding due to a family emergency.,Has she quit the game the university was holding due to a family emergency?,True,1_RC_ambig_2
+726,726,He has quit the tournament the summer camp was hosting due to medical conditions.,Has he quit the tournament the summer camp was hosting due to medical conditions?,True,1_RC_ambig_2
+727,727,She has quit the game the city was holding due to medical conditions.,Has she quit the game the city was holding due to medical conditions?,True,1_RC_ambig_2
+728,728,He has dropped out of the game the summer camp was hosting in the summer.,Has he dropped out of the game the summer camp was hosting in the summer?,True,1_RC_ambig_2
+729,729,He has dropped out of the tournament the university was hosting due to medical conditions.,Has he dropped out of the tournament the university was hosting due to medical conditions?,True,1_RC_ambig_2
+730,730,He has quit the race the summer camp was hosting in the summer.,Has he quit the race the summer camp was hosting in the summer?,True,1_RC_ambig_2
+731,731,She has dropped out of the race the university was planning due to a family emergency.,Has she dropped out of the race the university was planning due to a family emergency?,True,1_RC_ambig_2
+732,732,She has dropped out of the game the summer camp was holding in the summer.,Has she dropped out of the game the summer camp was holding in the summer?,True,1_RC_ambig_2
+733,733,She has quit the game the university was hosting due to medical conditions.,Has she quit the game the university was hosting due to medical conditions?,True,1_RC_ambig_2
+734,734,He has dropped out of the game the university was planning due to a family emergency.,Has he dropped out of the game the university was planning due to a family emergency?,True,1_RC_ambig_2
+735,735,He has quit the race the summer camp was holding due to a family emergency.,Has he quit the race the summer camp was holding due to a family emergency?,True,1_RC_ambig_2
+736,736,She has quit the game the summer camp was holding in the summer.,Has she quit the game the summer camp was holding in the summer?,True,1_RC_ambig_2
+737,737,She has declined to participate in the race the summer camp was holding due to medical conditions.,Has she declined to participate in the race the summer camp was holding due to medical conditions?,True,1_RC_ambig_2
+738,738,She has declined to participate in the race the city was holding in the summer.,Has she declined to participate in the race the city was holding in the summer?,True,1_RC_ambig_2
+739,739,He has dropped out of the game the city was hosting due to medical conditions.,Has he dropped out of the game the city was hosting due to medical conditions?,True,1_RC_ambig_2
+740,740,She has quit the game the summer camp was holding due to medical conditions.,Has she quit the game the summer camp was holding due to medical conditions?,True,1_RC_ambig_2
+741,741,He has declined to participate in the game the city was planning due to medical conditions.,Has he declined to participate in the game the city was planning due to medical conditions?,True,1_RC_ambig_2
+742,742,She has declined to participate in the tournament the university was planning due to a family emergency.,Has she declined to participate in the tournament the university was planning due to a family emergency?,True,1_RC_ambig_2
+743,743,She has quit the race the summer camp was holding due to a family emergency.,Has she quit the race the summer camp was holding due to a family emergency?,True,1_RC_ambig_2
+744,744,She has dropped out of the race the summer camp was holding due to medical conditions.,Has she dropped out of the race the summer camp was holding due to medical conditions?,True,1_RC_ambig_2
+745,745,She has quit the game the city was planning due to a family emergency.,Has she quit the game the city was planning due to a family emergency?,True,1_RC_ambig_2
+746,746,He has dropped out of the race the summer camp was holding in the summer.,Has he dropped out of the race the summer camp was holding in the summer?,True,1_RC_ambig_2
+747,747,He has quit the game the summer camp was holding due to a family emergency.,Has he quit the game the summer camp was holding due to a family emergency?,True,1_RC_ambig_2
+748,748,She has declined to participate in the tournament the city was hosting due to a family emergency.,Has she declined to participate in the tournament the city was hosting due to a family emergency?,True,1_RC_ambig_2
+749,749,She has quit the tournament the university was planning due to a family emergency.,Has she quit the tournament the university was planning due to a family emergency?,True,1_RC_ambig_2
+750,750,She has opened the packet of chips my roommate was saving for lunch.,Has she opened the packet of chips my roommate was saving for lunch?,True,1_RC_ambig_2
+751,751,She has eaten the fruit cup my roommate was saving for lunch.,Has she eaten the fruit cup my roommate was saving for lunch?,True,1_RC_ambig_2
+752,752,She has dropped the packet of chips Sue was saving for lunch.,Has she dropped the packet of chips Sue was saving for lunch?,True,1_RC_ambig_2
+753,753,She has opened the can of sardines my roommate was planning to eat for lunch.,Has she opened the can of sardines my roommate was planning to eat for lunch?,True,1_RC_ambig_2
+754,754,She has opened the packet of chips Sue was saving for breakfast.,Has she opened the packet of chips Sue was saving for breakfast?,True,1_RC_ambig_2
+755,755,He has dropped the fruit cup my roommate was planning to eat for a rainy day.,Has he dropped the fruit cup my roommate was planning to eat for a rainy day?,True,1_RC_ambig_2
+756,756,He has dropped the packet of chips Sue was holding onto for a rainy day.,Has he dropped the packet of chips Sue was holding onto for a rainy day?,True,1_RC_ambig_2
+757,757,She has dropped the packet of chips Sue was saving for breakfast.,Has she dropped the packet of chips Sue was saving for breakfast?,True,1_RC_ambig_2
+758,758,She has eaten the packet of chips my roommate was planning to eat for breakfast.,Has she eaten the packet of chips my roommate was planning to eat for breakfast?,True,1_RC_ambig_2
+759,759,She has opened the can of sardines my roommate was saving for a rainy day.,Has she opened the can of sardines my roommate was saving for a rainy day?,True,1_RC_ambig_2
+760,760,He has opened the can of sardines my roommate was holding onto for breakfast.,Has he opened the can of sardines my roommate was holding onto for breakfast?,True,1_RC_ambig_2
+761,761,She has opened the fruit cup the secretary was saving for lunch.,Has she opened the fruit cup the secretary was saving for lunch?,True,1_RC_ambig_2
+762,762,She has opened the can of sardines my roommate was planning to eat for breakfast.,Has she opened the can of sardines my roommate was planning to eat for breakfast?,True,1_RC_ambig_2
+763,763,He has opened the can of sardines Sue was planning to eat for breakfast.,Has he opened the can of sardines Sue was planning to eat for breakfast?,True,1_RC_ambig_2
+764,764,He has dropped the can of sardines the secretary was saving for lunch.,Has he dropped the can of sardines the secretary was saving for lunch?,True,1_RC_ambig_2
+765,765,She has opened the can of sardines my roommate was holding onto for a rainy day.,Has she opened the can of sardines my roommate was holding onto for a rainy day?,True,1_RC_ambig_2
+766,766,She has dropped the packet of chips my roommate was planning to eat for breakfast.,Has she dropped the packet of chips my roommate was planning to eat for breakfast?,True,1_RC_ambig_2
+767,767,She has eaten the fruit cup my roommate was holding onto for a rainy day.,Has she eaten the fruit cup my roommate was holding onto for a rainy day?,True,1_RC_ambig_2
+768,768,She has eaten the can of sardines Sue was holding onto for lunch.,Has she eaten the can of sardines Sue was holding onto for lunch?,True,1_RC_ambig_2
+769,769,She has eaten the can of sardines my roommate was saving for lunch.,Has she eaten the can of sardines my roommate was saving for lunch?,True,1_RC_ambig_2
+770,770,He has eaten the can of sardines the secretary was planning to eat for lunch.,Has he eaten the can of sardines the secretary was planning to eat for lunch?,True,1_RC_ambig_2
+771,771,He has dropped the can of sardines my roommate was planning to eat for breakfast.,Has he dropped the can of sardines my roommate was planning to eat for breakfast?,True,1_RC_ambig_2
+772,772,He has opened the can of sardines my roommate was holding onto for lunch.,Has he opened the can of sardines my roommate was holding onto for lunch?,True,1_RC_ambig_2
+773,773,He has dropped the can of sardines my roommate was planning to eat for a rainy day.,Has he dropped the can of sardines my roommate was planning to eat for a rainy day?,True,1_RC_ambig_2
+774,774,She has opened the packet of chips my roommate was planning to eat for lunch.,Has she opened the packet of chips my roommate was planning to eat for lunch?,True,1_RC_ambig_2
+775,775,She has eaten the can of sardines Sue was holding onto for a rainy day.,Has she eaten the can of sardines Sue was holding onto for a rainy day?,True,1_RC_ambig_2
+776,776,She has opened the fruit cup my roommate was planning to eat for breakfast.,Has she opened the fruit cup my roommate was planning to eat for breakfast?,True,1_RC_ambig_2
+777,777,She has dropped the can of sardines the secretary was planning to eat for lunch.,Has she dropped the can of sardines the secretary was planning to eat for lunch?,True,1_RC_ambig_2
+778,778,He has dropped the packet of chips Sue was planning to eat for a rainy day.,Has he dropped the packet of chips Sue was planning to eat for a rainy day?,True,1_RC_ambig_2
+779,779,He has eaten the can of sardines my roommate was holding onto for breakfast.,Has he eaten the can of sardines my roommate was holding onto for breakfast?,True,1_RC_ambig_2
+780,780,He has dropped the fruit cup Sue was saving for lunch.,Has he dropped the fruit cup Sue was saving for lunch?,True,1_RC_ambig_2
+781,781,She has dropped the can of sardines the secretary was holding onto for a rainy day.,Has she dropped the can of sardines the secretary was holding onto for a rainy day?,True,1_RC_ambig_2
+782,782,She has eaten the packet of chips Sue was saving for a rainy day.,Has she eaten the packet of chips Sue was saving for a rainy day?,True,1_RC_ambig_2
+783,783,He has eaten the can of sardines my roommate was holding onto for lunch.,Has he eaten the can of sardines my roommate was holding onto for lunch?,True,1_RC_ambig_2
+784,784,He has dropped the can of sardines my roommate was saving for a rainy day.,Has he dropped the can of sardines my roommate was saving for a rainy day?,True,1_RC_ambig_2
+785,785,She has eaten the can of sardines Sue was holding onto for breakfast.,Has she eaten the can of sardines Sue was holding onto for breakfast?,True,1_RC_ambig_2
+786,786,She has dropped the packet of chips Sue was planning to eat for breakfast.,Has she dropped the packet of chips Sue was planning to eat for breakfast?,True,1_RC_ambig_2
+787,787,She has dropped the packet of chips my roommate was saving for breakfast.,Has she dropped the packet of chips my roommate was saving for breakfast?,True,1_RC_ambig_2
+788,788,He has opened the packet of chips my roommate was holding onto for lunch.,Has he opened the packet of chips my roommate was holding onto for lunch?,True,1_RC_ambig_2
+789,789,He has dropped the packet of chips the secretary was planning to eat for a rainy day.,Has he dropped the packet of chips the secretary was planning to eat for a rainy day?,True,1_RC_ambig_2
+790,790,She has dropped the fruit cup Sue was saving for a rainy day.,Has she dropped the fruit cup Sue was saving for a rainy day?,True,1_RC_ambig_2
+791,791,She has dropped the can of sardines my roommate was planning to eat for a rainy day.,Has she dropped the can of sardines my roommate was planning to eat for a rainy day?,True,1_RC_ambig_2
+792,792,She has dropped the packet of chips the secretary was holding onto for lunch.,Has she dropped the packet of chips the secretary was holding onto for lunch?,True,1_RC_ambig_2
+793,793,She has opened the packet of chips Sue was planning to eat for breakfast.,Has she opened the packet of chips Sue was planning to eat for breakfast?,True,1_RC_ambig_2
+794,794,He has eaten the fruit cup Sue was saving for lunch.,Has he eaten the fruit cup Sue was saving for lunch?,True,1_RC_ambig_2
+795,795,He has dropped the fruit cup the secretary was holding onto for lunch.,Has he dropped the fruit cup the secretary was holding onto for lunch?,True,1_RC_ambig_2
+796,796,He has opened the can of sardines my roommate was saving for breakfast.,Has he opened the can of sardines my roommate was saving for breakfast?,True,1_RC_ambig_2
+797,797,He has eaten the fruit cup my roommate was planning to eat for breakfast.,Has he eaten the fruit cup my roommate was planning to eat for breakfast?,True,1_RC_ambig_2
+798,798,She has opened the fruit cup the secretary was holding onto for a rainy day.,Has she opened the fruit cup the secretary was holding onto for a rainy day?,True,1_RC_ambig_2
+799,799,He has eaten the can of sardines Sue was saving for a rainy day.,Has he eaten the can of sardines Sue was saving for a rainy day?,True,1_RC_ambig_2
+800,800,She has lost the notoriety she was amassing due to fraudulent activities.,Has she lost the notoriety she was amassing due to fraudulent activities?,True,1_RC_ambig_2
+801,801,She has given up the fame she was gaining over the years.,Has she given up the fame she was gaining over the years?,True,1_RC_ambig_2
+802,802,She has lost the reputation she was amassing over the years.,Has she lost the reputation she was amassing over the years?,True,1_RC_ambig_2
+803,803,She has given up the fame she was gaining in recent months.,Has she given up the fame she was gaining in recent months?,True,1_RC_ambig_2
+804,804,She has lost the fame she was building over the years.,Has she lost the fame she was building over the years?,True,1_RC_ambig_2
+805,805,She has lost the reputation she was building in recent months.,Has she lost the reputation she was building in recent months?,True,1_RC_ambig_2
+806,806,She has given up the notoriety she was building due to fraudulent activities.,Has she given up the notoriety she was building due to fraudulent activities?,True,1_RC_ambig_2
+807,807,She has lost the notoriety she was building in recent months.,Has she lost the notoriety she was building in recent months?,True,1_RC_ambig_2
+808,808,She has lost the reputation she was amassing in recent months.,Has she lost the reputation she was amassing in recent months?,True,1_RC_ambig_2
+809,809,She has lost the fame she was amassing in recent months.,Has she lost the fame she was amassing in recent months?,True,1_RC_ambig_2
+810,810,She has lost the fame she was building due to fraudulent activities.,Has she lost the fame she was building due to fraudulent activities?,True,1_RC_ambig_2
+811,811,She has given up the fame she was building due to fraudulent activities.,Has she given up the fame she was building due to fraudulent activities?,True,1_RC_ambig_2
+812,812,She has given up the reputation she was gaining in recent months.,Has she given up the reputation she was gaining in recent months?,True,1_RC_ambig_2
+813,813,She has lost the notoriety she was amassing in recent months.,Has she lost the notoriety she was amassing in recent months?,True,1_RC_ambig_2
+814,814,She has lost the notoriety she was building over the years.,Has she lost the notoriety she was building over the years?,True,1_RC_ambig_2
+815,815,She has lost the fame she was gaining in recent months.,Has she lost the fame she was gaining in recent months?,True,1_RC_ambig_2
+816,816,She has lost the fame she was building in recent months.,Has she lost the fame she was building in recent months?,True,1_RC_ambig_2
+817,817,She has lost the reputation she was amassing due to fraudulent activities.,Has she lost the reputation she was amassing due to fraudulent activities?,True,1_RC_ambig_2
+818,818,She has given up the notoriety she was building over the years.,Has she given up the notoriety she was building over the years?,True,1_RC_ambig_2
+819,819,She has given up the reputation she was building due to fraudulent activities.,Has she given up the reputation she was building due to fraudulent activities?,True,1_RC_ambig_2
+820,820,She has given up the fame she was amassing due to fraudulent activities.,Has she given up the fame she was amassing due to fraudulent activities?,True,1_RC_ambig_2
+821,821,She has lost the reputation she was building over the years.,Has she lost the reputation she was building over the years?,True,1_RC_ambig_2
+822,822,She has given up the notoriety she was gaining in recent months.,Has she given up the notoriety she was gaining in recent months?,True,1_RC_ambig_2
+823,823,She has given up the reputation she was gaining over the years.,Has she given up the reputation she was gaining over the years?,True,1_RC_ambig_2
+824,824,She has given up the notoriety she was amassing in recent months.,Has she given up the notoriety she was amassing in recent months?,True,1_RC_ambig_2
+825,825,She has lost the reputation she was gaining over the years.,Has she lost the reputation she was gaining over the years?,True,1_RC_ambig_2
+826,826,She has given up the reputation she was building over the years.,Has she given up the reputation she was building over the years?,True,1_RC_ambig_2
+827,827,She has given up the reputation she was gaining due to fraudulent activities.,Has she given up the reputation she was gaining due to fraudulent activities?,True,1_RC_ambig_2
+828,828,She has given up the notoriety she was amassing due to fraudulent activities.,Has she given up the notoriety she was amassing due to fraudulent activities?,True,1_RC_ambig_2
+829,829,She has lost the fame she was gaining over the years.,Has she lost the fame she was gaining over the years?,True,1_RC_ambig_2
+830,830,She has lost the notoriety she was gaining in recent months.,Has she lost the notoriety she was gaining in recent months?,True,1_RC_ambig_2
+831,831,She has lost the reputation she was building due to fraudulent activities.,Has she lost the reputation she was building due to fraudulent activities?,True,1_RC_ambig_2
+832,832,She has lost the notoriety she was amassing over the years.,Has she lost the notoriety she was amassing over the years?,True,1_RC_ambig_2
+833,833,She has lost the fame she was amassing over the years.,Has she lost the fame she was amassing over the years?,True,1_RC_ambig_2
+834,834,She has lost the notoriety she was gaining over the years.,Has she lost the notoriety she was gaining over the years?,True,1_RC_ambig_2
+835,835,She has given up the notoriety she was gaining over the years.,Has she given up the notoriety she was gaining over the years?,True,1_RC_ambig_2
+836,836,She has lost the reputation she was gaining in recent months.,Has she lost the reputation she was gaining in recent months?,True,1_RC_ambig_2
+837,837,She has given up the reputation she was amassing over the years.,Has she given up the reputation she was amassing over the years?,True,1_RC_ambig_2
+838,838,She has lost the reputation she was gaining due to fraudulent activities.,Has she lost the reputation she was gaining due to fraudulent activities?,True,1_RC_ambig_2
+839,839,She has given up the fame she was amassing over the years.,Has she given up the fame she was amassing over the years?,True,1_RC_ambig_2
+840,840,She has given up the notoriety she was amassing over the years.,Has she given up the notoriety she was amassing over the years?,True,1_RC_ambig_2
+841,841,She has lost the notoriety she was building due to fraudulent activities.,Has she lost the notoriety she was building due to fraudulent activities?,True,1_RC_ambig_2
+842,842,She has given up the fame she was gaining due to fraudulent activities.,Has she given up the fame she was gaining due to fraudulent activities?,True,1_RC_ambig_2
+843,843,She has given up the reputation she was building in recent months.,Has she given up the reputation she was building in recent months?,True,1_RC_ambig_2
+844,844,She has given up the reputation she was amassing in recent months.,Has she given up the reputation she was amassing in recent months?,True,1_RC_ambig_2
+845,845,She has given up the notoriety she was building in recent months.,Has she given up the notoriety she was building in recent months?,True,1_RC_ambig_2
+846,846,She has given up the reputation she was amassing due to fraudulent activities.,Has she given up the reputation she was amassing due to fraudulent activities?,True,1_RC_ambig_2
+847,847,She has lost the fame she was amassing due to fraudulent activities.,Has she lost the fame she was amassing due to fraudulent activities?,True,1_RC_ambig_2
+848,848,She has lost the fame she was gaining due to fraudulent activities.,Has she lost the fame she was gaining due to fraudulent activities?,True,1_RC_ambig_2
+849,849,She has given up the fame she was building over the years.,Has she given up the fame she was building over the years?,True,1_RC_ambig_2
+850,850,He has been reading the manuscript his superior was working on for the last few months.,Has he been reading the manuscript his superior was working on for the last few months?,True,1_RC_ambig_2
+851,851,He has copied the manuscript his superior was working on for the last few months.,Has he copied the manuscript his superior was working on for the last few months?,True,1_RC_ambig_2
+852,852,He has sneaked a peek at the draft his superior was writing in secret.,Has he sneaked a peek at the draft his superior was writing in secret?,True,1_RC_ambig_2
+853,853,He has been reading the book his superior was writing surreptitiously.,Has he been reading the book his superior was writing surreptitiously?,True,1_RC_ambig_2
+854,854,He has sneaked a peek at the manuscript his opponent was writing in secret.,Has he sneaked a peek at the manuscript his opponent was writing in secret?,True,1_RC_ambig_2
+855,855,He has copied the book his opponent was writing for the last few months.,Has he copied the book his opponent was writing for the last few months?,True,1_RC_ambig_2
+856,856,He has sneaked a peek at the draft his opponent was writing surreptitiously.,Has he sneaked a peek at the draft his opponent was writing surreptitiously?,True,1_RC_ambig_2
+857,857,He has been reading the draft his opponent was writing surreptitiously.,Has he been reading the draft his opponent was writing surreptitiously?,True,1_RC_ambig_2
+858,858,He has been reading the book his opponent was writing in secret.,Has he been reading the book his opponent was writing in secret?,True,1_RC_ambig_2
+859,859,He has been reading the book his superior was working on in secret.,Has he been reading the book his superior was working on in secret?,True,1_RC_ambig_2
+860,860,He has been reading the manuscript his opponent was writing surreptitiously.,Has he been reading the manuscript his opponent was writing surreptitiously?,True,1_RC_ambig_2
+861,861,He has copied the manuscript his superior was working on in secret.,Has he copied the manuscript his superior was working on in secret?,True,1_RC_ambig_2
+862,862,He has been reading the book his opponent was working on for the last few months.,Has he been reading the book his opponent was working on for the last few months?,True,1_RC_ambig_2
+863,863,He has been reading the manuscript his opponent was working on surreptitiously.,Has he been reading the manuscript his opponent was working on surreptitiously?,True,1_RC_ambig_2
+864,864,He has been reading the draft his superior was writing in secret.,Has he been reading the draft his superior was writing in secret?,True,1_RC_ambig_2
+865,865,He has copied the draft his opponent was writing for the last few months.,Has he copied the draft his opponent was writing for the last few months?,True,1_RC_ambig_2
+866,866,He has been reading the manuscript his opponent was writing for the last few months.,Has he been reading the manuscript his opponent was writing for the last few months?,True,1_RC_ambig_2
+867,867,He has sneaked a peek at the manuscript his superior was working on for the last few months.,Has he sneaked a peek at the manuscript his superior was working on for the last few months?,True,1_RC_ambig_2
+868,868,He has copied the draft his superior was working on in secret.,Has he copied the draft his superior was working on in secret?,True,1_RC_ambig_2
+869,869,He has copied the book his opponent was working on for the last few months.,Has he copied the book his opponent was working on for the last few months?,True,1_RC_ambig_2
+870,870,He has sneaked a peek at the book his superior was working on surreptitiously.,Has he sneaked a peek at the book his superior was working on surreptitiously?,True,1_RC_ambig_2
+871,871,He has sneaked a peek at the manuscript his superior was writing in secret.,Has he sneaked a peek at the manuscript his superior was writing in secret?,True,1_RC_ambig_2
+872,872,He has been reading the draft his opponent was working on surreptitiously.,Has he been reading the draft his opponent was working on surreptitiously?,True,1_RC_ambig_2
+873,873,He has copied the manuscript his opponent was writing for the last few months.,Has he copied the manuscript his opponent was writing for the last few months?,True,1_RC_ambig_2
+874,874,He has sneaked a peek at the draft his opponent was writing in secret.,Has he sneaked a peek at the draft his opponent was writing in secret?,True,1_RC_ambig_2
+875,875,He has sneaked a peek at the draft his opponent was working on surreptitiously.,Has he sneaked a peek at the draft his opponent was working on surreptitiously?,True,1_RC_ambig_2
+876,876,He has copied the manuscript his opponent was working on for the last few months.,Has he copied the manuscript his opponent was working on for the last few months?,True,1_RC_ambig_2
+877,877,He has been reading the draft his superior was writing surreptitiously.,Has he been reading the draft his superior was writing surreptitiously?,True,1_RC_ambig_2
+878,878,He has been reading the draft his opponent was writing in secret.,Has he been reading the draft his opponent was writing in secret?,True,1_RC_ambig_2
+879,879,He has sneaked a peek at the book his opponent was working on in secret.,Has he sneaked a peek at the book his opponent was working on in secret?,True,1_RC_ambig_2
+880,880,He has copied the manuscript his superior was working on surreptitiously.,Has he copied the manuscript his superior was working on surreptitiously?,True,1_RC_ambig_2
+881,881,He has sneaked a peek at the draft his superior was writing for the last few months.,Has he sneaked a peek at the draft his superior was writing for the last few months?,True,1_RC_ambig_2
+882,882,He has been reading the draft his superior was working on for the last few months.,Has he been reading the draft his superior was working on for the last few months?,True,1_RC_ambig_2
+883,883,He has been reading the book his superior was writing for the last few months.,Has he been reading the book his superior was writing for the last few months?,True,1_RC_ambig_2
+884,884,He has been reading the manuscript his superior was working on surreptitiously.,Has he been reading the manuscript his superior was working on surreptitiously?,True,1_RC_ambig_2
+885,885,He has copied the manuscript his opponent was writing in secret.,Has he copied the manuscript his opponent was writing in secret?,True,1_RC_ambig_2
+886,886,He has been reading the book his opponent was writing surreptitiously.,Has he been reading the book his opponent was writing surreptitiously?,True,1_RC_ambig_2
+887,887,He has sneaked a peek at the book his opponent was working on surreptitiously.,Has he sneaked a peek at the book his opponent was working on surreptitiously?,True,1_RC_ambig_2
+888,888,He has sneaked a peek at the manuscript his superior was working on surreptitiously.,Has he sneaked a peek at the manuscript his superior was working on surreptitiously?,True,1_RC_ambig_2
+889,889,He has sneaked a peek at the draft his superior was writing surreptitiously.,Has he sneaked a peek at the draft his superior was writing surreptitiously?,True,1_RC_ambig_2
+890,890,He has been reading the book his superior was writing in secret.,Has he been reading the book his superior was writing in secret?,True,1_RC_ambig_2
+891,891,He has sneaked a peek at the draft his opponent was writing for the last few months.,Has he sneaked a peek at the draft his opponent was writing for the last few months?,True,1_RC_ambig_2
+892,892,He has sneaked a peek at the book his superior was writing surreptitiously.,Has he sneaked a peek at the book his superior was writing surreptitiously?,True,1_RC_ambig_2
+893,893,He has sneaked a peek at the book his opponent was writing surreptitiously.,Has he sneaked a peek at the book his opponent was writing surreptitiously?,True,1_RC_ambig_2
+894,894,He has sneaked a peek at the manuscript his superior was writing surreptitiously.,Has he sneaked a peek at the manuscript his superior was writing surreptitiously?,True,1_RC_ambig_2
+895,895,He has copied the manuscript his superior was writing surreptitiously.,Has he copied the manuscript his superior was writing surreptitiously?,True,1_RC_ambig_2
+896,896,He has copied the draft his opponent was working on for the last few months.,Has he copied the draft his opponent was working on for the last few months?,True,1_RC_ambig_2
+897,897,He has copied the manuscript his superior was writing in secret.,Has he copied the manuscript his superior was writing in secret?,True,1_RC_ambig_2
+898,898,He has been reading the manuscript his superior was working on in secret.,Has he been reading the manuscript his superior was working on in secret?,True,1_RC_ambig_2
+899,899,He has been reading the book his superior was working on for the last few months.,Has he been reading the book his superior was working on for the last few months?,True,1_RC_ambig_2
+900,900,He has deleted the article the lab was sending to the conference.,Has he deleted the article the lab was sending to the conference?,True,1_RC_ambig_2
+901,901,He has drafted the document the lab was submitting to the conference.,Has he drafted the document the lab was submitting to the conference?,True,1_RC_ambig_2
+902,902,He has edited the article the research group was submitting to the conference.,Has he edited the article the research group was submitting to the conference?,True,1_RC_ambig_2
+903,903,She has drafted the article the lab was submitting to the conference.,Has she drafted the article the lab was submitting to the conference?,True,1_RC_ambig_2
+904,904,She has deleted the paper the research group was submitting to the journal.,Has she deleted the paper the research group was submitting to the journal?,True,1_RC_ambig_2
+905,905,He has drafted the paper the lab was sending to the journal.,Has he drafted the paper the lab was sending to the journal?,True,1_RC_ambig_2
+906,906,He has drafted the paper the research group was sending to the journal.,Has he drafted the paper the research group was sending to the journal?,True,1_RC_ambig_2
+907,907,He has deleted the document the research group was sending to the journal.,Has he deleted the document the research group was sending to the journal?,True,1_RC_ambig_2
+908,908,She has edited the paper the research group was sending to the conference.,Has she edited the paper the research group was sending to the conference?,True,1_RC_ambig_2
+909,909,He has deleted the paper the research group was submitting to the conference.,Has he deleted the paper the research group was submitting to the conference?,True,1_RC_ambig_2
+910,910,He has drafted the article the scientist was submitting to the conference.,Has he drafted the article the scientist was submitting to the conference?,True,1_RC_ambig_2
+911,911,He has deleted the paper the scientist was submitting to the journal.,Has he deleted the paper the scientist was submitting to the journal?,True,1_RC_ambig_2
+912,912,He has drafted the paper the scientist was sending to the conference.,Has he drafted the paper the scientist was sending to the conference?,True,1_RC_ambig_2
+913,913,She has deleted the document the research group was sending to the journal.,Has she deleted the document the research group was sending to the journal?,True,1_RC_ambig_2
+914,914,She has deleted the document the scientist was submitting to the journal.,Has she deleted the document the scientist was submitting to the journal?,True,1_RC_ambig_2
+915,915,He has edited the article the lab was submitting to the journal.,Has he edited the article the lab was submitting to the journal?,True,1_RC_ambig_2
+916,916,He has edited the article the scientist was submitting to the journal.,Has he edited the article the scientist was submitting to the journal?,True,1_RC_ambig_2
+917,917,He has deleted the document the lab was sending to the journal.,Has he deleted the document the lab was sending to the journal?,True,1_RC_ambig_2
+918,918,She has edited the article the lab was submitting to the conference.,Has she edited the article the lab was submitting to the conference?,True,1_RC_ambig_2
+919,919,She has deleted the paper the lab was submitting to the journal.,Has she deleted the paper the lab was submitting to the journal?,True,1_RC_ambig_2
+920,920,He has deleted the article the lab was submitting to the journal.,Has he deleted the article the lab was submitting to the journal?,True,1_RC_ambig_2
+921,921,She has drafted the article the scientist was submitting to the journal.,Has she drafted the article the scientist was submitting to the journal?,True,1_RC_ambig_2
+922,922,She has drafted the paper the lab was sending to the journal.,Has she drafted the paper the lab was sending to the journal?,True,1_RC_ambig_2
+923,923,She has deleted the article the lab was submitting to the journal.,Has she deleted the article the lab was submitting to the journal?,True,1_RC_ambig_2
+924,924,She has drafted the paper the lab was sending to the conference.,Has she drafted the paper the lab was sending to the conference?,True,1_RC_ambig_2
+925,925,He has drafted the article the lab was sending to the journal.,Has he drafted the article the lab was sending to the journal?,True,1_RC_ambig_2
+926,926,He has edited the article the research group was submitting to the journal.,Has he edited the article the research group was submitting to the journal?,True,1_RC_ambig_2
+927,927,She has drafted the document the research group was submitting to the conference.,Has she drafted the document the research group was submitting to the conference?,True,1_RC_ambig_2
+928,928,She has deleted the document the lab was sending to the journal.,Has she deleted the document the lab was sending to the journal?,True,1_RC_ambig_2
+929,929,He has deleted the paper the lab was sending to the journal.,Has he deleted the paper the lab was sending to the journal?,True,1_RC_ambig_2
+930,930,She has edited the article the scientist was sending to the conference.,Has she edited the article the scientist was sending to the conference?,True,1_RC_ambig_2
+931,931,He has edited the paper the research group was submitting to the conference.,Has he edited the paper the research group was submitting to the conference?,True,1_RC_ambig_2
+932,932,She has edited the paper the lab was submitting to the journal.,Has she edited the paper the lab was submitting to the journal?,True,1_RC_ambig_2
+933,933,He has drafted the document the scientist was submitting to the journal.,Has he drafted the document the scientist was submitting to the journal?,True,1_RC_ambig_2
+934,934,He has deleted the paper the lab was sending to the conference.,Has he deleted the paper the lab was sending to the conference?,True,1_RC_ambig_2
+935,935,She has edited the paper the lab was sending to the journal.,Has she edited the paper the lab was sending to the journal?,True,1_RC_ambig_2
+936,936,She has drafted the article the research group was sending to the conference.,Has she drafted the article the research group was sending to the conference?,True,1_RC_ambig_2
+937,937,He has drafted the paper the lab was sending to the conference.,Has he drafted the paper the lab was sending to the conference?,True,1_RC_ambig_2
+938,938,She has drafted the article the research group was sending to the journal.,Has she drafted the article the research group was sending to the journal?,True,1_RC_ambig_2
+939,939,He has drafted the article the scientist was sending to the conference.,Has he drafted the article the scientist was sending to the conference?,True,1_RC_ambig_2
+940,940,She has edited the article the research group was sending to the conference.,Has she edited the article the research group was sending to the conference?,True,1_RC_ambig_2
+941,941,He has edited the document the scientist was sending to the conference.,Has he edited the document the scientist was sending to the conference?,True,1_RC_ambig_2
+942,942,She has edited the document the lab was submitting to the conference.,Has she edited the document the lab was submitting to the conference?,True,1_RC_ambig_2
+943,943,She has drafted the article the lab was sending to the journal.,Has she drafted the article the lab was sending to the journal?,True,1_RC_ambig_2
+944,944,She has deleted the paper the lab was submitting to the conference.,Has she deleted the paper the lab was submitting to the conference?,True,1_RC_ambig_2
+945,945,He has drafted the document the research group was submitting to the conference.,Has he drafted the document the research group was submitting to the conference?,True,1_RC_ambig_2
+946,946,He has drafted the document the lab was sending to the conference.,Has he drafted the document the lab was sending to the conference?,True,1_RC_ambig_2
+947,947,She has deleted the paper the scientist was submitting to the conference.,Has she deleted the paper the scientist was submitting to the conference?,True,1_RC_ambig_2
+948,948,He has edited the article the lab was submitting to the conference.,Has he edited the article the lab was submitting to the conference?,True,1_RC_ambig_2
+949,949,She has edited the article the scientist was submitting to the journal.,Has she edited the article the scientist was submitting to the journal?,True,1_RC_ambig_2
+950,950,She has learned the sonata the conductor was programming for the showcase.,Has she learned the sonata the conductor was programming for the showcase?,True,1_RC_ambig_2
+951,951,She has learned the concerto the director was adding to the program for the showcase.,Has she learned the concerto the director was adding to the program for the showcase?,True,1_RC_ambig_2
+952,952,He has learned the prelude the composer was adding to the program for the concert.,Has he learned the prelude the composer was adding to the program for the concert?,True,1_RC_ambig_2
+953,953,She has rehearsed the sonata the composer was adding to the program for the gala.,Has she rehearsed the sonata the composer was adding to the program for the gala?,True,1_RC_ambig_2
+954,954,He has learned the prelude the composer was programming for the showcase.,Has he learned the prelude the composer was programming for the showcase?,True,1_RC_ambig_2
+955,955,He has rehearsed the concerto the conductor was adding to the program for the gala.,Has he rehearsed the concerto the conductor was adding to the program for the gala?,True,1_RC_ambig_2
+956,956,He has rehearsed the concerto the composer was programming for the showcase.,Has he rehearsed the concerto the composer was programming for the showcase?,True,1_RC_ambig_2
+957,957,He has performed the prelude the composer was programming for the concert.,Has he performed the prelude the composer was programming for the concert?,True,1_RC_ambig_2
+958,958,She has rehearsed the concerto the conductor was adding to the program for the showcase.,Has she rehearsed the concerto the conductor was adding to the program for the showcase?,True,1_RC_ambig_2
+959,959,He has learned the prelude the director was programming for the showcase.,Has he learned the prelude the director was programming for the showcase?,True,1_RC_ambig_2
+960,960,He has rehearsed the prelude the composer was programming for the showcase.,Has he rehearsed the prelude the composer was programming for the showcase?,True,1_RC_ambig_2
+961,961,She has learned the sonata the conductor was adding to the program for the gala.,Has she learned the sonata the conductor was adding to the program for the gala?,True,1_RC_ambig_2
+962,962,He has learned the concerto the composer was adding to the program for the showcase.,Has he learned the concerto the composer was adding to the program for the showcase?,True,1_RC_ambig_2
+963,963,He has learned the concerto the composer was adding to the program for the concert.,Has he learned the concerto the composer was adding to the program for the concert?,True,1_RC_ambig_2
+964,964,He has performed the sonata the director was adding to the program for the concert.,Has he performed the sonata the director was adding to the program for the concert?,True,1_RC_ambig_2
+965,965,She has rehearsed the prelude the director was adding to the program for the showcase.,Has she rehearsed the prelude the director was adding to the program for the showcase?,True,1_RC_ambig_2
+966,966,She has performed the sonata the director was adding to the program for the gala.,Has she performed the sonata the director was adding to the program for the gala?,True,1_RC_ambig_2
+967,967,She has learned the prelude the conductor was programming for the showcase.,Has she learned the prelude the conductor was programming for the showcase?,True,1_RC_ambig_2
+968,968,She has performed the sonata the director was programming for the gala.,Has she performed the sonata the director was programming for the gala?,True,1_RC_ambig_2
+969,969,She has learned the prelude the director was adding to the program for the concert.,Has she learned the prelude the director was adding to the program for the concert?,True,1_RC_ambig_2
+970,970,She has performed the prelude the composer was programming for the showcase.,Has she performed the prelude the composer was programming for the showcase?,True,1_RC_ambig_2
+971,971,She has performed the concerto the conductor was programming for the concert.,Has she performed the concerto the conductor was programming for the concert?,True,1_RC_ambig_2
+972,972,He has performed the concerto the director was adding to the program for the showcase.,Has he performed the concerto the director was adding to the program for the showcase?,True,1_RC_ambig_2
+973,973,She has performed the concerto the conductor was programming for the gala.,Has she performed the concerto the conductor was programming for the gala?,True,1_RC_ambig_2
+974,974,She has learned the prelude the composer was programming for the showcase.,Has she learned the prelude the composer was programming for the showcase?,True,1_RC_ambig_2
+975,975,He has rehearsed the concerto the director was adding to the program for the showcase.,Has he rehearsed the concerto the director was adding to the program for the showcase?,True,1_RC_ambig_2
+976,976,He has learned the sonata the conductor was programming for the concert.,Has he learned the sonata the conductor was programming for the concert?,True,1_RC_ambig_2
+977,977,She has learned the concerto the director was adding to the program for the gala.,Has she learned the concerto the director was adding to the program for the gala?,True,1_RC_ambig_2
+978,978,She has learned the concerto the composer was adding to the program for the concert.,Has she learned the concerto the composer was adding to the program for the concert?,True,1_RC_ambig_2
+979,979,He has performed the sonata the conductor was adding to the program for the gala.,Has he performed the sonata the conductor was adding to the program for the gala?,True,1_RC_ambig_2
+980,980,She has rehearsed the prelude the conductor was adding to the program for the concert.,Has she rehearsed the prelude the conductor was adding to the program for the concert?,True,1_RC_ambig_2
+981,981,She has rehearsed the prelude the conductor was adding to the program for the showcase.,Has she rehearsed the prelude the conductor was adding to the program for the showcase?,True,1_RC_ambig_2
+982,982,She has rehearsed the sonata the conductor was programming for the concert.,Has she rehearsed the sonata the conductor was programming for the concert?,True,1_RC_ambig_2
+983,983,She has performed the concerto the composer was adding to the program for the showcase.,Has she performed the concerto the composer was adding to the program for the showcase?,True,1_RC_ambig_2
+984,984,She has performed the concerto the composer was programming for the concert.,Has she performed the concerto the composer was programming for the concert?,True,1_RC_ambig_2
+985,985,She has learned the prelude the conductor was programming for the concert.,Has she learned the prelude the conductor was programming for the concert?,True,1_RC_ambig_2
+986,986,He has rehearsed the concerto the conductor was adding to the program for the showcase.,Has he rehearsed the concerto the conductor was adding to the program for the showcase?,True,1_RC_ambig_2
+987,987,He has learned the prelude the conductor was adding to the program for the showcase.,Has he learned the prelude the conductor was adding to the program for the showcase?,True,1_RC_ambig_2
+988,988,He has performed the concerto the composer was adding to the program for the showcase.,Has he performed the concerto the composer was adding to the program for the showcase?,True,1_RC_ambig_2
+989,989,He has rehearsed the sonata the composer was adding to the program for the showcase.,Has he rehearsed the sonata the composer was adding to the program for the showcase?,True,1_RC_ambig_2
+990,990,He has learned the sonata the conductor was programming for the showcase.,Has he learned the sonata the conductor was programming for the showcase?,True,1_RC_ambig_2
+991,991,He has learned the prelude the director was adding to the program for the concert.,Has he learned the prelude the director was adding to the program for the concert?,True,1_RC_ambig_2
+992,992,She has learned the sonata the conductor was adding to the program for the concert.,Has she learned the sonata the conductor was adding to the program for the concert?,True,1_RC_ambig_2
+993,993,He has rehearsed the sonata the conductor was adding to the program for the showcase.,Has he rehearsed the sonata the conductor was adding to the program for the showcase?,True,1_RC_ambig_2
+994,994,She has rehearsed the concerto the conductor was programming for the concert.,Has she rehearsed the concerto the conductor was programming for the concert?,True,1_RC_ambig_2
+995,995,She has rehearsed the prelude the director was programming for the gala.,Has she rehearsed the prelude the director was programming for the gala?,True,1_RC_ambig_2
+996,996,He has performed the sonata the composer was programming for the concert.,Has he performed the sonata the composer was programming for the concert?,True,1_RC_ambig_2
+997,997,She has performed the sonata the composer was adding to the program for the showcase.,Has she performed the sonata the composer was adding to the program for the showcase?,True,1_RC_ambig_2
+998,998,He has rehearsed the sonata the conductor was adding to the program for the concert.,Has he rehearsed the sonata the conductor was adding to the program for the concert?,True,1_RC_ambig_2
+999,999,He has learned the prelude the conductor was programming for the showcase.,Has he learned the prelude the conductor was programming for the showcase?,True,1_RC_ambig_2
